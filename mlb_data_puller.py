@@ -125,7 +125,10 @@ def fetch_batter_xba(team_ids: set) -> dict:
             print(f"    ERROR fetching roster for team {team_id}: {e}")
             continue
 
-        for player in roster.roster:
+        # API returns either an object with .roster or a plain list
+        players = roster.roster if hasattr(roster, "roster") else roster
+
+        for player in players:
             if player.position.abbreviation == "P":
                 continue
 
@@ -219,7 +222,10 @@ def fetch_team_pitching_xbaa(team_ids: set) -> tuple[dict, dict]:
         bullpen_num = 0.0
         bullpen_den = 0
 
-        for player in roster.roster:
+        # API returns either an object with .roster or a plain list
+        players = roster.roster if hasattr(roster, "roster") else roster
+
+        for player in players:
             if player.position.abbreviation != "P":
                 continue
 
