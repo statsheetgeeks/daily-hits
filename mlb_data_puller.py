@@ -128,6 +128,16 @@ def fetch_batter_xba(team_ids: set) -> dict:
         # API returns either an object with .roster or a plain list
         players = roster.roster if hasattr(roster, "roster") else roster
 
+        # --- DIAGNOSTIC: print first player's fields then move on ---
+        for player in players:
+            try:
+                print(f"    DIAGNOSTIC player dump: {player.model_dump(exclude_none=True)}")
+            except Exception:
+                print(f"    DIAGNOSTIC player attrs: {[a for a in dir(player) if not a.startswith('_')]}")
+            break
+        continue
+        # --- END DIAGNOSTIC (remove the two lines above once fields confirmed) ---
+
         for player in players:
             pos = getattr(player, "position", None)
             pos_abbrev = getattr(pos, "abbreviation", None)
