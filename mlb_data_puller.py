@@ -128,24 +128,14 @@ def fetch_batter_xba(team_ids: set) -> dict:
         # API returns either an object with .roster or a plain list
         players = roster.roster if hasattr(roster, "roster") else roster
 
-        # --- DIAGNOSTIC: print first player's fields then move on ---
         for player in players:
-            try:
-                print(f"    DIAGNOSTIC player dump: {player.model_dump(exclude_none=True)}")
-            except Exception:
-                print(f"    DIAGNOSTIC player attrs: {[a for a in dir(player) if not a.startswith('_')]}")
-            break
-        continue
-        # --- END DIAGNOSTIC (remove the two lines above once fields confirmed) ---
-
-        for player in players:
-            pos = getattr(player, "position", None)
+            pos = getattr(player, "primary_position", None)
             pos_abbrev = getattr(pos, "abbreviation", None)
             if pos_abbrev == "P":
                 continue
 
-            pid = player.person.id
-            name = getattr(player.person, "full_name", str(pid))
+            pid = player.id
+            name = getattr(player, "full_name", str(pid))
 
             try:
                 stats = mlb.get_player_stats(
@@ -238,13 +228,13 @@ def fetch_team_pitching_xbaa(team_ids: set) -> tuple[dict, dict]:
         players = roster.roster if hasattr(roster, "roster") else roster
 
         for player in players:
-            pos = getattr(player, "position", None)
+            pos = getattr(player, "primary_position", None)
             pos_abbrev = getattr(pos, "abbreviation", None)
             if pos_abbrev != "P":
                 continue
 
-            pid = player.person.id
-            name = getattr(player.person, "full_name", str(pid))
+            pid = player.id
+            name = getattr(player, "full_name", str(pid))
 
             try:
                 # Step 1: season stats to get games_started and batters_faced
@@ -302,8 +292,8 @@ def fetch_team_pitching_xbaa(team_ids: set) -> tuple[dict, dict]:
 
         bp_val = team_bullpen[str(team_id)]
         ov_val = team_overall[str(team_id)]
-        print(f"    Team {team_id} — overall xBAA: {ov_val:.3f if ov_val else 'N/A'}, "
-              f"bullpen xBAA: {bp_val:.3f if bp_val else 'N/A'}")
+        print(f"    Team {team_id} — overall xBAA: {f'{ov_val:.3f}' if ov_val is not None else 'N/A'}, "
+              f"bullpen xBAA: {f'{bp_val:.3f}' if bp_val is not None else 'N/A'}")
 
     return team_overall, team_bullpen
 
