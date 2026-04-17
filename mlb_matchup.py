@@ -313,7 +313,22 @@ def run():
     if cache_date != today:
         print(f"WARNING: Cache is from {cache_date}, not today ({today}).")
 
+    # --- DIAGNOSTIC ---
+    print(f"  Games in cache: {len(cache.get('games', []))}")
+    print(f"  Batters in cache: {len(cache.get('batter_xba', {}))}")
+    tgp = cache.get("team_games_played", {})
+    print(f"  Teams with games played: {len(tgp)}")
+    sample_tid = next(iter(tgp), None)
+    if sample_tid:
+        print(f"  Sample team_games_played entry: {sample_tid} → {tgp[sample_tid]}")
+    bmap = cache.get("batter_xba", {})
+    sample_pid = next(iter(bmap), None)
+    if sample_pid:
+        print(f"  Sample batter entry: {bmap[sample_pid]}")
+    # --- END DIAGNOSTIC ---
+
     matchups = compute_matchups(cache)
+    print(f"  Matchups computed: {len(matchups)}")
 
     # Compute hit probability and AB breakdown for each batter
     for m in matchups:
