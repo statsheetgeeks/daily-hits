@@ -129,7 +129,9 @@ def fetch_batter_xba(team_ids: set) -> dict:
         players = roster.roster if hasattr(roster, "roster") else roster
 
         for player in players:
-            if player.position.abbreviation == "P":
+            pos = getattr(player, "position", None)
+            pos_abbrev = getattr(pos, "abbreviation", None)
+            if pos_abbrev == "P":
                 continue
 
             pid = player.person.id
@@ -226,7 +228,9 @@ def fetch_team_pitching_xbaa(team_ids: set) -> tuple[dict, dict]:
         players = roster.roster if hasattr(roster, "roster") else roster
 
         for player in players:
-            if player.position.abbreviation != "P":
+            pos = getattr(player, "position", None)
+            pos_abbrev = getattr(pos, "abbreviation", None)
+            if pos_abbrev != "P":
                 continue
 
             pid = player.person.id
