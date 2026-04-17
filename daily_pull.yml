@@ -1,0 +1,46 @@
+name: Daily MLB Data Pull
+
+on:
+  schedule:
+    # 9:00 AM Central Time.
+    # CDT (Mar–Nov): UTC-5 → run at 14:00 UTC
+    # CST (Nov–Mar): UTC-6 → change this to 15:00 UTC in November
+    - cron: '0 14 * * *'
+
+  # Allow manual trigger from the Actions tab for testing
+  workflow_dispatch:
+
+jobs:
+  pull-and-publish:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit the updated CSV back to the repo
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install python-mlb-statsapi
+
+      - name: Run data puller
+        run: python mlb_data_puller.py
+
+      - name: Run matchup engine
+        run: python mlb_matchup.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mlb_cache.json batter_probabilities.csv
+          # Only commit if something actually changed
+          git diff --cached --quiet || git commit -m "Daily data refresh $(date -u '+%Y-%m-%d')"
+          git push
