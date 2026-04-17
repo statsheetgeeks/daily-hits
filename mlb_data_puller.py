@@ -70,7 +70,7 @@ def fetch_todays_games() -> list[dict]:
     print(f"  Fetching schedule for {today_str}...")
 
     try:
-        sched = mlb.get_schedule(date=today_str, sportId=1)
+        sched = mlb.get_schedule(date=today_str, sportId=1, hydrate="probablePitcher")
     except Exception as e:
         print(f"  ERROR fetching schedule: {e}")
         return []
@@ -93,13 +93,6 @@ def fetch_todays_games() -> list[dict]:
                 "away_sp_id": None,
                 "away_sp_name": None,
             }
-
-            # DIAGNOSTIC: dump first game's team structure to confirm attribute names
-            if not games:
-                try:
-                    print(f"    DIAGNOSTIC game.teams.home dump: {game.teams.home.model_dump(exclude_none=True)}")
-                except Exception:
-                    print(f"    DIAGNOSTIC game.teams.home attrs: {[a for a in dir(game.teams.home) if not a.startswith('_')]}")
 
             home_pp = getattr(game.teams.home, "probable_pitcher", None)
             if home_pp:
@@ -322,7 +315,8 @@ def fetch_team_games_played(team_ids: set) -> dict:
     for league_id in [103, 104]:
         try:
             standings = mlb.get_standings(league_id, season=SEASON)
-            for record in standings.records:
+            # get_standings returns a list of division records
+            for record in standings:
                 for team_record in record.team_records:
                     tid = str(team_record.team.id)
                     gp = (team_record.wins or 0) + (team_record.losses or 0)
