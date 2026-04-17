@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Top Hitters</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+  <style>
+    /* ── Variables ─────────────────────────────────────────── */
+    :root {
+      --bg:          #0b1a0b;
+      --panel:       #101e10;
+      --panel-edge:  #182818;
+      --gold:        #c9a84c;
+      --gold-dim:    #7a6230;
+      --cream:       #ede5cc;
+      --cream-dim:   #9a9180;
+      --green-hi:    #4caf6a;
+      --green-mid:   #2d7a46;
+      --green-lo:    #1a4a2a;
+      --rank-ghost:  #1a2e1a;
+      --border:      rgba(201,168,76,0.18);
+      --row-hover:   rgba(201,168,76,0.06);
+      --shadow:      0 4px 32px rgba(0,0,0,0.6);
+    }
+
+    /* ── Reset ─────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background-color: var(--bg);
+      background-image:
+        radial-gradient(ellipse 80% 50% at 50% -10%, rgba(76,175,106,0.08) 0%, transparent 70%),
+        url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.012'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      color: var(--cream);
+      font-family: 'Crimson Pro', Georgia, serif;
+      min-height: 100vh;
+      padding: 0 0 4rem;
+    }
+
+    /* ── Header ────────────────────────────────────────────── */
+    header {
+      text-align: center;
+      padding: 3.5rem 1rem 2rem;
+      position: relative;
+    }
+
+    header::after {
+      content: '';
+      display: block;
+      width: 120px;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin: 1.5rem auto 0;
+    }
+
+    .eyebrow {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.25em;
+      color: var(--gold);
+      text-transform: uppercase;
+      margin-bottom: 0.5rem;
+    }
+
+    h1 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(3rem, 10vw, 6rem);
+      letter-spacing: 0.06em;
+      line-height: 0.9;
+      color: var(--cream);
+      text-shadow: 0 0 60px rgba(201,168,76,0.2);
+    }
+
+    h1 span {
+      color: var(--gold);
+    }
+
+    .subtitle {
+      margin-top: 0.8rem;
+      font-size: 1rem;
+      color: var(--cream-dim);
+      font-style: italic;
+    }
+
+    /* ── Main container ─────────────────────────────────────── */
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 1.25rem;
+    }
+
+    /* ── Legend ─────────────────────────────────────────────── */
+    .legend {
+      display: flex;
+      gap: 2rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+      padding: 1rem 1.5rem;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      background: var(--panel);
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      color: var(--cream-dim);
+      letter-spacing: 0.04em;
+    }
+
+    .legend span { color: var(--cream); }
+
+    /* ── Table ──────────────────────────────────────────────── */
+    .board {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .board-header {
+      display: grid;
+      grid-template-columns: 3rem 1fr 1fr 1fr 9rem;
+      gap: 0;
+      padding: 0.6rem 1.25rem;
+      background: var(--panel-edge);
+      border-bottom: 1px solid var(--border);
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--gold-dim);
+    }
+
+    .board-header .col-prob { text-align: right; }
+
+    /* ── Rows ───────────────────────────────────────────────── */
+    .row {
+      display: grid;
+      grid-template-columns: 3rem 1fr 1fr 1fr 9rem;
+      align-items: center;
+      gap: 0;
+      padding: 0.85rem 1.25rem;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      transition: background 0.15s ease;
+      animation: fadeSlide 0.4s ease both;
+    }
+
+    .row:last-child { border-bottom: none; }
+    .row:hover { background: var(--row-hover); }
+
+    @keyframes fadeSlide {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* staggered entry */
+    .row:nth-child(1)  { animation-delay: 0.05s; }
+    .row:nth-child(2)  { animation-delay: 0.09s; }
+    .row:nth-child(3)  { animation-delay: 0.13s; }
+    .row:nth-child(4)  { animation-delay: 0.17s; }
+    .row:nth-child(5)  { animation-delay: 0.21s; }
+    .row:nth-child(6)  { animation-delay: 0.25s; }
+    .row:nth-child(7)  { animation-delay: 0.29s; }
+    .row:nth-child(8)  { animation-delay: 0.33s; }
+    .row:nth-child(9)  { animation-delay: 0.37s; }
+    .row:nth-child(10) { animation-delay: 0.41s; }
+    .row:nth-child(11) { animation-delay: 0.44s; }
+    .row:nth-child(12) { animation-delay: 0.47s; }
+    .row:nth-child(13) { animation-delay: 0.50s; }
+    .row:nth-child(14) { animation-delay: 0.53s; }
+    .row:nth-child(15) { animation-delay: 0.56s; }
+    .row:nth-child(16) { animation-delay: 0.59s; }
+    .row:nth-child(17) { animation-delay: 0.62s; }
+    .row:nth-child(18) { animation-delay: 0.65s; }
+    .row:nth-child(19) { animation-delay: 0.68s; }
+    .row:nth-child(20) { animation-delay: 0.71s; }
+
+    /* top-3 gold accent */
+    .row.top-3 { background: rgba(201,168,76,0.04); }
+    .row.top-3 .rank { color: var(--gold); }
+
+    /* ── Rank ───────────────────────────────────────────────── */
+    .rank {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem;
+      color: var(--rank-ghost);
+      line-height: 1;
+      transition: color 0.15s;
+    }
+
+    .row:hover .rank { color: var(--gold-dim); }
+
+    /* ── Batter ─────────────────────────────────────────────── */
+    .batter-name {
+      font-size: 1.08rem;
+      font-weight: 600;
+      color: var(--cream);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      padding-right: 0.5rem;
+    }
+
+    /* ── Teams ──────────────────────────────────────────────── */
+    .teams {
+      font-size: 0.82rem;
+      color: var(--cream-dim);
+      font-style: italic;
+      padding-right: 0.5rem;
+    }
+
+    .teams strong {
+      font-style: normal;
+      font-weight: 600;
+      color: var(--cream);
+    }
+
+    /* ── SP ─────────────────────────────────────────────────── */
+    .sp-name {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--cream-dim);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      padding-right: 0.5rem;
+    }
+
+    .sp-name.fallback {
+      color: var(--gold-dim);
+      font-style: italic;
+    }
+
+    /* ── Probability ────────────────────────────────────────── */
+    .prob-cell {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.3rem;
+    }
+
+    .prob-value {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.3rem;
+      line-height: 1;
+      letter-spacing: 0.04em;
+    }
+
+    .prob-bar-track {
+      width: 100%;
+      height: 3px;
+      background: var(--green-lo);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .prob-bar-fill {
+      height: 100%;
+      border-radius: 2px;
+      transition: width 0.6s cubic-bezier(0.16,1,0.3,1);
+    }
+
+    /* ── State: loading / error ─────────────────────────────── */
+    .state-msg {
+      text-align: center;
+      padding: 4rem 1rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--cream-dim);
+      letter-spacing: 0.06em;
+    }
+
+    .state-msg .spinner {
+      display: inline-block;
+      width: 1rem;
+      height: 1rem;
+      border: 2px solid var(--border);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-right: 0.6rem;
+      vertical-align: middle;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ─────────────────────────────────────────────── */
+    footer {
+      text-align: center;
+      margin-top: 2.5rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      color: var(--gold-dim);
+      letter-spacing: 0.08em;
+    }
+
+    /* ── Responsive ─────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      .board-header,
+      .row {
+        grid-template-columns: 2.2rem 1fr 7rem;
+      }
+
+      .board-header .col-teams,
+      .board-header .col-sp,
+      .teams,
+      .sp-name { display: none; }
+
+      h1 { font-size: 2.8rem; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <p class="eyebrow">Statcast xBA · Log5 Matchup Model</p>
+    <h1>Daily Top <span>Hitters</span></h1>
+    <p class="subtitle" id="date-line">Loading…</p>
+  </header>
+
+  <main>
+
+    <div class="legend">
+      <div>Probability = P(≥1 hit today)</div>
+      <div>First 2 ABs vs <span>Starting Pitcher xBAA</span></div>
+      <div>Remaining ABs vs <span>Bullpen xBAA</span></div>
+      <div>League avg xBA: <span>0.248</span></div>
+    </div>
+
+    <div class="board" id="board">
+      <div class="state-msg">
+        <span class="spinner"></span> Loading today's data…
+      </div>
+    </div>
+
+  </main>
+
+  <footer id="footer"></footer>
+
+  <script>
+    const CSV_PATH   = './batter_probabilities.csv';
+    const TOP_N      = 20;
+
+    /* ── colour scale for probability bars ──────────────────── */
+    function probColor(p) {
+      // p: 0–1  →  green-lo through green-hi
+      if (p >= 0.70) return '#4caf6a';
+      if (p >= 0.55) return '#2d7a46';
+      if (p >= 0.40) return '#1e6035';
+      return '#c9a84c';
+    }
+
+    /* ── render ─────────────────────────────────────────────── */
+    function render(rows) {
+      const board = document.getElementById('board');
+
+      if (!rows.length) {
+        board.innerHTML = '<div class="state-msg">No data available for today.</div>';
+        return;
+      }
+
+      /* Sort by hit_probability descending, take top 20 */
+      rows.sort((a, b) => parseFloat(b.hit_probability) - parseFloat(a.hit_probability));
+      const top = rows.slice(0, TOP_N);
+
+      /* Date line */
+      const dateRaw = rows[0]?.date || '';
+      const dateLabel = dateRaw
+        ? new Date(dateRaw + 'T12:00:00').toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' })
+        : new Date().toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+      document.getElementById('date-line').textContent = dateLabel;
+
+      /* Header */
+      let html = `
+        <div class="board-header">
+          <div>#</div>
+          <div>Batter</div>
+          <div class="col-teams">Matchup</div>
+          <div class="col-sp">Opposing Starter</div>
+          <div class="col-prob">Hit Prob</div>
+        </div>`;
+
+      /* Rows */
+      top.forEach((r, i) => {
+        const rank      = i + 1;
+        const prob      = parseFloat(r.hit_probability);
+        const probPct   = (prob * 100).toFixed(1) + '%';
+        const barWidth  = Math.min(prob / 0.80 * 100, 100).toFixed(1); // scale: 80% = full bar
+        const barColor  = probColor(prob);
+        const isTop3    = rank <= 3 ? 'top-3' : '';
+
+        const spRaw     = (r.opposing_sp_name || '').trim();
+        const spDisplay = spRaw || 'TBD';
+        const spClass   = spRaw ? 'sp-name' : 'sp-name fallback';
+
+        /* "Batting Team vs Opposing Team" */
+        const matchup = `<strong>${r.batting_team}</strong> vs ${r.opposing_team}`;
+
+        html += `
+          <div class="row ${isTop3}">
+            <div class="rank">${rank}</div>
+            <div class="batter-name">${r.name}</div>
+            <div class="teams">${matchup}</div>
+            <div class="${spClass}">${spDisplay}</div>
+            <div class="prob-cell">
+              <div class="prob-value" style="color:${barColor}">${probPct}</div>
+              <div class="prob-bar-track">
+                <div class="prob-bar-fill" style="width:${barWidth}%;background:${barColor}"></div>
+              </div>
+            </div>
+          </div>`;
+      });
+
+      board.innerHTML = html;
+
+      /* Footer */
+      document.getElementById('footer').textContent =
+        `Data refreshed daily at 9 AM CT · ${top.length} of ${rows.length} qualified batters shown`;
+    }
+
+    /* ── fetch & parse CSV ──────────────────────────────────── */
+    Papa.parse(CSV_PATH, {
+      download: true,
+      header: true,
+      skipEmptyLines: true,
+      complete({ data, errors }) {
+        if (errors.length) {
+          document.getElementById('board').innerHTML =
+            `<div class="state-msg">Error reading data: ${errors[0].message}</div>`;
+          return;
+        }
+        render(data);
+      },
+      error(err) {
+        document.getElementById('board').innerHTML =
+          `<div class="state-msg">Could not load batter_probabilities.csv.<br>
+           Ensure the data pull has run today.</div>`;
+      }
+    });
+  </script>
+
+</body>
+</html>
