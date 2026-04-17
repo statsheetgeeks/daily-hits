@@ -1,0 +1,2174 @@
+{
+  "date": "2026-04-17",
+  "season": 2026,
+  "games": [
+    {
+      "game_pk": 824693,
+      "home_team_id": 112,
+      "home_team_name": "Chicago Cubs",
+      "away_team_id": 121,
+      "away_team_name": "New York Mets",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824454,
+      "home_team_id": 114,
+      "home_team_name": "Cleveland Guardians",
+      "away_team_id": 110,
+      "away_team_name": "Baltimore Orioles",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823476,
+      "home_team_id": 143,
+      "home_team_name": "Philadelphia Phillies",
+      "away_team_id": 144,
+      "away_team_name": "Atlanta Braves",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 822752,
+      "home_team_id": 120,
+      "home_team_name": "Washington Nationals",
+      "away_team_id": 137,
+      "away_team_name": "San Francisco Giants",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823397,
+      "home_team_id": 134,
+      "home_team_name": "Pittsburgh Pirates",
+      "away_team_id": 139,
+      "away_team_name": "Tampa Bay Rays",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823559,
+      "home_team_id": 147,
+      "home_team_name": "New York Yankees",
+      "away_team_id": 118,
+      "away_team_name": "Kansas City Royals",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823883,
+      "home_team_id": 146,
+      "home_team_name": "Miami Marlins",
+      "away_team_id": 158,
+      "away_team_name": "Milwaukee Brewers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824778,
+      "home_team_id": 111,
+      "home_team_name": "Boston Red Sox",
+      "away_team_id": 116,
+      "away_team_name": "Detroit Tigers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824207,
+      "home_team_id": 117,
+      "home_team_name": "Houston Astros",
+      "away_team_id": 138,
+      "away_team_name": "St. Louis Cardinals",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823720,
+      "home_team_id": 142,
+      "home_team_name": "Minnesota Twins",
+      "away_team_id": 113,
+      "away_team_name": "Cincinnati Reds",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824373,
+      "home_team_id": 115,
+      "home_team_name": "Colorado Rockies",
+      "away_team_id": 119,
+      "away_team_name": "Los Angeles Dodgers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824048,
+      "home_team_id": 108,
+      "home_team_name": "Los Angeles Angels",
+      "away_team_id": 135,
+      "away_team_name": "San Diego Padres",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823152,
+      "home_team_id": 136,
+      "home_team_name": "Seattle Mariners",
+      "away_team_id": 140,
+      "away_team_name": "Texas Rangers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 825101,
+      "home_team_id": 109,
+      "home_team_name": "Arizona Diamondbacks",
+      "away_team_id": 141,
+      "away_team_name": "Toronto Blue Jays",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 825019,
+      "home_team_id": 133,
+      "home_team_name": "Athletics",
+      "away_team_id": 145,
+      "away_team_name": "Chicago White Sox",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    }
+  ],
+  "batter_xba": {
+    "628451": {
+      "name": "Andy Ib\u00e1\u00f1ez",
+      "team_id": 133,
+      "xba": 0.191
+    },
+    "642851": {
+      "name": "Austin Wynns",
+      "team_id": 133,
+      "xba": 0.298
+    },
+    "666126": {
+      "name": "Carlos Cortes",
+      "team_id": 133,
+      "xba": 0.32
+    },
+    "687231": {
+      "name": "Darell Hernaiz",
+      "team_id": 133,
+      "xba": 0.201
+    },
+    "672016": {
+      "name": "Denzel Clarke",
+      "team_id": 133,
+      "xba": 0.171
+    },
+    "805779": {
+      "name": "Jacob Wilson",
+      "team_id": 133,
+      "xba": 0.274
+    },
+    "643446": {
+      "name": "Jeff McNeil",
+      "team_id": 133,
+      "xba": 0.285
+    },
+    "671732": {
+      "name": "Lawrence Butler",
+      "team_id": 133,
+      "xba": 0.263
+    },
+    "691777": {
+      "name": "Max Muncy",
+      "team_id": 133,
+      "xba": 0.26
+    },
+    "701762": {
+      "name": "Nick Kurtz",
+      "team_id": 133,
+      "xba": 0.218
+    },
+    "669127": {
+      "name": "Shea Langeliers",
+      "team_id": 133,
+      "xba": 0.27
+    },
+    "691016": {
+      "name": "Tyler Soderstrom",
+      "team_id": 133,
+      "xba": 0.231
+    },
+    "680869": {
+      "name": "Zack Gelof",
+      "team_id": 133,
+      "xba": 0.0
+    },
+    "695257": {
+      "name": "Billy Cook",
+      "team_id": 134,
+      "xba": 0.176
+    },
+    "664040": {
+      "name": "Brandon Lowe",
+      "team_id": 134,
+      "xba": 0.245
+    },
+    "668804": {
+      "name": "Bryan Reynolds",
+      "team_id": 134,
+      "xba": 0.271
+    },
+    "680779": {
+      "name": "Henry Davis",
+      "team_id": 134,
+      "xba": 0.179
+    },
+    "663968": {
+      "name": "Jake Mangum",
+      "team_id": 134,
+      "xba": 0.264
+    },
+    "663698": {
+      "name": "Joey Bart",
+      "team_id": 134,
+      "xba": 0.094
+    },
+    "804606": {
+      "name": "Konnor Griffin",
+      "team_id": 134,
+      "xba": 0.201
+    },
+    "542303": {
+      "name": "Marcell Ozuna",
+      "team_id": 134,
+      "xba": 0.205
+    },
+    "693304": {
+      "name": "Nick Gonzales",
+      "team_id": 134,
+      "xba": 0.272
+    },
+    "694377": {
+      "name": "Nick Yorke",
+      "team_id": 134,
+      "xba": 0.277
+    },
+    "665833": {
+      "name": "Oneil Cruz",
+      "team_id": 134,
+      "xba": 0.29
+    },
+    "656811": {
+      "name": "Ryan O'Hearn",
+      "team_id": 134,
+      "xba": 0.324
+    },
+    "687462": {
+      "name": "Spencer Horwitz",
+      "team_id": 134,
+      "xba": 0.161
+    },
+    "669369": {
+      "name": "Bryce Johnson",
+      "team_id": 135,
+      "xba": 0.055
+    },
+    "665487": {
+      "name": "Fernando Tatis Jr.",
+      "team_id": 135,
+      "xba": 0.29
+    },
+    "666023": {
+      "name": "Freddy Fermin",
+      "team_id": 135,
+      "xba": 0.193
+    },
+    "657757": {
+      "name": "Gavin Sheets",
+      "team_id": 135,
+      "xba": 0.257
+    },
+    "701538": {
+      "name": "Jackson Merrill",
+      "team_id": 135,
+      "xba": 0.267
+    },
+    "630105": {
+      "name": "Jake Cronenworth",
+      "team_id": 135,
+      "xba": 0.238
+    },
+    "669134": {
+      "name": "Luis Campusano",
+      "team_id": 135,
+      "xba": 0.264
+    },
+    "592518": {
+      "name": "Manny Machado",
+      "team_id": 135,
+      "xba": 0.24
+    },
+    "609280": {
+      "name": "Miguel Andujar",
+      "team_id": 135,
+      "xba": 0.281
+    },
+    "592206": {
+      "name": "Nick Castellanos",
+      "team_id": 135,
+      "xba": 0.298
+    },
+    "657656": {
+      "name": "Ram\u00f3n Laureano",
+      "team_id": 135,
+      "xba": 0.31
+    },
+    "664034": {
+      "name": "Ty France",
+      "team_id": 135,
+      "xba": 0.306
+    },
+    "593428": {
+      "name": "Xander Bogaerts",
+      "team_id": 135,
+      "xba": 0.316
+    },
+    "680977": {
+      "name": "Brendan Donovan",
+      "team_id": 136,
+      "xba": 0.245
+    },
+    "663728": {
+      "name": "Cal Raleigh",
+      "team_id": 136,
+      "xba": 0.204
+    },
+    "702284": {
+      "name": "Cole Young",
+      "team_id": 136,
+      "xba": 0.222
+    },
+    "656582": {
+      "name": "Connor Joe",
+      "team_id": 136,
+      "xba": 0.233
+    },
+    "686527": {
+      "name": "Dominic Canzone",
+      "team_id": 136,
+      "xba": 0.272
+    },
+    "641487": {
+      "name": "J.P. Crawford",
+      "team_id": 136,
+      "xba": 0.223
+    },
+    "647304": {
+      "name": "Josh Naylor",
+      "team_id": 136,
+      "xba": 0.226
+    },
+    "677594": {
+      "name": "Julio Rodr\u00edguez",
+      "team_id": 136,
+      "xba": 0.217
+    },
+    "660844": {
+      "name": "Leo Rivas",
+      "team_id": 136,
+      "xba": 0.133
+    },
+    "670042": {
+      "name": "Luke Raley",
+      "team_id": 136,
+      "xba": 0.331
+    },
+    "641598": {
+      "name": "Mitch Garver",
+      "team_id": 136,
+      "xba": 0.173
+    },
+    "668227": {
+      "name": "Randy Arozarena",
+      "team_id": 136,
+      "xba": 0.294
+    },
+    "669477": {
+      "name": "Casey Schmitt",
+      "team_id": 137,
+      "xba": 0.252
+    },
+    "683766": {
+      "name": "Christian Koss",
+      "team_id": 137,
+      "xba": 0.155
+    },
+    "691740": {
+      "name": "Daniel Susac",
+      "team_id": 137,
+      "xba": 0.419
+    },
+    "687551": {
+      "name": "Drew Gilbert",
+      "team_id": 137,
+      "xba": 0.059
+    },
+    "671218": {
+      "name": "Heliot Ramos",
+      "team_id": 137,
+      "xba": 0.211
+    },
+    "666464": {
+      "name": "Jerar Encarnacion",
+      "team_id": 137,
+      "xba": 0.19
+    },
+    "808982": {
+      "name": "Jung Hoo Lee",
+      "team_id": 137,
+      "xba": 0.271
+    },
+    "650333": {
+      "name": "Luis Arraez",
+      "team_id": 137,
+      "xba": 0.273
+    },
+    "656305": {
+      "name": "Matt Chapman",
+      "team_id": 137,
+      "xba": 0.261
+    },
+    "672275": {
+      "name": "Patrick Bailey",
+      "team_id": 137,
+      "xba": 0.228
+    },
+    "646240": {
+      "name": "Rafael Devers",
+      "team_id": 137,
+      "xba": 0.225
+    },
+    "686823": {
+      "name": "Will Brennan",
+      "team_id": 137,
+      "xba": 0.086
+    },
+    "642715": {
+      "name": "Willy Adames",
+      "team_id": 137,
+      "xba": 0.232
+    },
+    "676475": {
+      "name": "Alec Burleson",
+      "team_id": 138,
+      "xba": 0.294
+    },
+    "671056": {
+      "name": "Iv\u00e1n Herrera",
+      "team_id": 138,
+      "xba": 0.286
+    },
+    "802139": {
+      "name": "JJ Wetherholt",
+      "team_id": 138,
+      "xba": 0.221
+    },
+    "691023": {
+      "name": "Jordan Walker",
+      "team_id": 138,
+      "xba": 0.311
+    },
+    "665877": {
+      "name": "Jos\u00e9 Ferm\u00edn",
+      "team_id": 138,
+      "xba": 0.147
+    },
+    "691026": {
+      "name": "Masyn Winn",
+      "team_id": 138,
+      "xba": 0.236
+    },
+    "701675": {
+      "name": "Nathan Church",
+      "team_id": 138,
+      "xba": 0.188
+    },
+    "669357": {
+      "name": "Nolan Gorman",
+      "team_id": 138,
+      "xba": 0.172
+    },
+    "686780": {
+      "name": "Pedro Pag\u00e9s",
+      "team_id": 138,
+      "xba": 0.232
+    },
+    "602104": {
+      "name": "Ram\u00f3n Ur\u00edas",
+      "team_id": 138,
+      "xba": 0.233
+    },
+    "695336": {
+      "name": "Thomas Saggese",
+      "team_id": 138,
+      "xba": 0.175
+    },
+    "687363": {
+      "name": "Victor Scott II",
+      "team_id": 138,
+      "xba": 0.253
+    },
+    "650968": {
+      "name": "Yohel Pozo",
+      "team_id": 138,
+      "xba": 0.251
+    },
+    "810938": {
+      "name": "Ben Williamson",
+      "team_id": 139,
+      "xba": 0.237
+    },
+    "656775": {
+      "name": "Cedric Mullins",
+      "team_id": 139,
+      "xba": 0.165
+    },
+    "802415": {
+      "name": "Chandler Simpson",
+      "team_id": 139,
+      "xba": 0.292
+    },
+    "676439": {
+      "name": "Hunter Feduccia",
+      "team_id": 139,
+      "xba": 0.189
+    },
+    "641584": {
+      "name": "Jake Fraley",
+      "team_id": 139,
+      "xba": 0.201
+    },
+    "666018": {
+      "name": "Jonathan Aranda",
+      "team_id": 139,
+      "xba": 0.255
+    },
+    "676356": {
+      "name": "Jonny DeLuca",
+      "team_id": 139,
+      "xba": 0.295
+    },
+    "691406": {
+      "name": "Junior Caminero",
+      "team_id": 139,
+      "xba": 0.251
+    },
+    "663743": {
+      "name": "Nick Fortes",
+      "team_id": 139,
+      "xba": 0.303
+    },
+    "680700": {
+      "name": "Richie Palacios",
+      "team_id": 139,
+      "xba": 0.296
+    },
+    "668723": {
+      "name": "Ryan Vilade",
+      "team_id": 139,
+      "xba": 0.237
+    },
+    "670764": {
+      "name": "Taylor Walls",
+      "team_id": 139,
+      "xba": 0.223
+    },
+    "650490": {
+      "name": "Yandy D\u00edaz",
+      "team_id": 139,
+      "xba": 0.298
+    },
+    "457705": {
+      "name": "Andrew McCutchen",
+      "team_id": 140,
+      "xba": 0.197
+    },
+    "607043": {
+      "name": "Brandon Nimmo",
+      "team_id": 140,
+      "xba": 0.274
+    },
+    "608369": {
+      "name": "Corey Seager",
+      "team_id": 140,
+      "xba": 0.222
+    },
+    "643376": {
+      "name": "Danny Jansen",
+      "team_id": 140,
+      "xba": 0.191
+    },
+    "694497": {
+      "name": "Evan Carter",
+      "team_id": 140,
+      "xba": 0.245
+    },
+    "677649": {
+      "name": "Ezequiel Duran",
+      "team_id": 140,
+      "xba": 0.243
+    },
+    "669394": {
+      "name": "Jake Burger",
+      "team_id": 140,
+      "xba": 0.251
+    },
+    "592626": {
+      "name": "Joc Pederson",
+      "team_id": 140,
+      "xba": 0.16
+    },
+    "673962": {
+      "name": "Josh Jung",
+      "team_id": 140,
+      "xba": 0.306
+    },
+    "669701": {
+      "name": "Josh Smith",
+      "team_id": 140,
+      "xba": 0.223
+    },
+    "543309": {
+      "name": "Kyle Higashioka",
+      "team_id": 140,
+      "xba": 0.252
+    },
+    "664059": {
+      "name": "Sam Haggerty",
+      "team_id": 140,
+      "xba": 0.179
+    },
+    "694671": {
+      "name": "Wyatt Langford",
+      "team_id": 140,
+      "xba": 0.221
+    },
+    "665926": {
+      "name": "Andr\u00e9s Gim\u00e9nez",
+      "team_id": 141,
+      "xba": 0.255
+    },
+    "678218": {
+      "name": "Brandon Valenzuela",
+      "team_id": 141,
+      "xba": 0.184
+    },
+    "662139": {
+      "name": "Daulton Varsho",
+      "team_id": 141,
+      "xba": 0.275
+    },
+    "676914": {
+      "name": "Davis Schneider",
+      "team_id": 141,
+      "xba": 0.21
+    },
+    "650391": {
+      "name": "Eloy Jim\u00e9nez",
+      "team_id": 141,
+      "xba": 0.25
+    },
+    "676391": {
+      "name": "Ernie Clement",
+      "team_id": 141,
+      "xba": 0.296
+    },
+    "660821": {
+      "name": "Jes\u00fas S\u00e1nchez",
+      "team_id": 141,
+      "xba": 0.297
+    },
+    "672960": {
+      "name": "Kazuma Okamoto",
+      "team_id": 141,
+      "xba": 0.211
+    },
+    "672820": {
+      "name": "Lenyn Sosa",
+      "team_id": 141,
+      "xba": 0.278
+    },
+    "664702": {
+      "name": "Myles Straw",
+      "team_id": 141,
+      "xba": 0.411
+    },
+    "664770": {
+      "name": "Nathan Lukes",
+      "team_id": 141,
+      "xba": 0.198
+    },
+    "623168": {
+      "name": "Tyler Heineman",
+      "team_id": 141,
+      "xba": 0.265
+    },
+    "665489": {
+      "name": "Vladimir Guerrero Jr.",
+      "team_id": 141,
+      "xba": 0.308
+    },
+    "668885": {
+      "name": "Austin Martin",
+      "team_id": 142,
+      "xba": 0.254
+    },
+    "686797": {
+      "name": "Brooks Lee",
+      "team_id": 142,
+      "xba": 0.185
+    },
+    "621439": {
+      "name": "Byron Buxton",
+      "team_id": 142,
+      "xba": 0.223
+    },
+    "681546": {
+      "name": "James Outman",
+      "team_id": 142,
+      "xba": 0.041
+    },
+    "605137": {
+      "name": "Josh Bell",
+      "team_id": 142,
+      "xba": 0.251
+    },
+    "665019": {
+      "name": "Kody Clemens",
+      "team_id": 142,
+      "xba": 0.189
+    },
+    "807712": {
+      "name": "Luke Keaschall",
+      "team_id": 142,
+      "xba": 0.234
+    },
+    "670242": {
+      "name": "Matt Wallner",
+      "team_id": 142,
+      "xba": 0.201
+    },
+    "680777": {
+      "name": "Ryan Jeffers",
+      "team_id": 142,
+      "xba": 0.264
+    },
+    "668952": {
+      "name": "Ryan Kreidler",
+      "team_id": 142,
+      "xba": 0.295
+    },
+    "663616": {
+      "name": "Trevor Larnach",
+      "team_id": 142,
+      "xba": 0.286
+    },
+    "656484": {
+      "name": "Tristan Gray",
+      "team_id": 142,
+      "xba": 0.234
+    },
+    "605170": {
+      "name": "Victor Caratini",
+      "team_id": 142,
+      "xba": 0.324
+    },
+    "666969": {
+      "name": "Adolis Garc\u00eda",
+      "team_id": 143,
+      "xba": 0.245
+    },
+    "664761": {
+      "name": "Alec Bohm",
+      "team_id": 143,
+      "xba": 0.226
+    },
+    "669016": {
+      "name": "Brandon Marsh",
+      "team_id": 143,
+      "xba": 0.303
+    },
+    "547180": {
+      "name": "Bryce Harper",
+      "team_id": 143,
+      "xba": 0.282
+    },
+    "681082": {
+      "name": "Bryson Stott",
+      "team_id": 143,
+      "xba": 0.266
+    },
+    "664238": {
+      "name": "Dylan Moore",
+      "team_id": 143,
+      "xba": 0.033
+    },
+    "624641": {
+      "name": "Edmundo Sosa",
+      "team_id": 143,
+      "xba": 0.294
+    },
+    "592663": {
+      "name": "J.T. Realmuto",
+      "team_id": 143,
+      "xba": 0.26
+    },
+    "702222": {
+      "name": "Justin Crawford",
+      "team_id": 143,
+      "xba": 0.224
+    },
+    "656941": {
+      "name": "Kyle Schwarber",
+      "team_id": 143,
+      "xba": 0.219
+    },
+    "805249": {
+      "name": "Otto Kemp",
+      "team_id": 143,
+      "xba": 0.186
+    },
+    "665561": {
+      "name": "Rafael March\u00e1n",
+      "team_id": 143,
+      "xba": 0.082
+    },
+    "607208": {
+      "name": "Trea Turner",
+      "team_id": 143,
+      "xba": 0.236
+    },
+    "663586": {
+      "name": "Austin Riley",
+      "team_id": 144,
+      "xba": 0.243
+    },
+    "642086": {
+      "name": "Dominic Smith",
+      "team_id": 144,
+      "xba": 0.366
+    },
+    "686948": {
+      "name": "Drake Baldwin",
+      "team_id": 144,
+      "xba": 0.295
+    },
+    "642201": {
+      "name": "Eli White",
+      "team_id": 144,
+      "xba": 0.182
+    },
+    "641680": {
+      "name": "Jonah Heim",
+      "team_id": 144,
+      "xba": 0.136
+    },
+    "622761": {
+      "name": "Jorge Mateo",
+      "team_id": 144,
+      "xba": 0.322
+    },
+    "571657": {
+      "name": "Kyle Farmer",
+      "team_id": 144,
+      "xba": 0.422
+    },
+    "621566": {
+      "name": "Matt Olson",
+      "team_id": 144,
+      "xba": 0.247
+    },
+    "643289": {
+      "name": "Mauricio Dub\u00f3n",
+      "team_id": 144,
+      "xba": 0.285
+    },
+    "671739": {
+      "name": "Michael Harris II",
+      "team_id": 144,
+      "xba": 0.272
+    },
+    "573262": {
+      "name": "Mike Yastrzemski",
+      "team_id": 144,
+      "xba": 0.202
+    },
+    "645277": {
+      "name": "Ozzie Albies",
+      "team_id": 144,
+      "xba": 0.233
+    },
+    "660670": {
+      "name": "Ronald Acu\u00f1a Jr.",
+      "team_id": 144,
+      "xba": 0.279
+    },
+    "643217": {
+      "name": "Andrew Benintendi",
+      "team_id": 145,
+      "xba": 0.22
+    },
+    "805367": {
+      "name": "Chase Meidroth",
+      "team_id": 145,
+      "xba": 0.212
+    },
+    "695657": {
+      "name": "Colson Montgomery",
+      "team_id": 145,
+      "xba": 0.163
+    },
+    "656537": {
+      "name": "Derek Hill",
+      "team_id": 145,
+      "xba": 0.279
+    },
+    "700337": {
+      "name": "Edgar Quero",
+      "team_id": 145,
+      "xba": 0.187
+    },
+    "677592": {
+      "name": "Everson Pereira",
+      "team_id": 145,
+      "xba": 0.297
+    },
+    "682668": {
+      "name": "Luisangel Acu\u00f1a",
+      "team_id": 145,
+      "xba": 0.225
+    },
+    "678246": {
+      "name": "Miguel Vargas",
+      "team_id": 145,
+      "xba": 0.223
+    },
+    "808959": {
+      "name": "Munetaka Murakami",
+      "team_id": 145,
+      "xba": 0.207
+    },
+    "624512": {
+      "name": "Reese McGuire",
+      "team_id": 145,
+      "xba": 0.179
+    },
+    "803011": {
+      "name": "Sam Antonacci",
+      "team_id": 145,
+      "xba": 0.396
+    },
+    "695020": {
+      "name": "Tanner Murray",
+      "team_id": 145,
+      "xba": 0.188
+    },
+    "671976": {
+      "name": "Tristan Peters",
+      "team_id": 145,
+      "xba": 0.19
+    },
+    "682663": {
+      "name": "Agust\u00edn Ram\u00edrez",
+      "team_id": 146,
+      "xba": 0.225
+    },
+    "596103": {
+      "name": "Austin Slater",
+      "team_id": 146,
+      "xba": 0.175
+    },
+    "681393": {
+      "name": "Connor Norby",
+      "team_id": 146,
+      "xba": 0.204
+    },
+    "691277": {
+      "name": "Deyvison De Los Santos",
+      "team_id": 146,
+      "xba": 0.201
+    },
+    "688363": {
+      "name": "Graham Pauley",
+      "team_id": 146,
+      "xba": 0.113
+    },
+    "681715": {
+      "name": "Heriberto Hern\u00e1ndez",
+      "team_id": 146,
+      "xba": 0.199
+    },
+    "805300": {
+      "name": "Jakob Marsee",
+      "team_id": 146,
+      "xba": 0.185
+    },
+    "691594": {
+      "name": "Javier Sanoja",
+      "team_id": 146,
+      "xba": 0.265
+    },
+    "677870": {
+      "name": "Leo Jim\u00e9nez",
+      "team_id": 146,
+      "xba": 0.28
+    },
+    "689414": {
+      "name": "Liam Hicks",
+      "team_id": 146,
+      "xba": 0.309
+    },
+    "672640": {
+      "name": "Otto Lopez",
+      "team_id": 146,
+      "xba": 0.3
+    },
+    "683357": {
+      "name": "Owen Caissie",
+      "team_id": 146,
+      "xba": 0.231
+    },
+    "669364": {
+      "name": "Xavier Edwards",
+      "team_id": 146,
+      "xba": 0.287
+    },
+    "592450": {
+      "name": "Aaron Judge",
+      "team_id": 147,
+      "xba": 0.273
+    },
+    "642708": {
+      "name": "Amed Rosario",
+      "team_id": 147,
+      "xba": 0.296
+    },
+    "669224": {
+      "name": "Austin Wells",
+      "team_id": 147,
+      "xba": 0.246
+    },
+    "700250": {
+      "name": "Ben Rice",
+      "team_id": 147,
+      "xba": 0.289
+    },
+    "641355": {
+      "name": "Cody Bellinger",
+      "team_id": 147,
+      "xba": 0.226
+    },
+    "519317": {
+      "name": "Giancarlo Stanton",
+      "team_id": 147,
+      "xba": 0.259
+    },
+    "641555": {
+      "name": "J.C. Escarra",
+      "team_id": 147,
+      "xba": 0.142
+    },
+    "665862": {
+      "name": "Jazz Chisholm Jr.",
+      "team_id": 147,
+      "xba": 0.156
+    },
+    "676609": {
+      "name": "Jos\u00e9 Caballero",
+      "team_id": 147,
+      "xba": 0.216
+    },
+    "502671": {
+      "name": "Paul Goldschmidt",
+      "team_id": 147,
+      "xba": 0.238
+    },
+    "545341": {
+      "name": "Randal Grichuk",
+      "team_id": 147,
+      "xba": 0.216
+    },
+    "641857": {
+      "name": "Ryan McMahon",
+      "team_id": 147,
+      "xba": 0.171
+    },
+    "663757": {
+      "name": "Trent Grisham",
+      "team_id": 147,
+      "xba": 0.231
+    },
+    "663368": {
+      "name": "Blake Perkins",
+      "team_id": 158,
+      "xba": 0.154
+    },
+    "663604": {
+      "name": "Brandon Lockridge",
+      "team_id": 158,
+      "xba": 0.204
+    },
+    "668930": {
+      "name": "Brice Turang",
+      "team_id": 158,
+      "xba": 0.253
+    },
+    "666152": {
+      "name": "David Hamilton",
+      "team_id": 158,
+      "xba": 0.182
+    },
+    "669003": {
+      "name": "Garrett Mitchell",
+      "team_id": 158,
+      "xba": 0.241
+    },
+    "596142": {
+      "name": "Gary S\u00e1nchez",
+      "team_id": 158,
+      "xba": 0.262
+    },
+    "675659": {
+      "name": "Greg Jones",
+      "team_id": 158,
+      "xba": 0.479
+    },
+    "641343": {
+      "name": "Jake Bauers",
+      "team_id": 158,
+      "xba": 0.261
+    },
+    "687401": {
+      "name": "Joey Ortiz",
+      "team_id": 158,
+      "xba": 0.202
+    },
+    "682641": {
+      "name": "Luis Matos",
+      "team_id": 158,
+      "xba": 0.116
+    },
+    "650859": {
+      "name": "Luis Rengifo",
+      "team_id": 158,
+      "xba": 0.218
+    },
+    "686217": {
+      "name": "Sal Frelick",
+      "team_id": 158,
+      "xba": 0.209
+    },
+    "661388": {
+      "name": "William Contreras",
+      "team_id": 158,
+      "xba": 0.29
+    },
+    "624428": {
+      "name": "Adam Frazier",
+      "team_id": 108,
+      "xba": 0.193
+    },
+    "669326": {
+      "name": "Bryce Teodosio",
+      "team_id": 108,
+      "xba": 0.115
+    },
+    "666176": {
+      "name": "Jo Adell",
+      "team_id": 108,
+      "xba": 0.283
+    },
+    "666139": {
+      "name": "Josh Lowe",
+      "team_id": 108,
+      "xba": 0.134
+    },
+    "681351": {
+      "name": "Logan O'Hoppe",
+      "team_id": 108,
+      "xba": 0.193
+    },
+    "545361": {
+      "name": "Mike Trout",
+      "team_id": 108,
+      "xba": 0.293
+    },
+    "694384": {
+      "name": "Nolan Schanuel",
+      "team_id": 108,
+      "xba": 0.258
+    },
+    "672724": {
+      "name": "Oswald Peraza",
+      "team_id": 108,
+      "xba": 0.273
+    },
+    "518595": {
+      "name": "Travis d'Arnaud",
+      "team_id": 108,
+      "xba": 0.152
+    },
+    "687093": {
+      "name": "Vaughn Grissom",
+      "team_id": 108,
+      "xba": 0.28
+    },
+    "660162": {
+      "name": "Yo\u00e1n Moncada",
+      "team_id": 108,
+      "xba": 0.139
+    },
+    "687263": {
+      "name": "Zach Neto",
+      "team_id": 108,
+      "xba": 0.202
+    },
+    "680728": {
+      "name": "Adrian Del Castillo",
+      "team_id": 109,
+      "xba": 0.261
+    },
+    "677950": {
+      "name": "Alek Thomas",
+      "team_id": 109,
+      "xba": 0.208
+    },
+    "682998": {
+      "name": "Corbin Carroll",
+      "team_id": 109,
+      "xba": 0.295
+    },
+    "672695": {
+      "name": "Geraldo Perdomo",
+      "team_id": 109,
+      "xba": 0.209
+    },
+    "545121": {
+      "name": "Ildemaro Vargas",
+      "team_id": 109,
+      "xba": 0.373
+    },
+    "543510": {
+      "name": "James McCann",
+      "team_id": 109,
+      "xba": 0.176
+    },
+    "678489": {
+      "name": "Jorge Barrosa",
+      "team_id": 109,
+      "xba": 0.189
+    },
+    "699912": {
+      "name": "Jose Fernandez",
+      "team_id": 109,
+      "xba": 0.25
+    },
+    "606466": {
+      "name": "Ketel Marte",
+      "team_id": 109,
+      "xba": 0.287
+    },
+    "663609": {
+      "name": "Luken Baker",
+      "team_id": 109,
+      "xba": 0.132
+    },
+    "571448": {
+      "name": "Nolan Arenado",
+      "team_id": 109,
+      "xba": 0.217
+    },
+    "694374": {
+      "name": "Tim Tawa",
+      "team_id": 109,
+      "xba": 0.198
+    },
+    "677942": {
+      "name": "Blaze Alexander",
+      "team_id": 110,
+      "xba": 0.333
+    },
+    "691723": {
+      "name": "Coby Mayo",
+      "team_id": 110,
+      "xba": 0.221
+    },
+    "681297": {
+      "name": "Colton Cowser",
+      "team_id": 110,
+      "xba": 0.197
+    },
+    "687637": {
+      "name": "Dylan Beavers",
+      "team_id": 110,
+      "xba": 0.234
+    },
+    "683002": {
+      "name": "Gunnar Henderson",
+      "team_id": 110,
+      "xba": 0.233
+    },
+    "669236": {
+      "name": "Jeremiah Jackson",
+      "team_id": 110,
+      "xba": 0.271
+    },
+    "671286": {
+      "name": "Johnathan Rodr\u00edguez",
+      "team_id": 110,
+      "xba": 0.139
+    },
+    "665750": {
+      "name": "Leody Taveras",
+      "team_id": 110,
+      "xba": 0.265
+    },
+    "624413": {
+      "name": "Pete Alonso",
+      "team_id": 110,
+      "xba": 0.213
+    },
+    "669087": {
+      "name": "Sam Huff",
+      "team_id": 110,
+      "xba": 0.17
+    },
+    "694212": {
+      "name": "Samuel Basallo",
+      "team_id": 110,
+      "xba": 0.191
+    },
+    "621493": {
+      "name": "Taylor Ward",
+      "team_id": 110,
+      "xba": 0.279
+    },
+    "642215": {
+      "name": "Weston Wilson",
+      "team_id": 110,
+      "xba": 0.326
+    },
+    "655316": {
+      "name": "Andruw Monasterio",
+      "team_id": 111,
+      "xba": 0.248
+    },
+    "702332": {
+      "name": "Caleb Durbin",
+      "team_id": 111,
+      "xba": 0.2
+    },
+    "665966": {
+      "name": "Carlos Narv\u00e1ez",
+      "team_id": 111,
+      "xba": 0.23
+    },
+    "678882": {
+      "name": "Ceddanne Rafaela",
+      "team_id": 111,
+      "xba": 0.26
+    },
+    "657136": {
+      "name": "Connor Wong",
+      "team_id": 111,
+      "xba": 0.249
+    },
+    "643396": {
+      "name": "Isiah Kiner-Falefa",
+      "team_id": 111,
+      "xba": 0.158
+    },
+    "680776": {
+      "name": "Jarren Duran",
+      "team_id": 111,
+      "xba": 0.211
+    },
+    "691785": {
+      "name": "Marcelo Mayer",
+      "team_id": 111,
+      "xba": 0.185
+    },
+    "807799": {
+      "name": "Masataka Yoshida",
+      "team_id": 111,
+      "xba": 0.23
+    },
+    "701350": {
+      "name": "Roman Anthony",
+      "team_id": 111,
+      "xba": 0.267
+    },
+    "596115": {
+      "name": "Trevor Story",
+      "team_id": 111,
+      "xba": 0.236
+    },
+    "575929": {
+      "name": "Willson Contreras",
+      "team_id": 111,
+      "xba": 0.263
+    },
+    "677800": {
+      "name": "Wilyer Abreu",
+      "team_id": 111,
+      "xba": 0.288
+    },
+    "608324": {
+      "name": "Alex Bregman",
+      "team_id": 112,
+      "xba": 0.235
+    },
+    "608348": {
+      "name": "Carson Kelly",
+      "team_id": 112,
+      "xba": 0.322
+    },
+    "621020": {
+      "name": "Dansby Swanson",
+      "team_id": 112,
+      "xba": 0.222
+    },
+    "664023": {
+      "name": "Ian Happ",
+      "team_id": 112,
+      "xba": 0.206
+    },
+    "807713": {
+      "name": "Matt Shaw",
+      "team_id": 112,
+      "xba": 0.293
+    },
+    "683737": {
+      "name": "Michael Busch",
+      "team_id": 112,
+      "xba": 0.173
+    },
+    "624424": {
+      "name": "Michael Conforto",
+      "team_id": 112,
+      "xba": 0.278
+    },
+    "665804": {
+      "name": "Miguel Amaya",
+      "team_id": 112,
+      "xba": 0.218
+    },
+    "694208": {
+      "name": "Mois\u00e9s Ballesteros",
+      "team_id": 112,
+      "xba": 0.272
+    },
+    "663538": {
+      "name": "Nico Hoerner",
+      "team_id": 112,
+      "xba": 0.306
+    },
+    "691718": {
+      "name": "Pete Crow-Armstrong",
+      "team_id": 112,
+      "xba": 0.208
+    },
+    "664068": {
+      "name": "Scott Kingery",
+      "team_id": 112,
+      "xba": 0.033
+    },
+    "673548": {
+      "name": "Seiya Suzuki",
+      "team_id": 112,
+      "xba": 0.227
+    },
+    "667472": {
+      "name": "Dane Myers",
+      "team_id": 113,
+      "xba": 0.344
+    },
+    "682829": {
+      "name": "Elly De La Cruz",
+      "team_id": 113,
+      "xba": 0.259
+    },
+    "553993": {
+      "name": "Eugenio Su\u00e1rez",
+      "team_id": 113,
+      "xba": 0.198
+    },
+    "663647": {
+      "name": "Ke'Bryan Hayes",
+      "team_id": 113,
+      "xba": 0.236
+    },
+    "680574": {
+      "name": "Matt McLain",
+      "team_id": 113,
+      "xba": 0.217
+    },
+    "663993": {
+      "name": "Nathaniel Lowe",
+      "team_id": 113,
+      "xba": 0.255
+    },
+    "664731": {
+      "name": "P.J. Higgins",
+      "team_id": 113,
+      "xba": 0.322
+    },
+    "677956": {
+      "name": "Rece Hinds",
+      "team_id": 113,
+      "xba": 0.046
+    },
+    "701398": {
+      "name": "Sal Stewart",
+      "team_id": 113,
+      "xba": 0.286
+    },
+    "668715": {
+      "name": "Spencer Steer",
+      "team_id": 113,
+      "xba": 0.201
+    },
+    "670770": {
+      "name": "TJ Friedl",
+      "team_id": 113,
+      "xba": 0.163
+    },
+    "663886": {
+      "name": "Tyler Stephenson",
+      "team_id": 113,
+      "xba": 0.226
+    },
+    "666181": {
+      "name": "Will Benson",
+      "team_id": 113,
+      "xba": 0.14
+    },
+    "682657": {
+      "name": "Angel Mart\u00ednez",
+      "team_id": 114,
+      "xba": 0.29
+    },
+    "595978": {
+      "name": "Austin Hedges",
+      "team_id": 114,
+      "xba": 0.277
+    },
+    "666310": {
+      "name": "Bo Naylor",
+      "team_id": 114,
+      "xba": 0.254
+    },
+    "677587": {
+      "name": "Brayan Rocchio",
+      "team_id": 114,
+      "xba": 0.236
+    },
+    "800050": {
+      "name": "Chase DeLauter",
+      "team_id": 114,
+      "xba": 0.285
+    },
+    "682177": {
+      "name": "Daniel Schneemann",
+      "team_id": 114,
+      "xba": 0.272
+    },
+    "681807": {
+      "name": "David Fry",
+      "team_id": 114,
+      "xba": 0.19
+    },
+    "671655": {
+      "name": "George Valera",
+      "team_id": 114,
+      "xba": 0.288
+    },
+    "608070": {
+      "name": "Jos\u00e9 Ram\u00edrez",
+      "team_id": 114,
+      "xba": 0.288
+    },
+    "682877": {
+      "name": "Juan Brito",
+      "team_id": 114,
+      "xba": 0.235
+    },
+    "700932": {
+      "name": "Kyle Manzardo",
+      "team_id": 114,
+      "xba": 0.234
+    },
+    "656555": {
+      "name": "Rhys Hoskins",
+      "team_id": 114,
+      "xba": 0.18
+    },
+    "680757": {
+      "name": "Steven Kwan",
+      "team_id": 114,
+      "xba": 0.258
+    },
+    "686668": {
+      "name": "Brenton Doyle",
+      "team_id": 115,
+      "xba": 0.208
+    },
+    "664954": {
+      "name": "Brett Sullivan",
+      "team_id": 115,
+      "xba": 0.236
+    },
+    "666397": {
+      "name": "Edouard Julien",
+      "team_id": 115,
+      "xba": 0.275
+    },
+    "678662": {
+      "name": "Ezequiel Tovar",
+      "team_id": 115,
+      "xba": 0.282
+    },
+    "696100": {
+      "name": "Hunter Goodman",
+      "team_id": 115,
+      "xba": 0.21
+    },
+    "664983": {
+      "name": "Jake McCarthy",
+      "team_id": 115,
+      "xba": 0.219
+    },
+    "687597": {
+      "name": "Jordan Beck",
+      "team_id": 115,
+      "xba": 0.207
+    },
+    "691720": {
+      "name": "Kyle Karros",
+      "team_id": 115,
+      "xba": 0.257
+    },
+    "666160": {
+      "name": "Mickey Moniak",
+      "team_id": 115,
+      "xba": 0.231
+    },
+    "681198": {
+      "name": "TJ Rumfield",
+      "team_id": 115,
+      "xba": 0.277
+    },
+    "687859": {
+      "name": "Troy Johnston",
+      "team_id": 115,
+      "xba": 0.255
+    },
+    "671289": {
+      "name": "Tyler Freeman",
+      "team_id": 115,
+      "xba": 0.319
+    },
+    "650489": {
+      "name": "Willi Castro",
+      "team_id": 115,
+      "xba": 0.194
+    },
+    "690993": {
+      "name": "Colt Keith",
+      "team_id": 116,
+      "xba": 0.288
+    },
+    "693307": {
+      "name": "Dillon Dingler",
+      "team_id": 116,
+      "xba": 0.338
+    },
+    "650402": {
+      "name": "Gleyber Torres",
+      "team_id": 116,
+      "xba": 0.256
+    },
+    "663330": {
+      "name": "Jahmai Jones",
+      "team_id": 116,
+      "xba": 0.231
+    },
+    "668670": {
+      "name": "Jake Rogers",
+      "team_id": 116,
+      "xba": 0.094
+    },
+    "595879": {
+      "name": "Javier B\u00e1ez",
+      "team_id": 116,
+      "xba": 0.283
+    },
+    "681481": {
+      "name": "Kerry Carpenter",
+      "team_id": 116,
+      "xba": 0.168
+    },
+    "805808": {
+      "name": "Kevin McGonigle",
+      "team_id": 116,
+      "xba": 0.304
+    },
+    "663837": {
+      "name": "Matt Vierling",
+      "team_id": 116,
+      "xba": 0.209
+    },
+    "682985": {
+      "name": "Riley Greene",
+      "team_id": 116,
+      "xba": 0.277
+    },
+    "679529": {
+      "name": "Spencer Torkelson",
+      "team_id": 116,
+      "xba": 0.24
+    },
+    "672761": {
+      "name": "Wenceel P\u00e9rez",
+      "team_id": 116,
+      "xba": 0.304
+    },
+    "656716": {
+      "name": "Zach McKinstry",
+      "team_id": 116,
+      "xba": 0.209
+    },
+    "694728": {
+      "name": "Brice Matthews",
+      "team_id": 117,
+      "xba": 0.132
+    },
+    "701358": {
+      "name": "Cam Smith",
+      "team_id": 117,
+      "xba": 0.298
+    },
+    "621043": {
+      "name": "Carlos Correa",
+      "team_id": 117,
+      "xba": 0.301
+    },
+    "543877": {
+      "name": "Christian V\u00e1zquez",
+      "team_id": 117,
+      "xba": 0.265
+    },
+    "572233": {
+      "name": "Christian Walker",
+      "team_id": 117,
+      "xba": 0.271
+    },
+    "670623": {
+      "name": "Isaac Paredes",
+      "team_id": 117,
+      "xba": 0.2
+    },
+    "694388": {
+      "name": "Joey Loperfido",
+      "team_id": 117,
+      "xba": 0.234
+    },
+    "514888": {
+      "name": "Jose Altuve",
+      "team_id": 117,
+      "xba": 0.269
+    },
+    "669397": {
+      "name": "Nick Allen",
+      "team_id": 117,
+      "xba": 0.235
+    },
+    "694376": {
+      "name": "Shay Whitcomb",
+      "team_id": 117,
+      "xba": 0.0
+    },
+    "666211": {
+      "name": "Taylor Trammell",
+      "team_id": 117,
+      "xba": 0.197
+    },
+    "673237": {
+      "name": "Yainer Diaz",
+      "team_id": 117,
+      "xba": 0.208
+    },
+    "670541": {
+      "name": "Yordan Alvarez",
+      "team_id": 117,
+      "xba": 0.355
+    },
+    "677951": {
+      "name": "Bobby Witt Jr.",
+      "team_id": 118,
+      "xba": 0.295
+    },
+    "695600": {
+      "name": "Carter Jensen",
+      "team_id": 118,
+      "xba": 0.204
+    },
+    "686555": {
+      "name": "Isaac Collins",
+      "team_id": 118,
+      "xba": 0.167
+    },
+    "695506": {
+      "name": "Jac Caglianone",
+      "team_id": 118,
+      "xba": 0.272
+    },
+    "663697": {
+      "name": "Jonathan India",
+      "team_id": 118,
+      "xba": 0.18
+    },
+    "664728": {
+      "name": "Kyle Isbel",
+      "team_id": 118,
+      "xba": 0.264
+    },
+    "657041": {
+      "name": "Lane Thomas",
+      "team_id": 118,
+      "xba": 0.213
+    },
+    "672580": {
+      "name": "Maikel Garcia",
+      "team_id": 118,
+      "xba": 0.294
+    },
+    "686681": {
+      "name": "Michael Massey",
+      "team_id": 118,
+      "xba": 0.247
+    },
+    "521692": {
+      "name": "Salvador Perez",
+      "team_id": 118,
+      "xba": 0.199
+    },
+    "516782": {
+      "name": "Starling Marte",
+      "team_id": 118,
+      "xba": 0.186
+    },
+    "686475": {
+      "name": "Tyler Tolbert",
+      "team_id": 118,
+      "xba": 0.196
+    },
+    "686469": {
+      "name": "Vinnie Pasquantino",
+      "team_id": 118,
+      "xba": 0.216
+    },
+    "669743": {
+      "name": "Alex Call",
+      "team_id": 119,
+      "xba": 0.41
+    },
+    "690976": {
+      "name": "Alex Freeland",
+      "team_id": 119,
+      "xba": 0.216
+    },
+    "681624": {
+      "name": "Andy Pages",
+      "team_id": 119,
+      "xba": 0.31
+    },
+    "687221": {
+      "name": "Dalton Rushing",
+      "team_id": 119,
+      "xba": 0.428
+    },
+    "518692": {
+      "name": "Freddie Freeman",
+      "team_id": 119,
+      "xba": 0.329
+    },
+    "808975": {
+      "name": "Hyeseong Kim",
+      "team_id": 119,
+      "xba": 0.179
+    },
+    "663656": {
+      "name": "Kyle Tucker",
+      "team_id": 119,
+      "xba": 0.222
+    },
+    "571970": {
+      "name": "Max Muncy",
+      "team_id": 119,
+      "xba": 0.263
+    },
+    "500743": {
+      "name": "Miguel Rojas",
+      "team_id": 119,
+      "xba": 0.31
+    },
+    "669289": {
+      "name": "Santiago Espinal",
+      "team_id": 119,
+      "xba": 0.264
+    },
+    "660271": {
+      "name": "Shohei Ohtani",
+      "team_id": 119,
+      "xba": 0.253
+    },
+    "606192": {
+      "name": "Teoscar Hern\u00e1ndez",
+      "team_id": 119,
+      "xba": 0.273
+    },
+    "669257": {
+      "name": "Will Smith",
+      "team_id": 119,
+      "xba": 0.28
+    },
+    "691781": {
+      "name": "Brady House",
+      "team_id": 120,
+      "xba": 0.219
+    },
+    "682928": {
+      "name": "CJ Abrams",
+      "team_id": 120,
+      "xba": 0.332
+    },
+    "678554": {
+      "name": "Curtis Mead",
+      "team_id": 120,
+      "xba": 0.268
+    },
+    "695734": {
+      "name": "Daylen Lile",
+      "team_id": 120,
+      "xba": 0.304
+    },
+    "686452": {
+      "name": "Drew Millas",
+      "team_id": 120,
+      "xba": 0.229
+    },
+    "696285": {
+      "name": "Jacob Young",
+      "team_id": 120,
+      "xba": 0.302
+    },
+    "695578": {
+      "name": "James Wood",
+      "team_id": 120,
+      "xba": 0.268
+    },
+    "686894": {
+      "name": "Joey Wiemer",
+      "team_id": 120,
+      "xba": 0.236
+    },
+    "678391": {
+      "name": "Jorbit Vivas",
+      "team_id": 120,
+      "xba": 0.254
+    },
+    "677588": {
+      "name": "Jos\u00e9 Tena",
+      "team_id": 120,
+      "xba": 0.205
+    },
+    "660688": {
+      "name": "Keibert Ruiz",
+      "team_id": 120,
+      "xba": 0.183
+    },
+    "671277": {
+      "name": "Luis Garc\u00eda Jr.",
+      "team_id": 120,
+      "xba": 0.248
+    },
+    "683083": {
+      "name": "Nasim Nu\u00f1ez",
+      "team_id": 120,
+      "xba": 0.222
+    },
+    "666182": {
+      "name": "Bo Bichette",
+      "team_id": 121,
+      "xba": 0.282
+    },
+    "683146": {
+      "name": "Brett Baty",
+      "team_id": 121,
+      "xba": 0.206
+    },
+    "701807": {
+      "name": "Carson Benge",
+      "team_id": 121,
+      "xba": 0.209
+    },
+    "682626": {
+      "name": "Francisco Alvarez",
+      "team_id": 121,
+      "xba": 0.3
+    },
+    "596019": {
+      "name": "Francisco Lindor",
+      "team_id": 121,
+      "xba": 0.247
+    },
+    "593871": {
+      "name": "Jorge Polanco",
+      "team_id": 121,
+      "xba": 0.219
+    },
+    "673357": {
+      "name": "Luis Robert Jr.",
+      "team_id": 121,
+      "xba": 0.249
+    },
+    "620443": {
+      "name": "Luis Torrens",
+      "team_id": 121,
+      "xba": 0.313
+    },
+    "669004": {
+      "name": "MJ Melendez",
+      "team_id": 121,
+      "xba": 0.239
+    },
+    "543760": {
+      "name": "Marcus Semien",
+      "team_id": 121,
+      "xba": 0.216
+    },
+    "668901": {
+      "name": "Mark Vientos",
+      "team_id": 121,
+      "xba": 0.233
+    },
+    "502054": {
+      "name": "Tommy Pham",
+      "team_id": 121,
+      "xba": 0.188
+    },
+    "621438": {
+      "name": "Tyrone Taylor",
+      "team_id": 121,
+      "xba": 0.239
+    }
+  },
+  "sp_xbaa": {},
+  "team_overall_xbaa": {
+    "133": 0.22642477876106193,
+    "134": 0.22765352112676057,
+    "135": 0.23663192182410422,
+    "136": 0.2351487252124646,
+    "137": 0.24456748911465892,
+    "138": 0.28684148148148153,
+    "139": 0.2694925124792013,
+    "140": 0.22045280000000003,
+    "141": 0.22345799011532122,
+    "142": 0.2470985507246377,
+    "143": 0.24136952998379257,
+    "144": 0.22048451730418944,
+    "145": 0.25888052373158754,
+    "146": 0.22302560455192036,
+    "147": 0.23911940298507464,
+    "158": 0.23444670846394983,
+    "108": 0.2235473372781065,
+    "109": 0.24395331325301203,
+    "110": 0.23545575959933224,
+    "111": 0.259176,
+    "112": 0.2337696737044146,
+    "113": 0.2433607954545454,
+    "114": 0.23024153166421207,
+    "115": 0.2672911184210526,
+    "116": 0.23617857142857146,
+    "117": 0.24490206185567012,
+    "118": 0.23969205298013246,
+    "119": 0.23742753623188406,
+    "120": 0.2608905775075988,
+    "121": 0.2469678899082569
+  },
+  "team_bullpen_xbaa": {
+    "133": 0.23987106017191975,
+    "134": 0.24541042345276876,
+    "135": 0.20848160535117055,
+    "136": 0.2510826446280992,
+    "137": 0.23099590163934425,
+    "138": 0.26087544483985764,
+    "139": 0.2909849397590361,
+    "140": 0.20658222222222222,
+    "141": 0.23129663608562692,
+    "142": 0.24569008264462813,
+    "143": 0.2141769230769231,
+    "144": 0.2358020304568528,
+    "145": 0.25417831325301204,
+    "146": 0.19934920634920633,
+    "147": 0.24952739726027395,
+    "158": 0.2541040462427746,
+    "108": 0.2178686868686869,
+    "109": 0.2170856031128405,
+    "110": 0.2173137254901961,
+    "111": 0.23179475982532752,
+    "112": 0.2481688741721854,
+    "113": 0.2050640569395018,
+    "114": 0.23063008130081294,
+    "115": 0.2513813131313131,
+    "116": 0.22162948207171318,
+    "117": 0.2365885167464115,
+    "118": 0.22110232558139536,
+    "119": 0.23010852713178293,
+    "120": 0.2653677811550152,
+    "121": 0.26728828828828827
+  },
+  "team_games_played": {}
+}
