@@ -20,6 +20,7 @@ Requirements:
 import json
 import os
 import time
+import statsapi
 import mlbstatsapi
 from datetime import date, datetime
 
@@ -70,39 +71,46 @@ def fetch_todays_games() -> list[dict]:
     print(f"  Fetching schedule for {today_str}...")
 
     try:
-        sched = mlb.get_schedule(date=today_str, sportId=1, hydrate="probablePitcher")
+        raw = statsapi.get("schedule", {
+            "date": today_str,
+            "sportId": 1,
+            "hydrate": "probablePitcher",
+            "gameType": "R",
+        })
     except Exception as e:
         print(f"  ERROR fetching schedule: {e}")
         return []
 
     games = []
-    for date_obj in sched.dates:
-        for game in date_obj.games:
-            # Only include regular season games
-            if game.game_type != "R":
+    for date_obj in raw.get("dates", []):
+        for game in date_obj.get("games", []):
+            if game.get("gameType") != "R":
                 continue
 
+            home = game["teams"]["home"]
+            away = game["teams"]["away"]
+
             info = {
-                "game_pk": game.game_pk,
-                "home_team_id": game.teams.home.team.id,
-                "home_team_name": game.teams.home.team.name,
-                "away_team_id": game.teams.away.team.id,
-                "away_team_name": game.teams.away.team.name,
-                "home_sp_id": None,
-                "home_sp_name": None,
-                "away_sp_id": None,
-                "away_sp_name": None,
+                "game_pk":        game["gamePk"],
+                "home_team_id":   home["team"]["id"],
+                "home_team_name": home["team"]["name"],
+                "away_team_id":   away["team"]["id"],
+                "away_team_name": away["team"]["name"],
+                "home_sp_id":     None,
+                "home_sp_name":   None,
+                "away_sp_id":     None,
+                "away_sp_name":   None,
             }
 
-            home_pp = getattr(game.teams.home, "probable_pitcher", None)
+            home_pp = home.get("probablePitcher")
             if home_pp:
-                info["home_sp_id"] = home_pp.id
-                info["home_sp_name"] = getattr(home_pp, "full_name", str(home_pp.id))
+                info["home_sp_id"]   = home_pp["id"]
+                info["home_sp_name"] = home_pp.get("fullName")
 
-            away_pp = getattr(game.teams.away, "probable_pitcher", None)
+            away_pp = away.get("probablePitcher")
             if away_pp:
-                info["away_sp_id"] = away_pp.id
-                info["away_sp_name"] = getattr(away_pp, "full_name", str(away_pp.id))
+                info["away_sp_id"]   = away_pp["id"]
+                info["away_sp_name"] = away_pp.get("fullName")
 
             games.append(info)
 
