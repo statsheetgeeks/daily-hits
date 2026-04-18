@@ -28,7 +28,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install python-mlb-statsapi
+        run: pip install python-mlb-statsapi MLB-StatsAPI
 
       - name: Run data puller
         run: python mlb_data_puller.py
