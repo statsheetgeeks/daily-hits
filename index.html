@@ -334,6 +334,26 @@
       <div>League avg xBA: <span>0.248</span></div>
     </div>
 
+    <div style="text-align:right; margin-bottom: 1rem;">
+      <button id="download-btn" onclick="downloadCSV()"
+        style="
+          font-family: 'DM Mono', monospace;
+          font-size: 0.72rem;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          background: transparent;
+          color: var(--gold);
+          border: 1px solid var(--gold-dim);
+          padding: 0.45rem 1rem;
+          border-radius: 3px;
+          cursor: pointer;
+          transition: background 0.15s, color 0.15s;
+        "
+        onmouseover="this.style.background='rgba(201,168,76,0.1)'"
+        onmouseout="this.style.background='transparent'"
+      >⬇ Download CSV</button>
+    </div>
+
     <div class="board" id="board">
       <div class="state-msg">
         <span class="spinner"></span> Loading today's data…
@@ -425,6 +445,43 @@
         `Data refreshed daily at 9 AM CT · ${top.length} of ${rows.length} qualified batters shown`;
     }
 
+    /* ── CSV download ───────────────────────────────────────── */
+    let loadedRows = [];
+
+    function downloadCSV() {
+      if (!loadedRows.length) return;
+
+      const cols = [
+        "name", "batting_team", "opposing_team", "opposing_sp_name",
+        "batter_xba", "sp_xbaa", "bullpen_xbaa",
+        "vs_sp_log5", "vs_bullpen_log5",
+        "games_played", "at_bats", "ab_per_game",
+        "sp_abs", "bp_abs", "hit_probability"
+      ];
+
+      const header = cols.join(",");
+      const rowsSorted = [...loadedRows]
+        .sort((a, b) => parseFloat(b.hit_probability) - parseFloat(a.hit_probability))
+        .slice(0, 20);
+
+      const body = rowsSorted.map(r =>
+        cols.map(c => {
+          const val = r[c] ?? "";
+          // Wrap in quotes if value contains a comma
+          return String(val).includes(",") ? `"${val}"` : val;
+        }).join(",")
+      ).join("\n");
+
+      const dateStr = (loadedRows[0]?.date || new Date().toISOString().slice(0, 10));
+      const blob = new Blob([header + "\n" + body], { type: "text/csv" });
+      const url  = URL.createObjectURL(blob);
+      const a    = document.createElement("a");
+      a.href     = url;
+      a.download = `top_hitters_${dateStr}.csv`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
     /* ── fetch & parse CSV ──────────────────────────────────── */
     Papa.parse(CSV_PATH, {
       download: true,
@@ -436,6 +493,7 @@
             `<div class="state-msg">Error reading data: ${errors[0].message}</div>`;
           return;
         }
+        loadedRows = data;
         render(data);
       },
       error(err) {
