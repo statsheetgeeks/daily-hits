@@ -136,28 +136,51 @@ def fetch_batter_xba(team_ids: set) -> dict:
 
             pid = player.id
             name = getattr(player, "full_name", str(pid))
+            entry = {"name": name, "team_id": team_id}
 
+            # --- xBA ---
             try:
-                stats = mlb.get_player_stats(
+                xba_stats = mlb.get_player_stats(
                     pid,
                     stats=["expectedStatistics"],
                     groups=["hitting"],
                     season=SEASON,
                 )
-                if "hitting" not in stats or "expectedStatistics" not in stats["hitting"]:
-                    continue
-                for split in stats["hitting"]["expectedStatistics"].splits:
-                    raw = getattr(split.stat, "avg", None)
-                    if raw is not None:
-                        batter_xba[str(pid)] = {
-                            "name": name,
-                            "team_id": team_id,
-                            "xba": float(raw),
-                        }
+                if "hitting" in xba_stats and "expectedStatistics" in xba_stats["hitting"]:
+                    for split in xba_stats["hitting"]["expectedStatistics"].splits:
+                        raw = getattr(split.stat, "avg", None)
+                        if raw is not None:
+                            try:
+                                entry["xba"] = float(raw)
+                            except (ValueError, TypeError):
+                                pass
             except Exception as e:
                 print(f"    ERROR fetching xBA for {name}: {e}")
 
             time.sleep(API_DELAY)
+
+            # --- Games played and at bats ---
+            try:
+                season_stats = mlb.get_player_stats(
+                    pid,
+                    stats=["season"],
+                    groups=["hitting"],
+                    season=SEASON,
+                )
+                if "hitting" in season_stats and "season" in season_stats["hitting"]:
+                    for split in season_stats["hitting"]["season"].splits:
+                        gp = getattr(split.stat, "games_played", None) or 0
+                        ab = getattr(split.stat, "at_bats", None) or 0
+                        entry["games_played"] = int(gp)
+                        entry["at_bats"] = int(ab)
+                        entry["ab_per_game"] = round(ab / gp, 3) if gp > 0 else 0.0
+            except Exception as e:
+                print(f"    ERROR fetching season stats for {name}: {e}")
+
+            time.sleep(API_DELAY)
+
+            if "xba" in entry:
+                batter_xba[str(pid)] = entry
 
     print(f"  Collected xBA for {len(batter_xba)} batter(s).")
     return batter_xba
