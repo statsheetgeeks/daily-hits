@@ -1,64 +1,9 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "season": 2026,
   "games": [
     {
-      "game_pk": 824693,
-      "home_team_id": 112,
-      "home_team_name": "Chicago Cubs",
-      "away_team_id": 121,
-      "away_team_name": "New York Mets",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 824454,
-      "home_team_id": 114,
-      "home_team_name": "Cleveland Guardians",
-      "away_team_id": 110,
-      "away_team_name": "Baltimore Orioles",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 823476,
-      "home_team_id": 143,
-      "home_team_name": "Philadelphia Phillies",
-      "away_team_id": 144,
-      "away_team_name": "Atlanta Braves",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 822752,
-      "home_team_id": 120,
-      "home_team_name": "Washington Nationals",
-      "away_team_id": 137,
-      "away_team_name": "San Francisco Giants",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 823397,
-      "home_team_id": 134,
-      "home_team_name": "Pittsburgh Pirates",
-      "away_team_id": 139,
-      "away_team_name": "Tampa Bay Rays",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 823559,
+      "game_pk": 823558,
       "home_team_id": 147,
       "home_team_name": "New York Yankees",
       "away_team_id": 118,
@@ -69,40 +14,7 @@
       "away_sp_name": null
     },
     {
-      "game_pk": 823883,
-      "home_team_id": 146,
-      "home_team_name": "Miami Marlins",
-      "away_team_id": 158,
-      "away_team_name": "Milwaukee Brewers",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 824778,
-      "home_team_id": 111,
-      "home_team_name": "Boston Red Sox",
-      "away_team_id": 116,
-      "away_team_name": "Detroit Tigers",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 824207,
-      "home_team_id": 117,
-      "home_team_name": "Houston Astros",
-      "away_team_id": 138,
-      "away_team_name": "St. Louis Cardinals",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
-    },
-    {
-      "game_pk": 823720,
+      "game_pk": 823721,
       "home_team_id": 142,
       "home_team_name": "Minnesota Twins",
       "away_team_id": 113,
@@ -113,29 +25,95 @@
       "away_sp_name": null
     },
     {
-      "game_pk": 824373,
-      "home_team_id": 115,
-      "home_team_name": "Colorado Rockies",
-      "away_team_id": 119,
-      "away_team_name": "Los Angeles Dodgers",
+      "game_pk": 824694,
+      "home_team_id": 112,
+      "home_team_name": "Chicago Cubs",
+      "away_team_id": 121,
+      "away_team_name": "New York Mets",
       "home_sp_id": null,
       "home_sp_name": null,
       "away_sp_id": null,
       "away_sp_name": null
     },
     {
-      "game_pk": 824048,
-      "home_team_id": 108,
-      "home_team_name": "Los Angeles Angels",
-      "away_team_id": 135,
-      "away_team_name": "San Diego Padres",
+      "game_pk": 822751,
+      "home_team_id": 120,
+      "home_team_name": "Washington Nationals",
+      "away_team_id": 137,
+      "away_team_name": "San Francisco Giants",
       "home_sp_id": null,
       "home_sp_name": null,
       "away_sp_id": null,
       "away_sp_name": null
     },
     {
-      "game_pk": 823152,
+      "game_pk": 823394,
+      "home_team_id": 134,
+      "home_team_name": "Pittsburgh Pirates",
+      "away_team_id": 139,
+      "away_team_name": "Tampa Bay Rays",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 825020,
+      "home_team_id": 133,
+      "home_team_name": "Athletics",
+      "away_team_id": 145,
+      "away_team_name": "Chicago White Sox",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824775,
+      "home_team_id": 111,
+      "home_team_name": "Boston Red Sox",
+      "away_team_id": 116,
+      "away_team_name": "Detroit Tigers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823882,
+      "home_team_id": 146,
+      "home_team_name": "Miami Marlins",
+      "away_team_id": 158,
+      "away_team_name": "Milwaukee Brewers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824451,
+      "home_team_id": 114,
+      "home_team_name": "Cleveland Guardians",
+      "away_team_id": 110,
+      "away_team_name": "Baltimore Orioles",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824206,
+      "home_team_id": 117,
+      "home_team_name": "Houston Astros",
+      "away_team_id": 138,
+      "away_team_name": "St. Louis Cardinals",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 823151,
       "home_team_id": 136,
       "home_team_name": "Seattle Mariners",
       "away_team_id": 140,
@@ -146,7 +124,29 @@
       "away_sp_name": null
     },
     {
-      "game_pk": 825101,
+      "game_pk": 823474,
+      "home_team_id": 143,
+      "home_team_name": "Philadelphia Phillies",
+      "away_team_id": 144,
+      "away_team_name": "Atlanta Braves",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 824372,
+      "home_team_id": 115,
+      "home_team_name": "Colorado Rockies",
+      "away_team_id": 119,
+      "away_team_name": "Los Angeles Dodgers",
+      "home_sp_id": null,
+      "home_sp_name": null,
+      "away_sp_id": null,
+      "away_sp_name": null
+    },
+    {
+      "game_pk": 825098,
       "home_team_id": 109,
       "home_team_name": "Arizona Diamondbacks",
       "away_team_id": 141,
@@ -157,11 +157,11 @@
       "away_sp_name": null
     },
     {
-      "game_pk": 825019,
-      "home_team_id": 133,
-      "home_team_name": "Athletics",
-      "away_team_id": 145,
-      "away_team_name": "Chicago White Sox",
+      "game_pk": 824049,
+      "home_team_id": 108,
+      "home_team_name": "Los Angeles Angels",
+      "away_team_id": 135,
+      "away_team_name": "San Diego Padres",
       "home_sp_id": null,
       "home_sp_name": null,
       "away_sp_id": null,
@@ -172,7 +172,7 @@
     "628451": {
       "name": "Andy Ib\u00e1\u00f1ez",
       "team_id": 133,
-      "xba": 0.191
+      "xba": 0.186
     },
     "642851": {
       "name": "Austin Wynns",
@@ -182,7 +182,7 @@
     "666126": {
       "name": "Carlos Cortes",
       "team_id": 133,
-      "xba": 0.32
+      "xba": 0.328
     },
     "687231": {
       "name": "Darell Hernaiz",
@@ -192,47 +192,47 @@
     "672016": {
       "name": "Denzel Clarke",
       "team_id": 133,
-      "xba": 0.171
+      "xba": 0.172
     },
     "805779": {
       "name": "Jacob Wilson",
       "team_id": 133,
-      "xba": 0.274
+      "xba": 0.267
     },
     "643446": {
       "name": "Jeff McNeil",
       "team_id": 133,
-      "xba": 0.285
+      "xba": 0.281
     },
     "671732": {
       "name": "Lawrence Butler",
       "team_id": 133,
-      "xba": 0.263
+      "xba": 0.264
     },
     "691777": {
       "name": "Max Muncy",
       "team_id": 133,
-      "xba": 0.26
+      "xba": 0.253
     },
     "701762": {
       "name": "Nick Kurtz",
       "team_id": 133,
-      "xba": 0.218
+      "xba": 0.229
     },
     "669127": {
       "name": "Shea Langeliers",
       "team_id": 133,
-      "xba": 0.27
+      "xba": 0.272
     },
     "691016": {
       "name": "Tyler Soderstrom",
       "team_id": 133,
-      "xba": 0.231
+      "xba": 0.219
     },
     "680869": {
       "name": "Zack Gelof",
       "team_id": 133,
-      "xba": 0.0
+      "xba": 0.075
     },
     "695257": {
       "name": "Billy Cook",
@@ -242,17 +242,17 @@
     "664040": {
       "name": "Brandon Lowe",
       "team_id": 134,
-      "xba": 0.245
+      "xba": 0.263
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team_id": 134,
-      "xba": 0.271
+      "xba": 0.26
     },
     "680779": {
       "name": "Henry Davis",
       "team_id": 134,
-      "xba": 0.179
+      "xba": 0.186
     },
     "663968": {
       "name": "Jake Mangum",
@@ -267,17 +267,17 @@
     "804606": {
       "name": "Konnor Griffin",
       "team_id": 134,
-      "xba": 0.201
+      "xba": 0.212
     },
     "542303": {
       "name": "Marcell Ozuna",
       "team_id": 134,
-      "xba": 0.205
+      "xba": 0.228
     },
     "693304": {
       "name": "Nick Gonzales",
       "team_id": 134,
-      "xba": 0.272
+      "xba": 0.27
     },
     "694377": {
       "name": "Nick Yorke",
@@ -287,27 +287,27 @@
     "665833": {
       "name": "Oneil Cruz",
       "team_id": 134,
-      "xba": 0.29
+      "xba": 0.285
     },
     "656811": {
       "name": "Ryan O'Hearn",
       "team_id": 134,
-      "xba": 0.324
+      "xba": 0.309
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team_id": 134,
-      "xba": 0.161
+      "xba": 0.193
     },
     "669369": {
       "name": "Bryce Johnson",
       "team_id": 135,
-      "xba": 0.055
+      "xba": 0.05
     },
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team_id": 135,
-      "xba": 0.29
+      "xba": 0.279
     },
     "666023": {
       "name": "Freddy Fermin",
@@ -317,27 +317,27 @@
     "657757": {
       "name": "Gavin Sheets",
       "team_id": 135,
-      "xba": 0.257
+      "xba": 0.253
     },
     "701538": {
       "name": "Jackson Merrill",
       "team_id": 135,
-      "xba": 0.267
+      "xba": 0.26
     },
     "630105": {
       "name": "Jake Cronenworth",
       "team_id": 135,
-      "xba": 0.238
+      "xba": 0.234
     },
     "669134": {
       "name": "Luis Campusano",
       "team_id": 135,
-      "xba": 0.264
+      "xba": 0.263
     },
     "592518": {
       "name": "Manny Machado",
       "team_id": 135,
-      "xba": 0.24
+      "xba": 0.235
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -347,7 +347,7 @@
     "592206": {
       "name": "Nick Castellanos",
       "team_id": 135,
-      "xba": 0.298
+      "xba": 0.27
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -357,12 +357,12 @@
     "664034": {
       "name": "Ty France",
       "team_id": 135,
-      "xba": 0.306
+      "xba": 0.325
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team_id": 135,
-      "xba": 0.316
+      "xba": 0.309
     },
     "680977": {
       "name": "Brendan Donovan",
@@ -424,10 +424,15 @@
       "team_id": 136,
       "xba": 0.294
     },
+    "608701": {
+      "name": "Rob Refsnyder",
+      "team_id": 136,
+      "xba": 0.065
+    },
     "669477": {
       "name": "Casey Schmitt",
       "team_id": 137,
-      "xba": 0.252
+      "xba": 0.268
     },
     "683766": {
       "name": "Christian Koss",
@@ -437,17 +442,17 @@
     "691740": {
       "name": "Daniel Susac",
       "team_id": 137,
-      "xba": 0.419
+      "xba": 0.395
     },
     "687551": {
       "name": "Drew Gilbert",
       "team_id": 137,
-      "xba": 0.059
+      "xba": 0.163
     },
     "671218": {
       "name": "Heliot Ramos",
       "team_id": 137,
-      "xba": 0.211
+      "xba": 0.228
     },
     "666464": {
       "name": "Jerar Encarnacion",
@@ -457,17 +462,17 @@
     "808982": {
       "name": "Jung Hoo Lee",
       "team_id": 137,
-      "xba": 0.271
+      "xba": 0.277
     },
     "650333": {
       "name": "Luis Arraez",
       "team_id": 137,
-      "xba": 0.273
+      "xba": 0.282
     },
     "656305": {
       "name": "Matt Chapman",
       "team_id": 137,
-      "xba": 0.261
+      "xba": 0.264
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -477,7 +482,7 @@
     "646240": {
       "name": "Rafael Devers",
       "team_id": 137,
-      "xba": 0.225
+      "xba": 0.223
     },
     "686823": {
       "name": "Will Brennan",
@@ -487,27 +492,27 @@
     "642715": {
       "name": "Willy Adames",
       "team_id": 137,
-      "xba": 0.232
+      "xba": 0.244
     },
     "676475": {
       "name": "Alec Burleson",
       "team_id": 138,
-      "xba": 0.294
+      "xba": 0.295
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team_id": 138,
-      "xba": 0.286
+      "xba": 0.301
     },
     "802139": {
       "name": "JJ Wetherholt",
       "team_id": 138,
-      "xba": 0.221
+      "xba": 0.218
     },
     "691023": {
       "name": "Jordan Walker",
       "team_id": 138,
-      "xba": 0.311
+      "xba": 0.312
     },
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
@@ -517,22 +522,22 @@
     "691026": {
       "name": "Masyn Winn",
       "team_id": 138,
-      "xba": 0.236
+      "xba": 0.23
     },
     "701675": {
       "name": "Nathan Church",
       "team_id": 138,
-      "xba": 0.188
+      "xba": 0.198
     },
     "669357": {
       "name": "Nolan Gorman",
       "team_id": 138,
-      "xba": 0.172
+      "xba": 0.159
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team_id": 138,
-      "xba": 0.232
+      "xba": 0.231
     },
     "602104": {
       "name": "Ram\u00f3n Ur\u00edas",
@@ -547,7 +552,7 @@
     "687363": {
       "name": "Victor Scott II",
       "team_id": 138,
-      "xba": 0.253
+      "xba": 0.236
     },
     "650968": {
       "name": "Yohel Pozo",
@@ -557,17 +562,17 @@
     "810938": {
       "name": "Ben Williamson",
       "team_id": 139,
-      "xba": 0.237
+      "xba": 0.226
     },
     "656775": {
       "name": "Cedric Mullins",
       "team_id": 139,
-      "xba": 0.165
+      "xba": 0.162
     },
     "802415": {
       "name": "Chandler Simpson",
       "team_id": 139,
-      "xba": 0.292
+      "xba": 0.294
     },
     "676439": {
       "name": "Hunter Feduccia",
@@ -577,12 +582,12 @@
     "641584": {
       "name": "Jake Fraley",
       "team_id": 139,
-      "xba": 0.201
+      "xba": 0.218
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team_id": 139,
-      "xba": 0.255
+      "xba": 0.246
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -592,22 +597,22 @@
     "691406": {
       "name": "Junior Caminero",
       "team_id": 139,
-      "xba": 0.251
+      "xba": 0.255
     },
     "663743": {
       "name": "Nick Fortes",
       "team_id": 139,
-      "xba": 0.303
+      "xba": 0.299
     },
     "680700": {
       "name": "Richie Palacios",
       "team_id": 139,
-      "xba": 0.296
+      "xba": 0.291
     },
     "668723": {
       "name": "Ryan Vilade",
       "team_id": 139,
-      "xba": 0.237
+      "xba": 0.227
     },
     "670764": {
       "name": "Taylor Walls",
@@ -617,7 +622,7 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team_id": 139,
-      "xba": 0.298
+      "xba": 0.299
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -687,7 +692,7 @@
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team_id": 141,
-      "xba": 0.255
+      "xba": 0.26
     },
     "678218": {
       "name": "Brandon Valenzuela",
@@ -697,12 +702,12 @@
     "662139": {
       "name": "Daulton Varsho",
       "team_id": 141,
-      "xba": 0.275
+      "xba": 0.271
     },
     "676914": {
       "name": "Davis Schneider",
       "team_id": 141,
-      "xba": 0.21
+      "xba": 0.192
     },
     "650391": {
       "name": "Eloy Jim\u00e9nez",
@@ -712,57 +717,57 @@
     "676391": {
       "name": "Ernie Clement",
       "team_id": 141,
-      "xba": 0.296
+      "xba": 0.29
     },
     "660821": {
       "name": "Jes\u00fas S\u00e1nchez",
       "team_id": 141,
-      "xba": 0.297
+      "xba": 0.302
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team_id": 141,
-      "xba": 0.211
+      "xba": 0.213
     },
     "672820": {
       "name": "Lenyn Sosa",
       "team_id": 141,
-      "xba": 0.278
+      "xba": 0.266
     },
     "664702": {
       "name": "Myles Straw",
       "team_id": 141,
-      "xba": 0.411
+      "xba": 0.431
     },
     "664770": {
       "name": "Nathan Lukes",
       "team_id": 141,
-      "xba": 0.198
+      "xba": 0.199
     },
     "623168": {
       "name": "Tyler Heineman",
       "team_id": 141,
-      "xba": 0.265
+      "xba": 0.271
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team_id": 141,
-      "xba": 0.308
+      "xba": 0.314
     },
     "668885": {
       "name": "Austin Martin",
       "team_id": 142,
-      "xba": 0.254
+      "xba": 0.263
     },
     "686797": {
       "name": "Brooks Lee",
       "team_id": 142,
-      "xba": 0.185
+      "xba": 0.177
     },
     "621439": {
       "name": "Byron Buxton",
       "team_id": 142,
-      "xba": 0.223
+      "xba": 0.227
     },
     "681546": {
       "name": "James Outman",
@@ -772,7 +777,7 @@
     "605137": {
       "name": "Josh Bell",
       "team_id": 142,
-      "xba": 0.251
+      "xba": 0.257
     },
     "665019": {
       "name": "Kody Clemens",
@@ -782,22 +787,22 @@
     "807712": {
       "name": "Luke Keaschall",
       "team_id": 142,
-      "xba": 0.234
+      "xba": 0.233
     },
     "670242": {
       "name": "Matt Wallner",
       "team_id": 142,
-      "xba": 0.201
+      "xba": 0.206
     },
     "680777": {
       "name": "Ryan Jeffers",
       "team_id": 142,
-      "xba": 0.264
+      "xba": 0.253
     },
     "668952": {
       "name": "Ryan Kreidler",
       "team_id": 142,
-      "xba": 0.295
+      "xba": 0.277
     },
     "663616": {
       "name": "Trevor Larnach",
@@ -807,22 +812,22 @@
     "656484": {
       "name": "Tristan Gray",
       "team_id": 142,
-      "xba": 0.234
+      "xba": 0.226
     },
     "605170": {
       "name": "Victor Caratini",
       "team_id": 142,
-      "xba": 0.324
+      "xba": 0.306
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
       "team_id": 143,
-      "xba": 0.245
+      "xba": 0.247
     },
     "664761": {
       "name": "Alec Bohm",
       "team_id": 143,
-      "xba": 0.226
+      "xba": 0.217
     },
     "669016": {
       "name": "Brandon Marsh",
@@ -832,7 +837,7 @@
     "547180": {
       "name": "Bryce Harper",
       "team_id": 143,
-      "xba": 0.282
+      "xba": 0.295
     },
     "681082": {
       "name": "Bryson Stott",
@@ -842,32 +847,32 @@
     "664238": {
       "name": "Dylan Moore",
       "team_id": 143,
-      "xba": 0.033
+      "xba": 0.144
     },
     "624641": {
       "name": "Edmundo Sosa",
       "team_id": 143,
-      "xba": 0.294
+      "xba": 0.25
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team_id": 143,
-      "xba": 0.26
+      "xba": 0.259
     },
     "702222": {
       "name": "Justin Crawford",
       "team_id": 143,
-      "xba": 0.224
+      "xba": 0.228
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team_id": 143,
-      "xba": 0.219
+      "xba": 0.218
     },
     "805249": {
       "name": "Otto Kemp",
       "team_id": 143,
-      "xba": 0.186
+      "xba": 0.182
     },
     "665561": {
       "name": "Rafael March\u00e1n",
@@ -877,27 +882,27 @@
     "607208": {
       "name": "Trea Turner",
       "team_id": 143,
-      "xba": 0.236
+      "xba": 0.239
     },
     "663586": {
       "name": "Austin Riley",
       "team_id": 144,
-      "xba": 0.243
+      "xba": 0.248
     },
     "642086": {
       "name": "Dominic Smith",
       "team_id": 144,
-      "xba": 0.366
+      "xba": 0.349
     },
     "686948": {
       "name": "Drake Baldwin",
       "team_id": 144,
-      "xba": 0.295
+      "xba": 0.293
     },
     "642201": {
       "name": "Eli White",
       "team_id": 144,
-      "xba": 0.182
+      "xba": 0.237
     },
     "641680": {
       "name": "Jonah Heim",
@@ -922,42 +927,42 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team_id": 144,
-      "xba": 0.285
+      "xba": 0.279
     },
     "671739": {
       "name": "Michael Harris II",
       "team_id": 144,
-      "xba": 0.272
+      "xba": 0.3
     },
     "573262": {
       "name": "Mike Yastrzemski",
       "team_id": 144,
-      "xba": 0.202
+      "xba": 0.198
     },
     "645277": {
       "name": "Ozzie Albies",
       "team_id": 144,
-      "xba": 0.233
+      "xba": 0.224
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team_id": 144,
-      "xba": 0.279
+      "xba": 0.282
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team_id": 145,
-      "xba": 0.22
+      "xba": 0.222
     },
     "805367": {
       "name": "Chase Meidroth",
       "team_id": 145,
-      "xba": 0.212
+      "xba": 0.234
     },
     "695657": {
       "name": "Colson Montgomery",
       "team_id": 145,
-      "xba": 0.163
+      "xba": 0.168
     },
     "656537": {
       "name": "Derek Hill",
@@ -967,27 +972,27 @@
     "700337": {
       "name": "Edgar Quero",
       "team_id": 145,
-      "xba": 0.187
+      "xba": 0.203
     },
     "677592": {
       "name": "Everson Pereira",
       "team_id": 145,
-      "xba": 0.297
+      "xba": 0.281
     },
     "682668": {
       "name": "Luisangel Acu\u00f1a",
       "team_id": 145,
-      "xba": 0.225
+      "xba": 0.224
     },
     "678246": {
       "name": "Miguel Vargas",
       "team_id": 145,
-      "xba": 0.223
+      "xba": 0.214
     },
     "808959": {
       "name": "Munetaka Murakami",
       "team_id": 145,
-      "xba": 0.207
+      "xba": 0.227
     },
     "624512": {
       "name": "Reese McGuire",
@@ -997,7 +1002,7 @@
     "803011": {
       "name": "Sam Antonacci",
       "team_id": 145,
-      "xba": 0.396
+      "xba": 0.321
     },
     "695020": {
       "name": "Tanner Murray",
@@ -1012,17 +1017,17 @@
     "682663": {
       "name": "Agust\u00edn Ram\u00edrez",
       "team_id": 146,
-      "xba": 0.225
+      "xba": 0.228
     },
     "596103": {
       "name": "Austin Slater",
       "team_id": 146,
-      "xba": 0.175
+      "xba": 0.167
     },
     "681393": {
       "name": "Connor Norby",
       "team_id": 146,
-      "xba": 0.204
+      "xba": 0.205
     },
     "691277": {
       "name": "Deyvison De Los Santos",
@@ -1042,12 +1047,12 @@
     "805300": {
       "name": "Jakob Marsee",
       "team_id": 146,
-      "xba": 0.185
+      "xba": 0.18
     },
     "691594": {
       "name": "Javier Sanoja",
       "team_id": 146,
-      "xba": 0.265
+      "xba": 0.261
     },
     "677870": {
       "name": "Leo Jim\u00e9nez",
@@ -1057,52 +1062,52 @@
     "689414": {
       "name": "Liam Hicks",
       "team_id": 146,
-      "xba": 0.309
+      "xba": 0.304
     },
     "672640": {
       "name": "Otto Lopez",
       "team_id": 146,
-      "xba": 0.3
+      "xba": 0.302
     },
     "683357": {
       "name": "Owen Caissie",
       "team_id": 146,
-      "xba": 0.231
+      "xba": 0.229
     },
     "669364": {
       "name": "Xavier Edwards",
       "team_id": 146,
-      "xba": 0.287
+      "xba": 0.291
     },
     "592450": {
       "name": "Aaron Judge",
       "team_id": 147,
-      "xba": 0.273
+      "xba": 0.271
     },
     "642708": {
       "name": "Amed Rosario",
       "team_id": 147,
-      "xba": 0.296
+      "xba": 0.302
     },
     "669224": {
       "name": "Austin Wells",
       "team_id": 147,
-      "xba": 0.246
+      "xba": 0.249
     },
     "700250": {
       "name": "Ben Rice",
       "team_id": 147,
-      "xba": 0.289
+      "xba": 0.294
     },
     "641355": {
       "name": "Cody Bellinger",
       "team_id": 147,
-      "xba": 0.226
+      "xba": 0.232
     },
     "519317": {
       "name": "Giancarlo Stanton",
       "team_id": 147,
-      "xba": 0.259
+      "xba": 0.244
     },
     "641555": {
       "name": "J.C. Escarra",
@@ -1112,12 +1117,12 @@
     "665862": {
       "name": "Jazz Chisholm Jr.",
       "team_id": 147,
-      "xba": 0.156
+      "xba": 0.152
     },
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team_id": 147,
-      "xba": 0.216
+      "xba": 0.222
     },
     "502671": {
       "name": "Paul Goldschmidt",
@@ -1132,12 +1137,12 @@
     "641857": {
       "name": "Ryan McMahon",
       "team_id": 147,
-      "xba": 0.171
+      "xba": 0.176
     },
     "663757": {
       "name": "Trent Grisham",
       "team_id": 147,
-      "xba": 0.231
+      "xba": 0.237
     },
     "663368": {
       "name": "Blake Perkins",
@@ -1152,32 +1157,32 @@
     "668930": {
       "name": "Brice Turang",
       "team_id": 158,
-      "xba": 0.253
+      "xba": 0.248
     },
     "666152": {
       "name": "David Hamilton",
       "team_id": 158,
-      "xba": 0.182
+      "xba": 0.175
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team_id": 158,
-      "xba": 0.241
+      "xba": 0.238
     },
     "596142": {
       "name": "Gary S\u00e1nchez",
       "team_id": 158,
-      "xba": 0.262
+      "xba": 0.249
     },
     "675659": {
       "name": "Greg Jones",
       "team_id": 158,
-      "xba": 0.479
+      "xba": 0.212
     },
     "641343": {
       "name": "Jake Bauers",
       "team_id": 158,
-      "xba": 0.261
+      "xba": 0.287
     },
     "687401": {
       "name": "Joey Ortiz",
@@ -1192,7 +1197,7 @@
     "650859": {
       "name": "Luis Rengifo",
       "team_id": 158,
-      "xba": 0.218
+      "xba": 0.219
     },
     "686217": {
       "name": "Sal Frelick",
@@ -1202,12 +1207,12 @@
     "661388": {
       "name": "William Contreras",
       "team_id": 158,
-      "xba": 0.29
+      "xba": 0.289
     },
     "624428": {
       "name": "Adam Frazier",
       "team_id": 108,
-      "xba": 0.193
+      "xba": 0.191
     },
     "669326": {
       "name": "Bryce Teodosio",
@@ -1222,27 +1227,27 @@
     "666139": {
       "name": "Josh Lowe",
       "team_id": 108,
-      "xba": 0.134
+      "xba": 0.148
     },
     "681351": {
       "name": "Logan O'Hoppe",
       "team_id": 108,
-      "xba": 0.193
+      "xba": 0.187
     },
     "545361": {
       "name": "Mike Trout",
       "team_id": 108,
-      "xba": 0.293
+      "xba": 0.283
     },
     "694384": {
       "name": "Nolan Schanuel",
       "team_id": 108,
-      "xba": 0.258
+      "xba": 0.272
     },
     "672724": {
       "name": "Oswald Peraza",
       "team_id": 108,
-      "xba": 0.273
+      "xba": 0.279
     },
     "518595": {
       "name": "Travis d'Arnaud",
@@ -1257,12 +1262,12 @@
     "660162": {
       "name": "Yo\u00e1n Moncada",
       "team_id": 108,
-      "xba": 0.139
+      "xba": 0.144
     },
     "687263": {
       "name": "Zach Neto",
       "team_id": 108,
-      "xba": 0.202
+      "xba": 0.205
     },
     "680728": {
       "name": "Adrian Del Castillo",
@@ -1277,12 +1282,12 @@
     "682998": {
       "name": "Corbin Carroll",
       "team_id": 109,
-      "xba": 0.295
+      "xba": 0.289
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team_id": 109,
-      "xba": 0.209
+      "xba": 0.207
     },
     "545121": {
       "name": "Ildemaro Vargas",
@@ -1292,22 +1297,22 @@
     "543510": {
       "name": "James McCann",
       "team_id": 109,
-      "xba": 0.176
+      "xba": 0.171
     },
     "678489": {
       "name": "Jorge Barrosa",
       "team_id": 109,
-      "xba": 0.189
+      "xba": 0.185
     },
     "699912": {
       "name": "Jose Fernandez",
       "team_id": 109,
-      "xba": 0.25
+      "xba": 0.251
     },
     "606466": {
       "name": "Ketel Marte",
       "team_id": 109,
-      "xba": 0.287
+      "xba": 0.308
     },
     "663609": {
       "name": "Luken Baker",
@@ -1317,12 +1322,12 @@
     "571448": {
       "name": "Nolan Arenado",
       "team_id": 109,
-      "xba": 0.217
+      "xba": 0.244
     },
     "694374": {
       "name": "Tim Tawa",
       "team_id": 109,
-      "xba": 0.198
+      "xba": 0.215
     },
     "677942": {
       "name": "Blaze Alexander",
@@ -1332,12 +1337,12 @@
     "691723": {
       "name": "Coby Mayo",
       "team_id": 110,
-      "xba": 0.221
+      "xba": 0.217
     },
     "681297": {
       "name": "Colton Cowser",
       "team_id": 110,
-      "xba": 0.197
+      "xba": 0.194
     },
     "687637": {
       "name": "Dylan Beavers",
@@ -1347,12 +1352,12 @@
     "683002": {
       "name": "Gunnar Henderson",
       "team_id": 110,
-      "xba": 0.233
+      "xba": 0.239
     },
     "669236": {
       "name": "Jeremiah Jackson",
       "team_id": 110,
-      "xba": 0.271
+      "xba": 0.263
     },
     "671286": {
       "name": "Johnathan Rodr\u00edguez",
@@ -1362,32 +1367,32 @@
     "665750": {
       "name": "Leody Taveras",
       "team_id": 110,
-      "xba": 0.265
+      "xba": 0.258
     },
     "624413": {
       "name": "Pete Alonso",
       "team_id": 110,
-      "xba": 0.213
+      "xba": 0.225
     },
     "669087": {
       "name": "Sam Huff",
       "team_id": 110,
-      "xba": 0.17
+      "xba": 0.136
     },
     "694212": {
       "name": "Samuel Basallo",
       "team_id": 110,
-      "xba": 0.196
+      "xba": 0.19
     },
     "621493": {
       "name": "Taylor Ward",
       "team_id": 110,
-      "xba": 0.279
+      "xba": 0.276
     },
     "642215": {
       "name": "Weston Wilson",
       "team_id": 110,
-      "xba": 0.326
+      "xba": 0.483
     },
     "655316": {
       "name": "Andruw Monasterio",
@@ -1397,7 +1402,7 @@
     "702332": {
       "name": "Caleb Durbin",
       "team_id": 111,
-      "xba": 0.2
+      "xba": 0.217
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
@@ -1407,12 +1412,12 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team_id": 111,
-      "xba": 0.26
+      "xba": 0.251
     },
     "657136": {
       "name": "Connor Wong",
       "team_id": 111,
-      "xba": 0.249
+      "xba": 0.266
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
@@ -1422,57 +1427,57 @@
     "680776": {
       "name": "Jarren Duran",
       "team_id": 111,
-      "xba": 0.211
+      "xba": 0.205
     },
     "691785": {
       "name": "Marcelo Mayer",
       "team_id": 111,
-      "xba": 0.185
+      "xba": 0.18
     },
     "807799": {
       "name": "Masataka Yoshida",
       "team_id": 111,
-      "xba": 0.23
+      "xba": 0.224
     },
     "701350": {
       "name": "Roman Anthony",
       "team_id": 111,
-      "xba": 0.267
+      "xba": 0.26
     },
     "596115": {
       "name": "Trevor Story",
       "team_id": 111,
-      "xba": 0.236
+      "xba": 0.231
     },
     "575929": {
       "name": "Willson Contreras",
       "team_id": 111,
-      "xba": 0.263
+      "xba": 0.251
     },
     "677800": {
       "name": "Wilyer Abreu",
       "team_id": 111,
-      "xba": 0.288
+      "xba": 0.274
     },
     "608324": {
       "name": "Alex Bregman",
       "team_id": 112,
-      "xba": 0.235
+      "xba": 0.236
     },
     "608348": {
       "name": "Carson Kelly",
       "team_id": 112,
-      "xba": 0.322
+      "xba": 0.318
     },
     "621020": {
       "name": "Dansby Swanson",
       "team_id": 112,
-      "xba": 0.222
+      "xba": 0.22
     },
     "664023": {
       "name": "Ian Happ",
       "team_id": 112,
-      "xba": 0.206
+      "xba": 0.209
     },
     "807713": {
       "name": "Matt Shaw",
@@ -1497,7 +1502,7 @@
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
       "team_id": 112,
-      "xba": 0.272
+      "xba": 0.288
     },
     "663538": {
       "name": "Nico Hoerner",
@@ -1507,7 +1512,7 @@
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team_id": 112,
-      "xba": 0.208
+      "xba": 0.206
     },
     "664068": {
       "name": "Scott Kingery",
@@ -1517,22 +1522,22 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team_id": 112,
-      "xba": 0.227
+      "xba": 0.233
     },
     "667472": {
       "name": "Dane Myers",
       "team_id": 113,
-      "xba": 0.344
+      "xba": 0.34
     },
     "682829": {
       "name": "Elly De La Cruz",
       "team_id": 113,
-      "xba": 0.259
+      "xba": 0.268
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team_id": 113,
-      "xba": 0.198
+      "xba": 0.204
     },
     "663647": {
       "name": "Ke'Bryan Hayes",
@@ -1542,12 +1547,12 @@
     "680574": {
       "name": "Matt McLain",
       "team_id": 113,
-      "xba": 0.217
+      "xba": 0.21
     },
     "663993": {
       "name": "Nathaniel Lowe",
       "team_id": 113,
-      "xba": 0.255
+      "xba": 0.279
     },
     "664731": {
       "name": "P.J. Higgins",
@@ -1562,32 +1567,32 @@
     "701398": {
       "name": "Sal Stewart",
       "team_id": 113,
-      "xba": 0.286
+      "xba": 0.277
     },
     "668715": {
       "name": "Spencer Steer",
       "team_id": 113,
-      "xba": 0.201
+      "xba": 0.206
     },
     "670770": {
       "name": "TJ Friedl",
       "team_id": 113,
-      "xba": 0.163
+      "xba": 0.165
     },
     "663886": {
       "name": "Tyler Stephenson",
       "team_id": 113,
-      "xba": 0.226
+      "xba": 0.232
     },
     "666181": {
       "name": "Will Benson",
       "team_id": 113,
-      "xba": 0.14
+      "xba": 0.134
     },
     "682657": {
       "name": "Angel Mart\u00ednez",
       "team_id": 114,
-      "xba": 0.29
+      "xba": 0.283
     },
     "595978": {
       "name": "Austin Hedges",
@@ -1597,7 +1602,7 @@
     "666310": {
       "name": "Bo Naylor",
       "team_id": 114,
-      "xba": 0.254
+      "xba": 0.263
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -1607,12 +1612,12 @@
     "800050": {
       "name": "Chase DeLauter",
       "team_id": 114,
-      "xba": 0.285
+      "xba": 0.276
     },
     "682177": {
       "name": "Daniel Schneemann",
       "team_id": 114,
-      "xba": 0.272
+      "xba": 0.294
     },
     "681807": {
       "name": "David Fry",
@@ -1622,47 +1627,47 @@
     "671655": {
       "name": "George Valera",
       "team_id": 114,
-      "xba": 0.288
+      "xba": 0.27
     },
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
       "team_id": 114,
-      "xba": 0.288
+      "xba": 0.284
     },
     "682877": {
       "name": "Juan Brito",
       "team_id": 114,
-      "xba": 0.235
+      "xba": 0.218
     },
     "700932": {
       "name": "Kyle Manzardo",
       "team_id": 114,
-      "xba": 0.234
+      "xba": 0.231
     },
     "656555": {
       "name": "Rhys Hoskins",
       "team_id": 114,
-      "xba": 0.18
+      "xba": 0.187
     },
     "680757": {
       "name": "Steven Kwan",
       "team_id": 114,
-      "xba": 0.258
+      "xba": 0.262
     },
     "686668": {
       "name": "Brenton Doyle",
       "team_id": 115,
-      "xba": 0.208
+      "xba": 0.2
     },
     "664954": {
       "name": "Brett Sullivan",
       "team_id": 115,
-      "xba": 0.236
+      "xba": 0.23
     },
     "666397": {
       "name": "Edouard Julien",
       "team_id": 115,
-      "xba": 0.275
+      "xba": 0.276
     },
     "678662": {
       "name": "Ezequiel Tovar",
@@ -1677,7 +1682,7 @@
     "664983": {
       "name": "Jake McCarthy",
       "team_id": 115,
-      "xba": 0.219
+      "xba": 0.209
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1687,22 +1692,22 @@
     "691720": {
       "name": "Kyle Karros",
       "team_id": 115,
-      "xba": 0.257
+      "xba": 0.254
     },
     "666160": {
       "name": "Mickey Moniak",
       "team_id": 115,
-      "xba": 0.231
+      "xba": 0.23
     },
     "681198": {
       "name": "TJ Rumfield",
       "team_id": 115,
-      "xba": 0.277
+      "xba": 0.27
     },
     "687859": {
       "name": "Troy Johnston",
       "team_id": 115,
-      "xba": 0.255
+      "xba": 0.237
     },
     "671289": {
       "name": "Tyler Freeman",
@@ -1722,17 +1727,22 @@
     "693307": {
       "name": "Dillon Dingler",
       "team_id": 116,
-      "xba": 0.338
+      "xba": 0.322
     },
     "650402": {
       "name": "Gleyber Torres",
       "team_id": 116,
-      "xba": 0.256
+      "xba": 0.253
+    },
+    "701678": {
+      "name": "Hao-Yu  Lee",
+      "team_id": 116,
+      "xba": 0.219
     },
     "663330": {
       "name": "Jahmai Jones",
       "team_id": 116,
-      "xba": 0.231
+      "xba": 0.286
     },
     "668670": {
       "name": "Jake Rogers",
@@ -1742,7 +1752,7 @@
     "595879": {
       "name": "Javier B\u00e1ez",
       "team_id": 116,
-      "xba": 0.283
+      "xba": 0.295
     },
     "681481": {
       "name": "Kerry Carpenter",
@@ -1752,77 +1762,72 @@
     "805808": {
       "name": "Kevin McGonigle",
       "team_id": 116,
-      "xba": 0.304
+      "xba": 0.292
     },
     "663837": {
       "name": "Matt Vierling",
       "team_id": 116,
-      "xba": 0.209
+      "xba": 0.232
     },
     "682985": {
       "name": "Riley Greene",
       "team_id": 116,
-      "xba": 0.277
+      "xba": 0.274
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team_id": 116,
-      "xba": 0.24
+      "xba": 0.232
     },
     "672761": {
       "name": "Wenceel P\u00e9rez",
       "team_id": 116,
-      "xba": 0.304
-    },
-    "656716": {
-      "name": "Zach McKinstry",
-      "team_id": 116,
-      "xba": 0.209
+      "xba": 0.262
     },
     "694728": {
       "name": "Brice Matthews",
       "team_id": 117,
-      "xba": 0.132
+      "xba": 0.127
     },
     "701358": {
       "name": "Cam Smith",
       "team_id": 117,
-      "xba": 0.298
+      "xba": 0.302
     },
     "621043": {
       "name": "Carlos Correa",
       "team_id": 117,
-      "xba": 0.301
+      "xba": 0.294
     },
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team_id": 117,
-      "xba": 0.265
+      "xba": 0.258
     },
     "572233": {
       "name": "Christian Walker",
       "team_id": 117,
-      "xba": 0.271
+      "xba": 0.261
     },
     "670623": {
       "name": "Isaac Paredes",
       "team_id": 117,
-      "xba": 0.2
+      "xba": 0.193
     },
     "694388": {
       "name": "Joey Loperfido",
       "team_id": 117,
-      "xba": 0.234
+      "xba": 0.232
     },
     "514888": {
       "name": "Jose Altuve",
       "team_id": 117,
-      "xba": 0.269
+      "xba": 0.266
     },
     "669397": {
       "name": "Nick Allen",
       "team_id": 117,
-      "xba": 0.235
+      "xba": 0.226
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -1832,7 +1837,7 @@
     "666211": {
       "name": "Taylor Trammell",
       "team_id": 117,
-      "xba": 0.197
+      "xba": 0.226
     },
     "673237": {
       "name": "Yainer Diaz",
@@ -1842,7 +1847,7 @@
     "670541": {
       "name": "Yordan Alvarez",
       "team_id": 117,
-      "xba": 0.355
+      "xba": 0.36
     },
     "677951": {
       "name": "Bobby Witt Jr.",
@@ -1852,7 +1857,7 @@
     "695600": {
       "name": "Carter Jensen",
       "team_id": 118,
-      "xba": 0.204
+      "xba": 0.196
     },
     "686555": {
       "name": "Isaac Collins",
@@ -1862,42 +1867,42 @@
     "695506": {
       "name": "Jac Caglianone",
       "team_id": 118,
-      "xba": 0.272
+      "xba": 0.27
     },
     "663697": {
       "name": "Jonathan India",
       "team_id": 118,
-      "xba": 0.18
+      "xba": 0.173
     },
     "664728": {
       "name": "Kyle Isbel",
       "team_id": 118,
-      "xba": 0.264
+      "xba": 0.254
     },
     "657041": {
       "name": "Lane Thomas",
       "team_id": 118,
-      "xba": 0.213
+      "xba": 0.205
     },
     "672580": {
       "name": "Maikel Garcia",
       "team_id": 118,
-      "xba": 0.294
+      "xba": 0.287
     },
     "686681": {
       "name": "Michael Massey",
       "team_id": 118,
-      "xba": 0.247
+      "xba": 0.259
     },
     "521692": {
       "name": "Salvador Perez",
       "team_id": 118,
-      "xba": 0.199
+      "xba": 0.19
     },
     "516782": {
       "name": "Starling Marte",
       "team_id": 118,
-      "xba": 0.186
+      "xba": 0.177
     },
     "686475": {
       "name": "Tyler Tolbert",
@@ -1907,7 +1912,7 @@
     "686469": {
       "name": "Vinnie Pasquantino",
       "team_id": 118,
-      "xba": 0.216
+      "xba": 0.227
     },
     "669743": {
       "name": "Alex Call",
@@ -1917,12 +1922,12 @@
     "690976": {
       "name": "Alex Freeland",
       "team_id": 119,
-      "xba": 0.216
+      "xba": 0.237
     },
     "681624": {
       "name": "Andy Pages",
       "team_id": 119,
-      "xba": 0.31
+      "xba": 0.322
     },
     "687221": {
       "name": "Dalton Rushing",
@@ -1932,22 +1937,22 @@
     "518692": {
       "name": "Freddie Freeman",
       "team_id": 119,
-      "xba": 0.329
+      "xba": 0.333
     },
     "808975": {
       "name": "Hyeseong Kim",
       "team_id": 119,
-      "xba": 0.179
+      "xba": 0.187
     },
     "663656": {
       "name": "Kyle Tucker",
       "team_id": 119,
-      "xba": 0.222
+      "xba": 0.22
     },
     "571970": {
       "name": "Max Muncy",
       "team_id": 119,
-      "xba": 0.263
+      "xba": 0.286
     },
     "500743": {
       "name": "Miguel Rojas",
@@ -1962,37 +1967,37 @@
     "660271": {
       "name": "Shohei Ohtani",
       "team_id": 119,
-      "xba": 0.253
+      "xba": 0.274
     },
     "606192": {
       "name": "Teoscar Hern\u00e1ndez",
       "team_id": 119,
-      "xba": 0.273
+      "xba": 0.252
     },
     "669257": {
       "name": "Will Smith",
       "team_id": 119,
-      "xba": 0.28
+      "xba": 0.278
     },
     "691781": {
       "name": "Brady House",
       "team_id": 120,
-      "xba": 0.219
+      "xba": 0.224
     },
     "682928": {
       "name": "CJ Abrams",
       "team_id": 120,
-      "xba": 0.332
+      "xba": 0.321
     },
     "678554": {
       "name": "Curtis Mead",
       "team_id": 120,
-      "xba": 0.268
+      "xba": 0.277
     },
     "695734": {
       "name": "Daylen Lile",
       "team_id": 120,
-      "xba": 0.304
+      "xba": 0.305
     },
     "686452": {
       "name": "Drew Millas",
@@ -2007,62 +2012,62 @@
     "695578": {
       "name": "James Wood",
       "team_id": 120,
-      "xba": 0.268
+      "xba": 0.275
     },
     "686894": {
       "name": "Joey Wiemer",
       "team_id": 120,
-      "xba": 0.236
+      "xba": 0.229
     },
     "678391": {
       "name": "Jorbit Vivas",
       "team_id": 120,
-      "xba": 0.254
+      "xba": 0.249
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
       "team_id": 120,
-      "xba": 0.205
+      "xba": 0.234
     },
     "660688": {
       "name": "Keibert Ruiz",
       "team_id": 120,
-      "xba": 0.183
+      "xba": 0.188
     },
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team_id": 120,
-      "xba": 0.248
+      "xba": 0.25
     },
     "683083": {
       "name": "Nasim Nu\u00f1ez",
       "team_id": 120,
-      "xba": 0.222
+      "xba": 0.217
     },
     "666182": {
       "name": "Bo Bichette",
       "team_id": 121,
-      "xba": 0.282
+      "xba": 0.293
     },
     "683146": {
       "name": "Brett Baty",
       "team_id": 121,
-      "xba": 0.206
+      "xba": 0.201
     },
     "701807": {
       "name": "Carson Benge",
       "team_id": 121,
-      "xba": 0.209
+      "xba": 0.211
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team_id": 121,
-      "xba": 0.3
+      "xba": 0.288
     },
     "596019": {
       "name": "Francisco Lindor",
       "team_id": 121,
-      "xba": 0.247
+      "xba": 0.252
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -2072,7 +2077,7 @@
     "673357": {
       "name": "Luis Robert Jr.",
       "team_id": 121,
-      "xba": 0.249
+      "xba": 0.257
     },
     "620443": {
       "name": "Luis Torrens",
@@ -2082,124 +2087,124 @@
     "669004": {
       "name": "MJ Melendez",
       "team_id": 121,
-      "xba": 0.239
+      "xba": 0.374
     },
     "543760": {
       "name": "Marcus Semien",
       "team_id": 121,
-      "xba": 0.216
+      "xba": 0.232
     },
     "668901": {
       "name": "Mark Vientos",
       "team_id": 121,
-      "xba": 0.233
+      "xba": 0.24
     },
     "502054": {
       "name": "Tommy Pham",
       "team_id": 121,
-      "xba": 0.188
+      "xba": 0.176
     },
     "621438": {
       "name": "Tyrone Taylor",
       "team_id": 121,
-      "xba": 0.239
+      "xba": 0.275
     }
   },
   "sp_xbaa": {},
   "team_overall_xbaa": {
-    "133": 0.22682300884955747,
-    "134": 0.22765352112676057,
-    "135": 0.23663192182410422,
-    "136": 0.2351487252124646,
-    "137": 0.24456748911465892,
-    "138": 0.28684148148148153,
-    "139": 0.2694925124792013,
-    "140": 0.22045280000000003,
-    "141": 0.22345799011532122,
-    "142": 0.24690289855072467,
-    "143": 0.24136952998379257,
-    "144": 0.2252840531561462,
-    "145": 0.25888052373158754,
-    "146": 0.22302560455192036,
-    "147": 0.23911940298507464,
-    "158": 0.2350297805642633,
-    "108": 0.2235473372781065,
-    "109": 0.24395331325301203,
-    "110": 0.23545575959933224,
-    "111": 0.259176,
-    "112": 0.2337696737044146,
-    "113": 0.2433607954545454,
-    "114": 0.23024153166421207,
-    "115": 0.2672911184210526,
-    "116": 0.23593750000000002,
-    "117": 0.24490206185567012,
-    "118": 0.23969205298013246,
-    "119": 0.23680797101449277,
-    "120": 0.2608905775075988,
-    "121": 0.2469678899082569
+    "133": 0.22997513812154696,
+    "134": 0.22566949152542376,
+    "135": 0.2391437403400309,
+    "136": 0.23376666666666668,
+    "137": 0.24605914718019256,
+    "138": 0.28330392156862744,
+    "139": 0.27284375,
+    "140": 0.21951840490797547,
+    "141": 0.23032093023255817,
+    "142": 0.24745706371191142,
+    "143": 0.24479090909090911,
+    "144": 0.22664531250000003,
+    "145": 0.2544085850556439,
+    "146": 0.22333377837116156,
+    "147": 0.23599290780141843,
+    "158": 0.2341627218934911,
+    "108": 0.21991126760563381,
+    "109": 0.24578366762177647,
+    "110": 0.23603281250000002,
+    "111": 0.25747951441578154,
+    "112": 0.24322962962962963,
+    "113": 0.24181646423751685,
+    "114": 0.23044305555555558,
+    "115": 0.27286769230769226,
+    "116": 0.23212022630834514,
+    "117": 0.23938209982788294,
+    "118": 0.2411927899686521,
+    "119": 0.23317495711835334,
+    "120": 0.2684882108183079,
+    "121": 0.24761494252873567
   },
   "team_bullpen_xbaa": {
-    "133": 0.2406446991404011,
-    "134": 0.24541042345276876,
-    "135": 0.20848160535117055,
-    "136": 0.2510826446280992,
-    "137": 0.23099590163934425,
-    "138": 0.26087544483985764,
-    "139": 0.2909849397590361,
-    "140": 0.20658222222222222,
-    "141": 0.23129663608562692,
-    "142": 0.24513223140495868,
-    "143": 0.2141769230769231,
-    "144": 0.244112,
-    "145": 0.25417831325301204,
-    "146": 0.19934920634920633,
-    "147": 0.24952739726027395,
-    "158": 0.2551791907514451,
-    "108": 0.2178686868686869,
-    "109": 0.2170856031128405,
-    "110": 0.2173137254901961,
-    "111": 0.23179475982532752,
-    "112": 0.2481688741721854,
-    "113": 0.2050640569395018,
-    "114": 0.23063008130081294,
-    "115": 0.2513813131313131,
-    "116": 0.22098406374501992,
-    "117": 0.2365885167464115,
-    "118": 0.22110232558139536,
-    "119": 0.2287829457364341,
-    "120": 0.2653677811550152,
-    "121": 0.26728828828828827
+    "133": 0.23876086956521742,
+    "134": 0.2418833922261484,
+    "135": 0.2161746987951807,
+    "136": 0.24775572519083972,
+    "137": 0.23180000000000003,
+    "138": 0.2645335570469799,
+    "139": 0.29431884057971014,
+    "140": 0.20685531914893618,
+    "141": 0.2349271137026239,
+    "142": 0.24667460317460319,
+    "143": 0.2185392857142857,
+    "144": 0.23733971291866024,
+    "145": 0.2488484107579462,
+    "146": 0.19756204379562042,
+    "147": 0.24158745874587462,
+    "158": 0.25165885416666667,
+    "108": 0.21478896103896103,
+    "109": 0.2184603773584906,
+    "110": 0.2198211678832117,
+    "111": 0.2349746835443038,
+    "112": 0.25732094594594596,
+    "113": 0.20414915254237287,
+    "114": 0.22728244274809156,
+    "115": 0.251689156626506,
+    "116": 0.22011787072243347,
+    "117": 0.2288776978417266,
+    "118": 0.23079111111111109,
+    "119": 0.224777358490566,
+    "120": 0.26441254125412544,
+    "121": 0.26954065040650416
   },
   "team_games_played": {
-    "139": 18,
-    "147": 19,
-    "110": 19,
-    "141": 18,
-    "111": 18,
-    "142": 19,
-    "114": 20,
-    "116": 19,
-    "118": 19,
-    "145": 19,
+    "139": 19,
+    "147": 20,
+    "110": 20,
+    "111": 19,
+    "141": 19,
+    "142": 20,
+    "114": 21,
+    "116": 20,
+    "145": 20,
+    "118": 20,
     "140": 19,
-    "133": 19,
-    "108": 20,
+    "108": 21,
+    "133": 20,
     "136": 20,
-    "117": 20,
-    "144": 19,
-    "146": 19,
-    "120": 19,
-    "143": 18,
-    "121": 19,
-    "134": 19,
-    "113": 19,
-    "138": 18,
-    "158": 18,
-    "112": 18,
-    "119": 18,
-    "135": 19,
-    "109": 19,
-    "137": 19,
-    "115": 19
+    "117": 21,
+    "144": 20,
+    "146": 20,
+    "120": 20,
+    "143": 19,
+    "121": 20,
+    "134": 20,
+    "113": 20,
+    "138": 19,
+    "158": 19,
+    "112": 19,
+    "119": 19,
+    "135": 20,
+    "109": 20,
+    "137": 20,
+    "115": 20
   }
 }
