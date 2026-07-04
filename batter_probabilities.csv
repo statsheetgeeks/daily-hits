@@ -1,158 +1,185 @@
 name,batting_team,opposing_team,opposing_sp_name,sp_xbaa_source,batter_xba,sp_xbaa,bullpen_xbaa,vs_sp_log5,vs_bullpen_log5,games_played,at_bats,ab_per_game,sp_abs,bp_abs,hit_probability
-Alex Bregman,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.243,0.239,0.25726912181303113,0.2341,0.2521,85,334,3.929,2.0,1.929,0.665
-Dansby Swanson,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.21,0.239,0.25726912181303113,0.202,0.2183,83,281,3.386,2.0,1.386,0.5474
-Ian Happ,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.204,0.239,0.25726912181303113,0.1962,0.2121,83,310,3.735,2.0,1.735,0.5728
-Michael Busch,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.229,0.239,0.25726912181303113,0.2205,0.2378,86,315,3.663,2.0,1.663,0.6132
-Nico Hoerner,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.282,0.239,0.25726912181303113,0.2722,0.292,85,341,4.012,2.0,2.012,0.7356
-Pete Crow-Armstrong,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.26,0.239,0.25726912181303113,0.2507,0.2696,87,328,3.77,2.0,1.77,0.678
-Seiya Suzuki,Chicago Cubs,St. Louis Cardinals,Andre Pallante,sp,0.253,0.239,0.25726912181303113,0.2439,0.2624,71,266,3.746,2.0,1.746,0.664
-Alec Burleson,St. Louis Cardinals,Chicago Cubs,David Peterson,sp,0.292,0.268,0.2371119691119691,0.3141,0.2799,83,321,3.867,2.0,1.867,0.7452
-Iván Herrera,St. Louis Cardinals,Chicago Cubs,David Peterson,sp,0.255,0.268,0.2371119691119691,0.2754,0.2439,84,306,3.643,2.0,1.643,0.6683
-JJ Wetherholt,St. Louis Cardinals,Chicago Cubs,David Peterson,sp,0.256,0.268,0.2371119691119691,0.2764,0.2449,80,314,3.925,2.0,1.925,0.6951
-Jordan Walker,St. Louis Cardinals,Chicago Cubs,David Peterson,sp,0.28,0.268,0.2371119691119691,0.3015,0.2682,82,320,3.902,2.0,1.902,0.7306
-Masyn Winn,St. Louis Cardinals,Chicago Cubs,David Peterson,sp,0.257,0.268,0.2371119691119691,0.2775,0.2458,76,281,3.697,2.0,1.697,0.6766
-Nathan Church,St. Louis Cardinals,Chicago Cubs,David Peterson,sp,0.241,0.268,0.2371119691119691,0.2606,0.2303,66,205,3.106,2.0,1.106,0.5907
-CJ Abrams,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.25,0.282,0.2266928746928747,0.2842,0.2286,84,311,3.702,2.0,1.702,0.6706
-Curtis Mead,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.254,0.282,0.2266928746928747,0.2885,0.2323,72,229,3.181,2.0,1.181,0.6295
-Daylen Lile,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.252,0.282,0.2266928746928747,0.2863,0.2305,86,336,3.907,2.0,1.907,0.6909
-Jacob Young,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.251,0.282,0.2266928746928747,0.2853,0.2295,83,258,3.108,2.0,1.108,0.6174
-James Wood,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.271,0.282,0.2266928746928747,0.3069,0.2484,88,339,3.852,2.0,1.852,0.7169
-Luis García Jr.,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.283,0.282,0.2266928746928747,0.3198,0.2597,81,268,3.309,2.0,1.309,0.6879
-Nasim Nuñez,Washington Nationals,Pittsburgh Pirates,Mitch Keller,sp,0.217,0.282,0.2266928746928747,0.2482,0.1977,82,245,2.988,2.0,0.988,0.5453
-Brandon Lowe,Pittsburgh Pirates,Washington Nationals,Foster Griffin,sp,0.246,0.237,0.22480701754385962,0.2351,0.2229,81,317,3.914,2.0,1.914,0.6389
-Bryan Reynolds,Pittsburgh Pirates,Washington Nationals,Foster Griffin,sp,0.26,0.237,0.22480701754385962,0.2486,0.236,88,318,3.614,2.0,1.614,0.6344
-Jake Mangum,Pittsburgh Pirates,Washington Nationals,Foster Griffin,sp,0.251,0.237,0.22480701754385962,0.2399,0.2276,67,197,2.94,2.0,0.94,0.5468
-Nick Gonzales,Pittsburgh Pirates,Washington Nationals,Foster Griffin,sp,0.286,0.237,0.22480701754385962,0.2739,0.2605,82,305,3.72,2.0,1.72,0.6863
-Ryan O'Hearn,Pittsburgh Pirates,Washington Nationals,Foster Griffin,sp,0.264,0.237,0.22480701754385962,0.2525,0.2398,73,274,3.753,2.0,1.753,0.6545
-Ben Rice,New York Yankees,Minnesota Twins,Mike Paredes,sp,0.264,0.286,0.2429850402761795,0.3035,0.2588,81,301,3.716,2.0,1.716,0.7098
-Cody Bellinger,New York Yankees,Minnesota Twins,Mike Paredes,sp,0.279,0.286,0.2429850402761795,0.3197,0.2736,84,307,3.655,2.0,1.655,0.7273
-Jazz Chisholm Jr.,New York Yankees,Minnesota Twins,Mike Paredes,sp,0.208,0.286,0.2429850402761795,0.2418,0.2036,82,289,3.524,2.0,1.524,0.5937
-José Caballero,New York Yankees,Minnesota Twins,Mike Paredes,sp,0.226,0.286,0.2429850402761795,0.2618,0.2213,74,244,3.297,2.0,1.297,0.606
-Austin Martin,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.241,0.227,0.22404385210662084,0.2204,0.2175,77,220,2.857,2.0,0.857,0.5074
-Brooks Lee,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.229,0.227,0.22404385210662084,0.2092,0.2064,84,307,3.655,2.0,1.655,0.5734
-Byron Buxton,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.249,0.227,0.22404385210662084,0.2279,0.225,73,302,4.137,2.0,2.137,0.6542
-Josh Bell,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.256,0.227,0.22404385210662084,0.2345,0.2315,85,308,3.624,2.0,1.624,0.6179
-Kody Clemens,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.259,0.227,0.22404385210662084,0.2374,0.2343,74,266,3.595,2.0,1.595,0.6201
-Luke Keaschall,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.231,0.227,0.22404385210662084,0.211,0.2082,82,280,3.415,2.0,1.415,0.5526
-Trevor Larnach,Minnesota Twins,New York Yankees,Gerrit Cole,sp,0.262,0.227,0.22404385210662084,0.2402,0.2371,72,227,3.153,2.0,1.153,0.5774
-Elly De La Cruz,Cincinnati Reds,Baltimore Orioles,Trevor Rogers,sp,0.264,0.251,0.2320321046373365,0.2671,0.2473,67,268,4.0,2.0,2.0,0.6957
-Matt McLain,Cincinnati Reds,Baltimore Orioles,Trevor Rogers,sp,0.228,0.251,0.2320321046373365,0.2308,0.213,80,261,3.263,2.0,1.263,0.5628
-Nathaniel Lowe,Cincinnati Reds,Baltimore Orioles,Trevor Rogers,sp,0.259,0.251,0.2320321046373365,0.2621,0.2426,67,186,2.776,2.0,0.776,0.5611
-Sal Stewart,Cincinnati Reds,Baltimore Orioles,Trevor Rogers,sp,0.248,0.251,0.2320321046373365,0.251,0.232,86,327,3.802,2.0,1.802,0.6514
-Spencer Steer,Cincinnati Reds,Baltimore Orioles,Trevor Rogers,sp,0.232,0.251,0.2320321046373365,0.2349,0.2168,82,285,3.476,2.0,1.476,0.5919
-Tyler Stephenson,Cincinnati Reds,Baltimore Orioles,Trevor Rogers,sp,0.236,0.251,0.2320321046373365,0.2389,0.2206,66,204,3.091,2.0,1.091,0.5586
-Blaze Alexander,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.289,0.267,0.23035398230088494,0.3098,0.2695,74,193,2.608,2.0,0.608,0.6064
-Coby Mayo,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.203,0.267,0.23035398230088494,0.2196,0.1878,68,213,3.132,2.0,1.132,0.5187
-Colton Cowser,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.214,0.267,0.23035398230088494,0.2312,0.1981,77,185,2.403,2.0,0.403,0.4593
-Gunnar Henderson,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.235,0.267,0.23035398230088494,0.2533,0.218,87,361,4.149,2.0,2.149,0.6713
-Leody Taveras,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.227,0.267,0.23035398230088494,0.2449,0.2104,75,234,3.12,2.0,1.12,0.5624
-Pete Alonso,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.268,0.267,0.23035398230088494,0.2879,0.2494,88,328,3.727,2.0,1.727,0.691
-Samuel Basallo,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.258,0.267,0.23035398230088494,0.2775,0.2399,74,242,3.27,2.0,1.27,0.6315
-Taylor Ward,Baltimore Orioles,Cincinnati Reds,Brady Singer,sp,0.251,0.267,0.23035398230088494,0.2701,0.2332,87,328,3.77,2.0,1.77,0.667
-Brayan Rocchio,Cleveland Guardians,Chicago White Sox,Anthony Kay,sp,0.248,0.269,0.23774299835255355,0.269,0.2377,85,286,3.365,2.0,1.365,0.6311
-Chase DeLauter,Cleveland Guardians,Chicago White Sox,Anthony Kay,sp,0.277,0.269,0.23774299835255355,0.2995,0.266,71,263,3.704,2.0,1.704,0.7103
-Daniel Schneemann,Cleveland Guardians,Chicago White Sox,Anthony Kay,sp,0.224,0.269,0.23774299835255355,0.2436,0.2145,72,218,3.028,2.0,1.028,0.5536
-Kyle Manzardo,Cleveland Guardians,Chicago White Sox,Anthony Kay,sp,0.227,0.269,0.23774299835255355,0.2468,0.2174,78,239,3.064,2.0,1.064,0.5629
-Rhys Hoskins,Cleveland Guardians,Chicago White Sox,Anthony Kay,sp,0.165,0.269,0.23774299835255355,0.1807,0.1575,70,199,2.843,2.0,0.843,0.419
-Steven Kwan,Cleveland Guardians,Chicago White Sox,Anthony Kay,sp,0.248,0.269,0.23774299835255355,0.269,0.2377,80,273,3.413,2.0,1.413,0.6359
-Andrew Benintendi,Chicago White Sox,Cleveland Guardians,Gavin Williams,sp,0.254,0.24,0.21502634467618004,0.2459,0.2205,77,243,3.156,2.0,1.156,0.5736
-Chase Meidroth,Chicago White Sox,Cleveland Guardians,Gavin Williams,sp,0.227,0.24,0.21502634467618004,0.2195,0.1961,84,313,3.726,2.0,1.726,0.582
-Colson Montgomery,Chicago White Sox,Cleveland Guardians,Gavin Williams,sp,0.218,0.24,0.21502634467618004,0.2107,0.188,82,303,3.695,2.0,1.695,0.5623
-Miguel Vargas,Chicago White Sox,Cleveland Guardians,Gavin Williams,sp,0.277,0.24,0.21502634467618004,0.2684,0.2414,85,312,3.671,2.0,1.671,0.6627
-Sam Antonacci,Chicago White Sox,Cleveland Guardians,Gavin Williams,sp,0.299,0.24,0.21502634467618004,0.29,0.2616,67,231,3.448,2.0,1.448,0.6751
-Tristan Peters,Chicago White Sox,Cleveland Guardians,Gavin Williams,sp,0.251,0.24,0.21502634467618004,0.2429,0.2177,82,224,2.732,2.0,0.732,0.5211
-Austin Riley,Atlanta Braves,New York Mets,Christian Scott,sp,0.204,0.249,0.22425547445255475,0.2049,0.1834,85,308,3.624,2.0,1.624,0.5451
-Dominic Smith,Atlanta Braves,New York Mets,Christian Scott,sp,0.27,0.249,0.22425547445255475,0.2711,0.2448,71,187,2.634,2.0,0.634,0.5553
-Matt Olson,Atlanta Braves,New York Mets,Christian Scott,sp,0.254,0.249,0.22425547445255475,0.255,0.2299,85,330,3.882,2.0,1.882,0.6605
-Mauricio Dubón,Atlanta Braves,New York Mets,Christian Scott,sp,0.276,0.249,0.22425547445255475,0.2771,0.2505,81,301,3.716,2.0,1.716,0.6814
-Michael Harris II,Atlanta Braves,New York Mets,Christian Scott,sp,0.304,0.249,0.22425547445255475,0.3051,0.2769,79,287,3.633,2.0,1.633,0.7156
-Mike Yastrzemski,Atlanta Braves,New York Mets,Christian Scott,sp,0.223,0.249,0.22425547445255475,0.2239,0.201,77,207,2.688,2.0,0.688,0.4838
-Ozzie Albies,Atlanta Braves,New York Mets,Christian Scott,sp,0.251,0.249,0.22425547445255475,0.252,0.2271,85,326,3.835,2.0,1.835,0.6513
-Bo Bichette,New York Mets,Atlanta Braves,Grant Holmes,sp,0.283,0.247,0.20476697530864196,0.2819,0.2356,87,348,4.0,2.0,2.0,0.6987
-Brett Baty,New York Mets,Atlanta Braves,Grant Holmes,sp,0.226,0.247,0.20476697530864196,0.2251,0.1857,83,251,3.024,2.0,1.024,0.5134
-Carson Benge,New York Mets,Atlanta Braves,Grant Holmes,sp,0.282,0.247,0.20476697530864196,0.2809,0.2347,84,316,3.762,2.0,1.762,0.6772
-Juan Soto,New York Mets,Atlanta Braves,Grant Holmes,sp,0.302,0.247,0.20476697530864196,0.3009,0.2525,68,242,3.559,2.0,1.559,0.6895
-Mark Vientos,New York Mets,Atlanta Braves,Grant Holmes,sp,0.234,0.247,0.20476697530864196,0.233,0.1926,70,230,3.286,2.0,1.286,0.5532
-Edouard Julien,Colorado Rockies,San Francisco Giants,,team_overall,0.258,0.2423474178403756,0.23521887287024906,0.2522,0.2449,72,195,2.708,2.0,0.708,0.5416
-Ezequiel Tovar,Colorado Rockies,San Francisco Giants,,team_overall,0.218,0.2423474178403756,0.23521887287024906,0.2128,0.2063,82,284,3.463,2.0,1.463,0.5581
-Hunter Goodman,Colorado Rockies,San Francisco Giants,,team_overall,0.228,0.2423474178403756,0.23521887287024906,0.2227,0.216,81,309,3.815,2.0,1.815,0.6115
-Jake McCarthy,Colorado Rockies,San Francisco Giants,,team_overall,0.263,0.2423474178403756,0.23521887287024906,0.2571,0.2497,73,242,3.315,2.0,1.315,0.6217
-Kyle Karros,Colorado Rockies,San Francisco Giants,,team_overall,0.258,0.2423474178403756,0.23521887287024906,0.2522,0.2449,83,239,2.88,2.0,0.88,0.5633
-TJ Rumfield,Colorado Rockies,San Francisco Giants,,team_overall,0.245,0.2423474178403756,0.23521887287024906,0.2394,0.2323,85,304,3.576,2.0,1.576,0.6186
-Troy Johnston,Colorado Rockies,San Francisco Giants,,team_overall,0.285,0.2423474178403756,0.23521887287024906,0.2788,0.271,79,260,3.291,2.0,1.291,0.6541
-Willi Castro,Colorado Rockies,San Francisco Giants,,team_overall,0.241,0.2423474178403756,0.23521887287024906,0.2355,0.2285,74,263,3.554,2.0,1.554,0.6095
-Casey Schmitt,San Francisco Giants,Colorado Rockies,Ryan Feltner,sp,0.296,0.266,0.26267701863354037,0.316,0.3123,78,309,3.962,2.0,1.962,0.7756
-Drew Gilbert,San Francisco Giants,Colorado Rockies,Ryan Feltner,sp,0.234,0.266,0.26267701863354037,0.2513,0.2481,67,167,2.493,2.0,0.493,0.513
-Jung Hoo Lee,San Francisco Giants,Colorado Rockies,Ryan Feltner,sp,0.299,0.266,0.26267701863354037,0.3191,0.3154,78,295,3.782,2.0,1.782,0.764
-Luis Arraez,San Francisco Giants,Colorado Rockies,Ryan Feltner,sp,0.285,0.266,0.26267701863354037,0.3046,0.301,81,322,3.975,2.0,1.975,0.7616
-Rafael Devers,San Francisco Giants,Colorado Rockies,Ryan Feltner,sp,0.223,0.266,0.26267701863354037,0.2398,0.2367,86,330,3.837,2.0,1.837,0.6481
-Willy Adames,San Francisco Giants,Colorado Rockies,Ryan Feltner,sp,0.218,0.266,0.26267701863354037,0.2345,0.2314,81,321,3.963,2.0,1.963,0.6504
-Brice Matthews,Houston Astros,Tampa Bay Rays,Nick Martinez,sp,0.189,0.28,0.2418337730870712,0.2156,0.1839,75,194,2.587,2.0,0.587,0.4539
-Cam Smith,Houston Astros,Tampa Bay Rays,Nick Martinez,sp,0.249,0.28,0.2418337730870712,0.2811,0.2428,87,292,3.356,2.0,1.356,0.6456
-Christian Walker,Houston Astros,Tampa Bay Rays,Nick Martinez,sp,0.226,0.28,0.2418337730870712,0.2561,0.2202,87,326,3.747,2.0,1.747,0.6416
-Isaac Paredes,Houston Astros,Tampa Bay Rays,Nick Martinez,sp,0.235,0.28,0.2418337730870712,0.2659,0.2291,82,296,3.61,2.0,1.61,0.6455
-Yordan Alvarez,Houston Astros,Tampa Bay Rays,Nick Martinez,sp,0.334,0.28,0.2418337730870712,0.3716,0.3266,87,313,3.598,2.0,1.598,0.7901
-Cedric Mullins,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.192,0.237,0.2141368861024033,0.1829,0.1641,73,249,3.411,2.0,1.411,0.4815
-Chandler Simpson,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.246,0.237,0.2141368861024033,0.2351,0.2123,81,299,3.691,2.0,1.691,0.6092
-Jonathan Aranda,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.271,0.237,0.2141368861024033,0.2593,0.235,83,301,3.627,2.0,1.627,0.6452
-Junior Caminero,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.277,0.237,0.2141368861024033,0.2652,0.2404,84,319,3.798,2.0,1.798,0.6707
-Nick Fortes,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.235,0.237,0.2141368861024033,0.2244,0.2024,65,189,2.908,2.0,0.908,0.5101
-Taylor Walls,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.193,0.237,0.2141368861024033,0.1838,0.165,67,198,2.955,2.0,0.955,0.4392
-Yandy Díaz,Tampa Bay Rays,Houston Astros,Spencer Arrighetti,sp,0.294,0.237,0.2141368861024033,0.2817,0.256,81,307,3.79,2.0,1.79,0.6961
-Jo Adell,Los Angeles Angels,Boston Red Sox,Jake Bennett,sp,0.253,0.211,0.2383222632226322,0.2155,0.2432,87,341,3.92,2.0,1.92,0.6396
-Jorge Soler,Los Angeles Angels,Boston Red Sox,Jake Bennett,sp,0.217,0.211,0.2383222632226322,0.1835,0.2082,66,240,3.636,2.0,1.636,0.545
-Nolan Schanuel,Los Angeles Angels,Boston Red Sox,Jake Bennett,sp,0.274,0.211,0.2383222632226322,0.2343,0.2637,70,260,3.714,2.0,1.714,0.6531
-Oswald Peraza,Los Angeles Angels,Boston Red Sox,Jake Bennett,sp,0.241,0.211,0.2383222632226322,0.2048,0.2315,77,242,3.143,2.0,1.143,0.532
-Zach Neto,Los Angeles Angels,Boston Red Sox,Jake Bennett,sp,0.199,0.211,0.2383222632226322,0.1677,0.1907,85,334,3.929,2.0,1.929,0.5394
-Caleb Durbin,Boston Red Sox,Los Angeles Angels,Reid Detmers,sp,0.233,0.21,0.21406641000962465,0.1967,0.2006,78,253,3.244,2.0,1.244,0.5116
-Ceddanne Rafaela,Boston Red Sox,Los Angeles Angels,Reid Detmers,sp,0.239,0.21,0.21406641000962465,0.202,0.206,81,301,3.716,2.0,1.716,0.5714
-Jarren Duran,Boston Red Sox,Los Angeles Angels,Reid Detmers,sp,0.223,0.21,0.21406641000962465,0.1879,0.1916,78,312,4.0,2.0,2.0,0.569
-Willson Contreras,Boston Red Sox,Los Angeles Angels,Reid Detmers,sp,0.263,0.21,0.21406641000962465,0.2234,0.2276,83,293,3.53,2.0,1.53,0.5937
-Wilyer Abreu,Boston Red Sox,Los Angeles Angels,Reid Detmers,sp,0.254,0.21,0.21406641000962465,0.2153,0.2195,83,319,3.843,2.0,1.843,0.61
-Carlos Cortes,Athletics,Miami Marlins,Tyler Phillips,sp,0.275,0.248,0.22271924746743849,0.275,0.2479,66,184,2.788,2.0,0.788,0.5801
-Jeff McNeil,Athletics,Miami Marlins,Tyler Phillips,sp,0.264,0.248,0.22271924746743849,0.264,0.2376,79,249,3.152,2.0,1.152,0.6037
-Lawrence Butler,Athletics,Miami Marlins,Tyler Phillips,sp,0.24,0.248,0.22271924746743849,0.24,0.2153,79,214,2.709,2.0,0.709,0.5136
-Nick Kurtz,Athletics,Miami Marlins,Tyler Phillips,sp,0.257,0.248,0.22271924746743849,0.257,0.2311,86,312,3.628,2.0,1.628,0.6401
-Shea Langeliers,Athletics,Miami Marlins,Tyler Phillips,sp,0.273,0.248,0.22271924746743849,0.273,0.246,79,328,4.152,2.0,2.152,0.7121
-Jakob Marsee,Miami Marlins,Athletics,Jack Perkins,sp,0.212,0.23,0.21203580246913575,0.1959,0.18,85,299,3.518,2.0,1.518,0.5216
-Javier Sanoja,Miami Marlins,Athletics,Jack Perkins,sp,0.255,0.23,0.21203580246913575,0.2367,0.2183,70,199,2.843,2.0,0.843,0.5266
-Liam Hicks,Miami Marlins,Athletics,Jack Perkins,sp,0.247,0.23,0.21203580246913575,0.2291,0.2111,76,262,3.447,2.0,1.447,0.5783
-Otto Lopez,Miami Marlins,Athletics,Jack Perkins,sp,0.29,0.23,0.21203580246913575,0.27,0.25,86,342,3.977,2.0,1.977,0.6983
-Owen Caissie,Miami Marlins,Athletics,Jack Perkins,sp,0.215,0.23,0.21203580246913575,0.1988,0.1827,76,209,2.75,2.0,0.75,0.4482
-Xavier Edwards,Miami Marlins,Athletics,Jack Perkins,sp,0.27,0.23,0.21203580246913575,0.2509,0.2318,88,319,3.625,2.0,1.625,0.6344
-Corbin Carroll,Arizona Diamondbacks,Milwaukee Brewers,Kyle Harrison,sp,0.26,0.22,0.20705974395448082,0.2311,0.2177,83,309,3.723,2.0,1.723,0.6127
-Geraldo Perdomo,Arizona Diamondbacks,Milwaukee Brewers,Kyle Harrison,sp,0.254,0.22,0.20705974395448082,0.2255,0.2123,83,287,3.458,2.0,1.458,0.5764
-Ildemaro Vargas,Arizona Diamondbacks,Milwaukee Brewers,Kyle Harrison,sp,0.278,0.22,0.20705974395448082,0.2477,0.2336,74,250,3.378,2.0,1.378,0.6078
-Ketel Marte,Arizona Diamondbacks,Milwaukee Brewers,Kyle Harrison,sp,0.298,0.22,0.20705974395448082,0.2664,0.2516,82,329,4.012,2.0,2.012,0.6996
-Nolan Arenado,Arizona Diamondbacks,Milwaukee Brewers,Kyle Harrison,sp,0.237,0.22,0.20705974395448082,0.2099,0.1974,81,276,3.407,2.0,1.407,0.5419
-Brice Turang,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.253,0.241,0.21991702127659576,0.2459,0.2245,81,313,3.864,2.0,1.864,0.646
-David Hamilton,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.199,0.241,0.21991702127659576,0.193,0.1752,71,196,2.761,2.0,0.761,0.4375
-Garrett Mitchell,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.247,0.241,0.21991702127659576,0.24,0.219,75,230,3.067,2.0,1.067,0.5563
-Jake Bauers,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.252,0.241,0.21991702127659576,0.2449,0.2236,76,258,3.395,2.0,1.395,0.5994
-Joey Ortiz,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.23,0.241,0.21991702127659576,0.2234,0.2034,72,178,2.472,2.0,0.472,0.4583
-Sal Frelick,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.252,0.241,0.21991702127659576,0.2449,0.2236,79,244,3.089,2.0,1.089,0.5672
-William Contreras,Milwaukee Brewers,Arizona Diamondbacks,Jose Cabrera,sp,0.281,0.241,0.21991702127659576,0.2734,0.2504,81,311,3.84,2.0,1.84,0.6893
-Andy Pages,Los Angeles Dodgers,San Diego Padres,Michael King,sp,0.27,0.252,0.2086790757381258,0.2742,0.2282,87,340,3.908,2.0,1.908,0.6786
-Freddie Freeman,Los Angeles Dodgers,San Diego Padres,Michael King,sp,0.297,0.252,0.2086790757381258,0.3015,0.2525,85,320,3.765,2.0,1.765,0.7081
-Kyle Tucker,Los Angeles Dodgers,San Diego Padres,Michael King,sp,0.259,0.252,0.2086790757381258,0.2631,0.2184,82,297,3.622,2.0,1.622,0.6359
-Max Muncy,Los Angeles Dodgers,San Diego Padres,Michael King,sp,0.252,0.252,0.2086790757381258,0.256,0.2122,81,269,3.321,2.0,1.321,0.5961
-Shohei Ohtani,Los Angeles Dodgers,San Diego Padres,Michael King,sp,0.289,0.252,0.2086790757381258,0.2934,0.2453,84,306,3.643,2.0,1.643,0.6856
-Fernando Tatis Jr.,San Diego Padres,Los Angeles Dodgers,Shohei Ohtani,sp,0.29,0.201,0.20820170109356018,0.2376,0.2457,85,332,3.906,2.0,1.906,0.6604
-Gavin Sheets,San Diego Padres,Los Angeles Dodgers,Shohei Ohtani,sp,0.248,0.201,0.20820170109356018,0.201,0.2082,80,247,3.087,2.0,1.087,0.5047
-Jackson Merrill,San Diego Padres,Los Angeles Dodgers,Shohei Ohtani,sp,0.234,0.201,0.20820170109356018,0.189,0.1959,83,321,3.867,2.0,1.867,0.5622
-Manny Machado,San Diego Padres,Los Angeles Dodgers,Shohei Ohtani,sp,0.23,0.201,0.20820170109356018,0.1856,0.1924,84,308,3.667,2.0,1.667,0.5355
-Miguel Andujar,San Diego Padres,Los Angeles Dodgers,Shohei Ohtani,sp,0.273,0.201,0.20820170109356018,0.2227,0.2304,65,211,3.246,2.0,1.246,0.564
-Xander Bogaerts,San Diego Padres,Los Angeles Dodgers,Shohei Ohtani,sp,0.245,0.201,0.20820170109356018,0.1984,0.2056,82,284,3.463,2.0,1.463,0.5411
-Cole Young,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.28,0.198,0.23065732087227414,0.2255,0.2612,88,317,3.602,2.0,1.602,0.6307
-Dominic Canzone,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.285,0.198,0.23065732087227414,0.2298,0.266,76,197,2.592,2.0,0.592,0.506
-J.P. Crawford,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.243,0.198,0.23065732087227414,0.1937,0.2259,70,252,3.6,2.0,1.6,0.5684
-Josh Naylor,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.274,0.198,0.23065732087227414,0.2203,0.2555,81,319,3.938,2.0,1.938,0.6568
-Julio Rodríguez,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.276,0.198,0.23065732087227414,0.222,0.2574,87,344,3.954,2.0,1.954,0.6616
-Luke Raley,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.256,0.198,0.23065732087227414,0.2048,0.2383,74,209,2.824,2.0,0.824,0.4947
-Randy Arozarena,Seattle Mariners,Toronto Blue Jays,Dylan Cease,sp,0.26,0.198,0.23065732087227414,0.2083,0.2421,80,292,3.65,2.0,1.65,0.6033
-Andrés Giménez,Toronto Blue Jays,Seattle Mariners,Luis Castillo,sp,0.224,0.259,0.2385392296718973,0.2343,0.2152,83,266,3.205,2.0,1.205,0.5622
-Daulton Varsho,Toronto Blue Jays,Seattle Mariners,Luis Castillo,sp,0.245,0.259,0.2385392296718973,0.2559,0.2356,74,248,3.351,2.0,1.351,0.6149
-Ernie Clement,Toronto Blue Jays,Seattle Mariners,Luis Castillo,sp,0.254,0.259,0.2385392296718973,0.2652,0.2444,84,321,3.821,2.0,1.821,0.6759
-Kazuma Okamoto,Toronto Blue Jays,Seattle Mariners,Luis Castillo,sp,0.222,0.259,0.2385392296718973,0.2322,0.2132,84,304,3.619,2.0,1.619,0.6001
-Myles Straw,Toronto Blue Jays,Seattle Mariners,Luis Castillo,sp,0.259,0.259,0.2385392296718973,0.2703,0.2493,76,134,1.763,1.763,0.0,0.4262
-Vladimir Guerrero Jr.,Toronto Blue Jays,Seattle Mariners,Luis Castillo,sp,0.293,0.259,0.2385392296718973,0.3052,0.2825,82,303,3.695,2.0,1.695,0.725
+CJ Abrams,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.25,0.219,0.23610995542347696,0.2208,0.238,85,315,3.706,2.0,1.706,0.6181
+Curtis Mead,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.254,0.219,0.23610995542347696,0.2245,0.2419,72,229,3.181,2.0,1.181,0.5664
+Daylen Lile,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.256,0.219,0.23610995542347696,0.2263,0.2439,87,340,3.908,2.0,1.908,0.6489
+Jacob Young,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.251,0.219,0.23610995542347696,0.2218,0.239,83,258,3.108,2.0,1.108,0.5525
+James Wood,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.274,0.219,0.23610995542347696,0.2429,0.2613,89,344,3.865,2.0,1.865,0.6742
+Luis García Jr.,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.289,0.219,0.23610995542347696,0.2568,0.2759,82,272,3.317,2.0,1.317,0.639
+Nasim Nuñez,Washington Nationals,Pittsburgh Pirates,Braxton Ashcraft,sp,0.218,0.219,0.23610995542347696,0.1916,0.2072,83,249,3.0,2.0,1.0,0.4819
+Brandon Lowe,Pittsburgh Pirates,Washington Nationals,Carson Palmquist,sp,0.246,0.23,0.22390260869565218,0.2281,0.222,82,321,3.915,2.0,1.915,0.6316
+Bryan Reynolds,Pittsburgh Pirates,Washington Nationals,Carson Palmquist,sp,0.261,0.23,0.22390260869565218,0.2424,0.236,89,323,3.629,2.0,1.629,0.6298
+Jake Mangum,Pittsburgh Pirates,Washington Nationals,Carson Palmquist,sp,0.256,0.23,0.22390260869565218,0.2376,0.2314,68,202,2.971,2.0,0.971,0.5498
+Nick Gonzales,Pittsburgh Pirates,Washington Nationals,Carson Palmquist,sp,0.285,0.23,0.22390260869565218,0.2653,0.2585,83,310,3.735,2.0,1.735,0.6787
+Ryan O'Hearn,Pittsburgh Pirates,Washington Nationals,Carson Palmquist,sp,0.261,0.23,0.22390260869565218,0.2424,0.236,74,279,3.77,2.0,1.77,0.6436
+Ben Rice,New York Yankees,Minnesota Twins,Zebby Matthews,sp,0.266,0.243,0.24513461538461537,0.2608,0.263,82,304,3.707,2.0,1.707,0.6754
+Cody Bellinger,New York Yankees,Minnesota Twins,Zebby Matthews,sp,0.279,0.243,0.24513461538461537,0.2736,0.2759,85,310,3.647,2.0,1.647,0.6899
+Jazz Chisholm Jr.,New York Yankees,Minnesota Twins,Zebby Matthews,sp,0.207,0.243,0.24513461538461537,0.2026,0.2045,83,293,3.53,2.0,1.53,0.5519
+José Caballero,New York Yankees,Minnesota Twins,Zebby Matthews,sp,0.228,0.243,0.24513461538461537,0.2233,0.2253,75,247,3.293,2.0,1.293,0.5663
+Ryan McMahon,New York Yankees,Minnesota Twins,Zebby Matthews,sp,0.237,0.243,0.24513461538461537,0.2322,0.2342,70,188,2.686,2.0,0.686,0.5091
+Trent Grisham,New York Yankees,Minnesota Twins,Zebby Matthews,sp,0.257,0.243,0.24513461538461537,0.2519,0.2541,67,227,3.388,2.0,1.388,0.6274
+Austin Martin,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.241,0.365,0.22443157010915196,0.3563,0.2179,77,220,2.857,2.0,0.857,0.6643
+Brooks Lee,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.23,0.365,0.22443157010915196,0.3424,0.2077,85,311,3.659,2.0,1.659,0.7061
+Byron Buxton,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.249,0.365,0.22443157010915196,0.3662,0.2254,73,302,4.137,2.0,2.137,0.7673
+Josh Bell,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.254,0.365,0.22443157010915196,0.3724,0.23,86,311,3.616,2.0,1.616,0.7418
+Kody Clemens,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.26,0.365,0.22443157010915196,0.3798,0.2356,75,270,3.6,2.0,1.6,0.7497
+Luke Keaschall,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.231,0.365,0.22443157010915196,0.3436,0.2086,83,283,3.41,2.0,1.41,0.6902
+Trevor Larnach,Minnesota Twins,New York Yankees,Brendan Beck,sp,0.26,0.365,0.22443157010915196,0.3798,0.2356,73,230,3.151,2.0,1.151,0.7177
+Brandon Nimmo,Texas Rangers,Detroit Tigers,Jack Flaherty,sp,0.294,0.237,0.2246622864651774,0.2817,0.2679,82,317,3.866,2.0,1.866,0.7117
+Evan Carter,Texas Rangers,Detroit Tigers,Jack Flaherty,sp,0.197,0.237,0.2246622864651774,0.1877,0.1773,70,204,2.914,2.0,0.914,0.448
+Ezequiel Duran,Texas Rangers,Detroit Tigers,Jack Flaherty,sp,0.257,0.237,0.2246622864651774,0.2457,0.2331,79,268,3.392,2.0,1.392,0.6068
+Jake Burger,Texas Rangers,Detroit Tigers,Jack Flaherty,sp,0.236,0.237,0.2246622864651774,0.2254,0.2135,85,313,3.682,2.0,1.682,0.5994
+Joc Pederson,Texas Rangers,Detroit Tigers,Jack Flaherty,sp,0.257,0.237,0.2246622864651774,0.2457,0.2331,80,229,2.862,2.0,0.862,0.5474
+Josh Jung,Texas Rangers,Detroit Tigers,Jack Flaherty,sp,0.291,0.237,0.2246622864651774,0.2788,0.265,82,319,3.89,2.0,1.89,0.7093
+Colt Keith,Detroit Tigers,Texas Rangers,Kumar Rocker,sp,0.264,0.261,0.23707125603864737,0.2775,0.2526,79,235,2.975,2.0,0.975,0.607
+Dillon Dingler,Detroit Tigers,Texas Rangers,Kumar Rocker,sp,0.295,0.261,0.23707125603864737,0.3094,0.2828,81,305,3.765,2.0,1.765,0.7347
+Kevin McGonigle,Detroit Tigers,Texas Rangers,Kumar Rocker,sp,0.273,0.261,0.23707125603864737,0.2868,0.2614,85,320,3.765,2.0,1.765,0.702
+Matt Vierling,Detroit Tigers,Texas Rangers,Kumar Rocker,sp,0.251,0.261,0.23707125603864737,0.2641,0.24,74,217,2.932,2.0,0.932,0.5807
+Riley Greene,Detroit Tigers,Texas Rangers,Kumar Rocker,sp,0.261,0.261,0.23707125603864737,0.2744,0.2497,87,317,3.644,2.0,1.644,0.6717
+Spencer Torkelson,Detroit Tigers,Texas Rangers,Kumar Rocker,sp,0.221,0.261,0.23707125603864737,0.233,0.2109,87,292,3.356,2.0,1.356,0.5733
+Cole Young,Seattle Mariners,Toronto Blue Jays,Shane Bieber,sp,0.28,0.415,0.2301977342945417,0.4555,0.2607,89,320,3.596,2.0,1.596,0.8169
+Dominic Canzone,Seattle Mariners,Toronto Blue Jays,Shane Bieber,sp,0.281,0.415,0.2301977342945417,0.4567,0.2617,77,201,2.61,2.0,0.61,0.7547
+J.P. Crawford,Seattle Mariners,Toronto Blue Jays,Shane Bieber,sp,0.241,0.415,0.2301977342945417,0.4058,0.2236,71,255,3.592,2.0,1.592,0.764
+Josh Naylor,Seattle Mariners,Toronto Blue Jays,Shane Bieber,sp,0.274,0.415,0.2301977342945417,0.4481,0.255,82,323,3.939,2.0,1.939,0.8279
+Luke Raley,Seattle Mariners,Toronto Blue Jays,Shane Bieber,sp,0.255,0.415,0.2301977342945417,0.4241,0.2369,75,212,2.827,2.0,0.827,0.7348
+Randy Arozarena,Seattle Mariners,Toronto Blue Jays,Shane Bieber,sp,0.259,0.415,0.2301977342945417,0.4292,0.2407,81,296,3.654,2.0,1.654,0.7934
+Andrés Giménez,Toronto Blue Jays,Seattle Mariners,Logan Gilbert,sp,0.228,0.24,0.24061516853932582,0.2205,0.221,84,269,3.202,2.0,1.202,0.55
+Daulton Varsho,Toronto Blue Jays,Seattle Mariners,Logan Gilbert,sp,0.243,0.24,0.24061516853932582,0.2351,0.2357,75,252,3.36,2.0,1.36,0.5941
+Ernie Clement,Toronto Blue Jays,Seattle Mariners,Logan Gilbert,sp,0.253,0.24,0.24061516853932582,0.2449,0.2455,85,325,3.824,2.0,1.824,0.6589
+Kazuma Okamoto,Toronto Blue Jays,Seattle Mariners,Logan Gilbert,sp,0.226,0.24,0.24061516853932582,0.2185,0.2191,85,308,3.624,2.0,1.624,0.5913
+Myles Straw,Toronto Blue Jays,Seattle Mariners,Logan Gilbert,sp,0.259,0.24,0.24061516853932582,0.2508,0.2514,77,134,1.74,1.74,0.0,0.3949
+Vladimir Guerrero Jr.,Toronto Blue Jays,Seattle Mariners,Logan Gilbert,sp,0.293,0.24,0.24061516853932582,0.2841,0.2848,83,306,3.687,2.0,1.687,0.7088
+Elly De La Cruz,Cincinnati Reds,Baltimore Orioles,Brandon Young,sp,0.263,0.252,0.23469871794871794,0.2672,0.2492,68,271,3.985,2.0,1.985,0.696
+Matt McLain,Cincinnati Reds,Baltimore Orioles,Brandon Young,sp,0.226,0.252,0.23469871794871794,0.2298,0.2135,81,263,3.247,2.0,1.247,0.5603
+Nathaniel Lowe,Cincinnati Reds,Baltimore Orioles,Brandon Young,sp,0.259,0.252,0.23469871794871794,0.2631,0.2453,67,186,2.776,2.0,0.776,0.5635
+Sal Stewart,Cincinnati Reds,Baltimore Orioles,Brandon Young,sp,0.248,0.252,0.23469871794871794,0.252,0.2347,87,331,3.805,2.0,1.805,0.6548
+Spencer Steer,Cincinnati Reds,Baltimore Orioles,Brandon Young,sp,0.234,0.252,0.23469871794871794,0.2378,0.2212,83,288,3.47,2.0,1.47,0.5977
+Tyler Stephenson,Cincinnati Reds,Baltimore Orioles,Brandon Young,sp,0.233,0.252,0.23469871794871794,0.2368,0.2203,67,207,3.09,2.0,1.09,0.5559
+Blaze Alexander,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.288,0.24290512409927945,0.230519302615193,0.2824,0.2687,75,195,2.6,2.0,0.6,0.5732
+Coby Mayo,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.203,0.24290512409927945,0.230519302615193,0.1986,0.1879,68,213,3.132,2.0,1.132,0.4926
+Colton Cowser,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.211,0.24290512409927945,0.230519302615193,0.2065,0.1954,78,188,2.41,2.0,0.41,0.4241
+Gunnar Henderson,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.235,0.24290512409927945,0.230519302615193,0.2301,0.2182,88,363,4.125,2.0,2.125,0.6487
+Leody Taveras,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.227,0.24290512409927945,0.230519302615193,0.2222,0.2106,75,234,3.12,2.0,1.12,0.5358
+Pete Alonso,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.268,0.24290512409927945,0.230519302615193,0.2626,0.2496,89,332,3.73,2.0,1.73,0.6691
+Samuel Basallo,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.258,0.24290512409927945,0.230519302615193,0.2528,0.24,75,245,3.267,2.0,1.267,0.6057
+Taylor Ward,Baltimore Orioles,Cincinnati Reds,Hunter Greene,team_overall,0.253,0.24290512409927945,0.230519302615193,0.2478,0.2353,88,331,3.761,2.0,1.761,0.6472
+Brice Matthews,Houston Astros,Tampa Bay Rays,Drew Rasmussen,sp,0.189,0.226,0.2414369310793238,0.171,0.1836,75,194,2.587,2.0,0.587,0.3899
+Cam Smith,Houston Astros,Tampa Bay Rays,Drew Rasmussen,sp,0.251,0.226,0.2414369310793238,0.2288,0.2444,88,296,3.364,2.0,1.364,0.5942
+Christian Walker,Houston Astros,Tampa Bay Rays,Drew Rasmussen,sp,0.226,0.226,0.2414369310793238,0.2054,0.2198,88,329,3.739,2.0,1.739,0.5899
+Isaac Paredes,Houston Astros,Tampa Bay Rays,Drew Rasmussen,sp,0.238,0.226,0.2414369310793238,0.2166,0.2316,83,299,3.602,2.0,1.602,0.5976
+Yordan Alvarez,Houston Astros,Tampa Bay Rays,Drew Rasmussen,sp,0.336,0.226,0.2414369310793238,0.3094,0.3281,88,317,3.602,2.0,1.602,0.7478
+Cedric Mullins,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.191,0.169,0.2134406604747162,0.1271,0.1627,74,253,3.419,2.0,1.419,0.4078
+Chandler Simpson,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.246,0.169,0.2134406604747162,0.1675,0.2116,81,299,3.691,2.0,1.691,0.5364
+Jonathan Aranda,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.269,0.169,0.2134406604747162,0.185,0.2324,84,305,3.631,2.0,1.631,0.5685
+Junior Caminero,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.275,0.169,0.2134406604747162,0.1896,0.2379,85,323,3.8,2.0,1.8,0.5973
+Nick Fortes,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.237,0.169,0.2134406604747162,0.1608,0.2036,66,192,2.909,2.0,0.909,0.4274
+Taylor Walls,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.196,0.169,0.2134406604747162,0.1307,0.1671,68,201,2.956,2.0,0.956,0.3655
+Yandy Díaz,Tampa Bay Rays,Houston Astros,Hunter Brown,sp,0.294,0.169,0.2134406604747162,0.2043,0.2552,82,311,3.793,2.0,1.793,0.6267
+Brayan Rocchio,Cleveland Guardians,Chicago White Sox,Sean Burke,sp,0.249,0.233,0.23514992025518341,0.234,0.2361,86,289,3.36,2.0,1.36,0.5932
+Chase DeLauter,Cleveland Guardians,Chicago White Sox,Sean Burke,sp,0.274,0.233,0.23514992025518341,0.258,0.2603,72,267,3.708,2.0,1.708,0.671
+Daniel Schneemann,Cleveland Guardians,Chicago White Sox,Sean Burke,sp,0.225,0.233,0.23514992025518341,0.211,0.213,73,220,3.014,2.0,1.014,0.5117
+Kyle Manzardo,Cleveland Guardians,Chicago White Sox,Sean Burke,sp,0.223,0.233,0.23514992025518341,0.2091,0.2111,79,243,3.076,2.0,1.076,0.5153
+Rhys Hoskins,Cleveland Guardians,Chicago White Sox,Sean Burke,sp,0.164,0.233,0.23514992025518341,0.153,0.1546,71,201,2.831,2.0,0.831,0.376
+Steven Kwan,Cleveland Guardians,Chicago White Sox,Sean Burke,sp,0.249,0.233,0.23514992025518341,0.234,0.2361,81,276,3.407,2.0,1.407,0.5983
+Andrew Benintendi,Chicago White Sox,Cleveland Guardians,Parker Messick,sp,0.251,0.228,0.21594972677595628,0.2308,0.2187,78,246,3.154,2.0,1.154,0.555
+Chase Meidroth,Chicago White Sox,Cleveland Guardians,Parker Messick,sp,0.226,0.228,0.21594972677595628,0.2073,0.1961,85,317,3.729,2.0,1.729,0.5692
+Colson Montgomery,Chicago White Sox,Cleveland Guardians,Parker Messick,sp,0.218,0.228,0.21594972677595628,0.1998,0.1889,83,307,3.699,2.0,1.699,0.5513
+Miguel Vargas,Chicago White Sox,Cleveland Guardians,Parker Messick,sp,0.279,0.228,0.21594972677595628,0.2574,0.2442,86,315,3.663,2.0,1.663,0.6538
+Sam Antonacci,Chicago White Sox,Cleveland Guardians,Parker Messick,sp,0.296,0.228,0.21594972677595628,0.2735,0.2599,68,236,3.471,2.0,1.471,0.661
+Tristan Peters,Chicago White Sox,Cleveland Guardians,Parker Messick,sp,0.252,0.228,0.21594972677595628,0.2318,0.2196,83,227,2.735,2.0,0.735,0.5082
+Alex Bregman,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.244,0.285,0.24817300380228136,0.2806,0.2442,86,338,3.93,2.0,1.93,0.6985
+Dansby Swanson,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.209,0.285,0.24817300380228136,0.2421,0.2092,84,283,3.369,2.0,1.369,0.5834
+Ian Happ,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.203,0.285,0.24817300380228136,0.2354,0.2032,84,313,3.726,2.0,1.726,0.605
+Michael Busch,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.227,0.285,0.24817300380228136,0.262,0.2272,87,319,3.667,2.0,1.667,0.6456
+Nico Hoerner,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.281,0.285,0.24817300380228136,0.3208,0.2812,86,345,4.012,2.0,2.012,0.7626
+Pete Crow-Armstrong,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.26,0.285,0.24817300380228136,0.2981,0.2602,88,331,3.761,2.0,1.761,0.7102
+Seiya Suzuki,Chicago Cubs,St. Louis Cardinals,Kyle Leahy,sp,0.253,0.285,0.24817300380228136,0.2905,0.2532,72,269,3.736,2.0,1.736,0.6968
+Alec Burleson,St. Louis Cardinals,Chicago Cubs,Shota Imanaga,sp,0.293,0.227,0.23733904761904764,0.2696,0.2811,84,326,3.881,2.0,1.881,0.7132
+Iván Herrera,St. Louis Cardinals,Chicago Cubs,Shota Imanaga,sp,0.259,0.227,0.23733904761904764,0.2374,0.248,85,310,3.647,2.0,1.647,0.6363
+JJ Wetherholt,St. Louis Cardinals,Chicago Cubs,Shota Imanaga,sp,0.257,0.227,0.23733904761904764,0.2355,0.2461,81,319,3.938,2.0,1.938,0.6619
+Jordan Walker,St. Louis Cardinals,Chicago Cubs,Shota Imanaga,sp,0.28,0.227,0.23733904761904764,0.2572,0.2685,83,324,3.904,2.0,1.904,0.6958
+Masyn Winn,St. Louis Cardinals,Chicago Cubs,Shota Imanaga,sp,0.259,0.227,0.23733904761904764,0.2374,0.248,77,285,3.701,2.0,1.701,0.6419
+Nathan Church,St. Louis Cardinals,Chicago Cubs,Shota Imanaga,sp,0.243,0.227,0.23733904761904764,0.2223,0.2325,67,210,3.134,2.0,1.134,0.552
+Austin Riley,Atlanta Braves,New York Mets,Sean Manaea,sp,0.203,0.248,0.22532318840579713,0.203,0.1834,86,310,3.605,2.0,1.605,0.5411
+Dominic Smith,Atlanta Braves,New York Mets,Sean Manaea,sp,0.267,0.248,0.22532318840579713,0.267,0.2431,72,191,2.653,2.0,0.653,0.5521
+Matt Olson,Atlanta Braves,New York Mets,Sean Manaea,sp,0.257,0.248,0.22532318840579713,0.257,0.2338,86,333,3.872,2.0,1.872,0.6647
+Mauricio Dubón,Atlanta Braves,New York Mets,Sean Manaea,sp,0.274,0.248,0.22532318840579713,0.274,0.2497,82,303,3.695,2.0,1.695,0.6761
+Michael Harris II,Atlanta Braves,New York Mets,Sean Manaea,sp,0.305,0.248,0.22532318840579713,0.305,0.279,80,291,3.638,2.0,1.638,0.7173
+Mike Yastrzemski,Atlanta Braves,New York Mets,Sean Manaea,sp,0.22,0.248,0.22532318840579713,0.22,0.1992,78,210,2.692,2.0,0.692,0.4783
+Ozzie Albies,Atlanta Braves,New York Mets,Sean Manaea,sp,0.251,0.248,0.22532318840579713,0.251,0.2281,86,330,3.837,2.0,1.837,0.6513
+Bo Bichette,New York Mets,Atlanta Braves,Chris Sale,sp,0.282,0.227,0.20575075075075075,0.2591,0.2358,88,352,4.0,2.0,2.0,0.6794
+Brett Baty,New York Mets,Atlanta Braves,Chris Sale,sp,0.225,0.227,0.20575075075075075,0.2054,0.1857,84,255,3.036,2.0,1.036,0.4896
+Carson Benge,New York Mets,Atlanta Braves,Chris Sale,sp,0.283,0.227,0.20575075075075075,0.2601,0.2367,85,320,3.765,2.0,1.765,0.6601
+Juan Soto,New York Mets,Atlanta Braves,Chris Sale,sp,0.302,0.227,0.20575075075075075,0.2781,0.2537,69,246,3.565,2.0,1.565,0.6703
+Mark Vientos,New York Mets,Atlanta Braves,Chris Sale,sp,0.234,0.227,0.20575075075075075,0.2138,0.1935,70,230,3.286,2.0,1.286,0.5312
+Edouard Julien,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.256,0.236,0.2354189873417722,0.2437,0.2431,73,199,2.726,2.0,0.726,0.5327
+Ezequiel Tovar,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.221,0.236,0.2354189873417722,0.2099,0.2094,83,288,3.47,2.0,1.47,0.5581
+Hunter Goodman,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.23,0.236,0.2354189873417722,0.2186,0.2181,82,313,3.817,2.0,1.817,0.6095
+Jake McCarthy,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.272,0.236,0.2354189873417722,0.2592,0.2586,74,247,3.338,2.0,1.338,0.6323
+Kyle Karros,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.262,0.236,0.2354189873417722,0.2495,0.2489,84,243,2.893,2.0,0.893,0.5638
+TJ Rumfield,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.246,0.236,0.2354189873417722,0.2341,0.2335,86,307,3.57,2.0,1.57,0.6136
+Troy Johnston,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.285,0.236,0.2354189873417722,0.2719,0.2712,80,260,3.25,2.0,1.25,0.643
+Willi Castro,Colorado Rockies,San Francisco Giants,Robbie Ray,sp,0.241,0.236,0.2354189873417722,0.2292,0.2287,74,263,3.554,2.0,1.554,0.6031
+Casey Schmitt,San Francisco Giants,Colorado Rockies,Tomoyuki Sugano,sp,0.295,0.31,0.26281576253838285,0.3631,0.3115,79,313,3.962,2.0,1.962,0.805
+Drew Gilbert,San Francisco Giants,Colorado Rockies,Tomoyuki Sugano,sp,0.234,0.31,0.26281576253838285,0.2939,0.2483,68,168,2.471,2.0,0.471,0.5641
+Jung Hoo Lee,San Francisco Giants,Colorado Rockies,Tomoyuki Sugano,sp,0.297,0.31,0.26281576253838285,0.3653,0.3135,79,298,3.772,2.0,1.772,0.7931
+Luis Arraez,San Francisco Giants,Colorado Rockies,Tomoyuki Sugano,sp,0.285,0.31,0.26281576253838285,0.3519,0.3011,82,325,3.963,2.0,1.963,0.7921
+Rafael Devers,San Francisco Giants,Colorado Rockies,Tomoyuki Sugano,sp,0.228,0.31,0.26281576253838285,0.2869,0.242,87,334,3.839,2.0,1.839,0.6945
+Willy Adames,San Francisco Giants,Colorado Rockies,Tomoyuki Sugano,sp,0.217,0.31,0.26281576253838285,0.2741,0.2305,82,324,3.951,2.0,1.951,0.684
+Bobby Witt Jr.,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.305,0.222,0.21048833592534996,0.2752,0.2619,82,321,3.915,2.0,1.915,0.7063
+Carter Jensen,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.222,0.222,0.21048833592534996,0.198,0.1874,81,279,3.444,2.0,1.444,0.5233
+Isaac Collins,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.237,0.222,0.21048833592534996,0.2118,0.2007,77,241,3.13,2.0,1.13,0.5177
+Jac Caglianone,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.279,0.222,0.21048833592534996,0.2508,0.2383,81,280,3.457,2.0,1.457,0.6225
+Lane Thomas,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.241,0.222,0.21048833592534996,0.2155,0.2043,73,197,2.699,2.0,0.699,0.4754
+Michael Massey,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.239,0.222,0.21048833592534996,0.2137,0.2025,69,203,2.942,2.0,0.942,0.5004
+Salvador Perez,Kansas City Royals,Philadelphia Phillies,Jesús Luzardo,sp,0.222,0.222,0.21048833592534996,0.198,0.1874,81,318,3.926,2.0,1.926,0.5687
+Alec Bohm,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.242,0.248,0.23740879120879124,0.242,0.2316,83,305,3.675,2.0,1.675,0.6304
+Brandon Marsh,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.276,0.248,0.23740879120879124,0.276,0.2646,83,308,3.711,2.0,1.711,0.6902
+Bryce Harper,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.294,0.248,0.23740879120879124,0.294,0.2822,88,310,3.523,2.0,1.523,0.6992
+Bryson Stott,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.262,0.248,0.23740879120879124,0.262,0.251,82,287,3.5,2.0,1.5,0.647
+Justin Crawford,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.247,0.248,0.23740879120879124,0.247,0.2364,82,249,3.037,2.0,1.037,0.5713
+Kyle Schwarber,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.247,0.248,0.23740879120879124,0.247,0.2364,84,316,3.762,2.0,1.762,0.6475
+Trea Turner,Philadelphia Phillies,Kansas City Royals,Michael Wacha,sp,0.238,0.248,0.23740879120879124,0.238,0.2277,86,355,4.128,2.0,2.128,0.6649
+Jo Adell,Los Angeles Angels,Boston Red Sox,Sonny Gray,sp,0.253,0.237,0.2389804400977995,0.2418,0.2439,88,345,3.92,2.0,1.92,0.6639
+Jorge Soler,Los Angeles Angels,Boston Red Sox,Sonny Gray,sp,0.219,0.237,0.2389804400977995,0.2089,0.2107,67,244,3.642,2.0,1.642,0.5756
+Nolan Schanuel,Los Angeles Angels,Boston Red Sox,Sonny Gray,sp,0.273,0.237,0.2389804400977995,0.2613,0.2634,71,264,3.718,2.0,1.718,0.6773
+Oswald Peraza,Los Angeles Angels,Boston Red Sox,Sonny Gray,sp,0.241,0.237,0.2389804400977995,0.2302,0.2322,77,242,3.143,2.0,1.143,0.5619
+Zach Neto,Los Angeles Angels,Boston Red Sox,Sonny Gray,sp,0.202,0.237,0.2389804400977995,0.1925,0.1942,86,338,3.93,2.0,1.93,0.5702
+Caleb Durbin,Boston Red Sox,Los Angeles Angels,Sam Aldegheri,sp,0.236,0.273,0.21659069325735994,0.2602,0.2057,79,256,3.241,2.0,1.241,0.5887
+Ceddanne Rafaela,Boston Red Sox,Los Angeles Angels,Sam Aldegheri,sp,0.243,0.273,0.21659069325735994,0.2677,0.212,82,306,3.732,2.0,1.732,0.6451
+Jarren Duran,Boston Red Sox,Los Angeles Angels,Sam Aldegheri,sp,0.224,0.273,0.21659069325735994,0.2474,0.1948,79,314,3.975,2.0,1.975,0.6308
+Willson Contreras,Boston Red Sox,Los Angeles Angels,Sam Aldegheri,sp,0.266,0.273,0.21659069325735994,0.2921,0.233,84,297,3.536,2.0,1.536,0.6666
+Wilyer Abreu,Boston Red Sox,Los Angeles Angels,Sam Aldegheri,sp,0.254,0.273,0.21659069325735994,0.2794,0.2221,84,323,3.845,2.0,1.845,0.6733
+Carlos Cortes,Athletics,Miami Marlins,Sandy Alcantara,sp,0.277,0.259,0.21836671177266578,0.2888,0.245,67,188,2.806,2.0,0.806,0.5967
+Jeff McNeil,Athletics,Miami Marlins,Sandy Alcantara,sp,0.265,0.259,0.21836671177266578,0.2765,0.234,80,253,3.163,2.0,1.163,0.6161
+Lawrence Butler,Athletics,Miami Marlins,Sandy Alcantara,sp,0.241,0.259,0.21836671177266578,0.2518,0.212,80,217,2.712,2.0,0.712,0.5275
+Nick Kurtz,Athletics,Miami Marlins,Sandy Alcantara,sp,0.26,0.259,0.21836671177266578,0.2713,0.2294,87,316,3.632,2.0,1.632,0.6529
+Shea Langeliers,Athletics,Miami Marlins,Sandy Alcantara,sp,0.271,0.259,0.21836671177266578,0.2826,0.2395,80,330,4.125,2.0,2.125,0.7124
+Jakob Marsee,Miami Marlins,Athletics,Aaron Civale,sp,0.215,0.281,0.2212336244541485,0.245,0.1909,86,302,3.512,2.0,1.512,0.5862
+Javier Sanoja,Miami Marlins,Athletics,Aaron Civale,sp,0.255,0.281,0.2212336244541485,0.2886,0.2277,71,199,2.803,2.0,0.803,0.5887
+Liam Hicks,Miami Marlins,Athletics,Aaron Civale,sp,0.247,0.281,0.2212336244541485,0.2799,0.2203,77,266,3.455,2.0,1.455,0.639
+Otto Lopez,Miami Marlins,Athletics,Aaron Civale,sp,0.294,0.281,0.2212336244541485,0.3304,0.264,87,347,3.989,2.0,1.989,0.7563
+Owen Caissie,Miami Marlins,Athletics,Aaron Civale,sp,0.214,0.281,0.2212336244541485,0.2439,0.19,77,214,2.779,2.0,0.779,0.5149
+Xavier Edwards,Miami Marlins,Athletics,Aaron Civale,sp,0.269,0.281,0.2212336244541485,0.3037,0.2407,89,321,3.607,2.0,1.607,0.6885
+Corbin Carroll,Arizona Diamondbacks,Milwaukee Brewers,Brandon Woodruff,sp,0.259,0.205,0.21103462603878118,0.2146,0.2209,84,313,3.726,2.0,1.726,0.5991
+Geraldo Perdomo,Arizona Diamondbacks,Milwaukee Brewers,Brandon Woodruff,sp,0.251,0.205,0.21103462603878118,0.2076,0.2137,84,292,3.476,2.0,1.476,0.5597
+Ildemaro Vargas,Arizona Diamondbacks,Milwaukee Brewers,Brandon Woodruff,sp,0.28,0.205,0.21103462603878118,0.2332,0.2398,75,255,3.4,2.0,1.4,0.5994
+Ketel Marte,Arizona Diamondbacks,Milwaukee Brewers,Brandon Woodruff,sp,0.3,0.205,0.21103462603878118,0.251,0.2579,83,334,4.024,2.0,2.024,0.6933
+Nolan Arenado,Arizona Diamondbacks,Milwaukee Brewers,Brandon Woodruff,sp,0.238,0.205,0.21103462603878118,0.1963,0.2021,82,281,3.427,2.0,1.427,0.532
+Brice Turang,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.255,0.311,0.22041075268817203,0.319,0.2269,82,319,3.89,2.0,1.89,0.7149
+David Hamilton,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.2,0.311,0.22041075268817203,0.2549,0.1765,72,198,2.75,2.0,0.75,0.5201
+Garrett Mitchell,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.25,0.311,0.22041075268817203,0.3133,0.2223,76,234,3.079,2.0,1.079,0.6405
+Jake Bauers,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.255,0.311,0.22041075268817203,0.319,0.2269,77,264,3.429,2.0,1.429,0.6789
+Joey Ortiz,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.229,0.311,0.22041075268817203,0.289,0.203,73,179,2.452,2.0,0.452,0.5438
+Sal Frelick,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.256,0.311,0.22041075268817203,0.3202,0.2278,80,247,3.087,2.0,1.087,0.6511
+William Contreras,Milwaukee Brewers,Arizona Diamondbacks,Merrill Kelly,sp,0.283,0.311,0.22041075268817203,0.3507,0.2528,82,317,3.866,2.0,1.866,0.7552
+Andy Pages,Los Angeles Dodgers,San Diego Padres,Griffin Canning,sp,0.27,0.254,0.21036842105263157,0.2763,0.2301,88,342,3.886,2.0,1.886,0.6802
+Freddie Freeman,Los Angeles Dodgers,San Diego Padres,Griffin Canning,sp,0.294,0.254,0.21036842105263157,0.3007,0.2517,86,324,3.767,2.0,1.767,0.707
+Kyle Tucker,Los Angeles Dodgers,San Diego Padres,Griffin Canning,sp,0.258,0.254,0.21036842105263157,0.2642,0.2193,83,301,3.627,2.0,1.627,0.6381
+Max Muncy,Los Angeles Dodgers,San Diego Padres,Griffin Canning,sp,0.252,0.254,0.21036842105263157,0.2581,0.2139,82,272,3.317,2.0,1.317,0.5991
+Shohei Ohtani,Los Angeles Dodgers,San Diego Padres,Griffin Canning,sp,0.289,0.254,0.21036842105263157,0.2956,0.2472,85,309,3.635,2.0,1.635,0.6881
+Fernando Tatis Jr.,San Diego Padres,Los Angeles Dodgers,Yoshinobu Yamamoto,sp,0.286,0.241,0.20803961584633854,0.2783,0.2419,86,336,3.907,2.0,1.907,0.6928
+Gavin Sheets,San Diego Padres,Los Angeles Dodgers,Yoshinobu Yamamoto,sp,0.251,0.241,0.20803961584633854,0.2439,0.2107,81,251,3.099,2.0,1.099,0.5592
+Jackson Merrill,San Diego Padres,Los Angeles Dodgers,Yoshinobu Yamamoto,sp,0.235,0.241,0.20803961584633854,0.2283,0.1966,84,325,3.869,2.0,1.869,0.6044
+Manny Machado,San Diego Padres,Los Angeles Dodgers,Yoshinobu Yamamoto,sp,0.229,0.241,0.20803961584633854,0.2224,0.1913,85,311,3.659,2.0,1.659,0.5749
+Miguel Andujar,San Diego Padres,Los Angeles Dodgers,Yoshinobu Yamamoto,sp,0.272,0.241,0.20803961584633854,0.2646,0.2294,66,212,3.212,2.0,1.212,0.6056
+Xander Bogaerts,San Diego Padres,Los Angeles Dodgers,Yoshinobu Yamamoto,sp,0.246,0.241,0.20803961584633854,0.239,0.2063,83,288,3.47,2.0,1.47,0.5877
