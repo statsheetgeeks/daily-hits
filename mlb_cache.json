@@ -1,171 +1,105 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "season": 2026,
   "games": [
     {
-      "game_pk": 823342,
-      "home_team_id": 134,
-      "home_team_name": "Pittsburgh Pirates",
-      "away_team_id": 116,
-      "away_team_name": "Detroit Tigers",
-      "home_sp_id": 694973,
-      "home_sp_name": "Paul Skenes",
-      "away_sp_id": 695549,
-      "away_sp_name": "Jackson Jobe"
-    },
-    {
-      "game_pk": 823587,
-      "home_team_id": 121,
-      "home_team_name": "New York Mets",
-      "away_team_id": 135,
-      "away_team_name": "San Diego Padres",
-      "home_sp_id": 476594,
-      "home_sp_name": "Robert Stock",
-      "away_sp_id": 650633,
-      "away_sp_name": "Michael King"
-    },
-    {
-      "game_pk": 823664,
-      "home_team_id": 142,
-      "home_team_name": "Minnesota Twins",
-      "away_team_id": 144,
-      "away_team_name": "Atlanta Braves",
-      "home_sp_id": 671737,
-      "home_sp_name": "Taj Bradley",
-      "away_sp_id": 700363,
-      "away_sp_name": "AJ Smith-Shawver"
-    },
-    {
-      "game_pk": 824640,
-      "home_team_id": 112,
-      "home_team_name": "Chicago Cubs",
-      "away_team_id": 145,
-      "away_team_name": "Chicago White Sox",
-      "home_sp_id": 605280,
-      "home_sp_name": "Clay Holmes",
-      "away_sp_id": 656794,
-      "away_sp_name": "Sean Newcomb"
-    },
-    {
-      "game_pk": 824722,
-      "home_team_id": 111,
-      "home_team_name": "Boston Red Sox",
-      "away_team_id": 109,
-      "away_team_name": "Arizona Diamondbacks",
-      "home_sp_id": 801139,
-      "home_sp_name": "Payton Tolle",
-      "away_sp_id": 694297,
-      "away_sp_name": "Brandon Pfaadt"
-    },
-    {
-      "game_pk": 823424,
-      "home_team_id": 143,
-      "home_team_name": "Philadelphia Phillies",
-      "away_team_id": 146,
-      "away_team_name": "Miami Marlins",
-      "home_sp_id": 605400,
-      "home_sp_name": "Aaron Nola",
-      "away_sp_id": 645261,
-      "away_sp_name": "Sandy Alcantara"
-    },
-    {
-      "game_pk": 824801,
-      "home_team_id": 110,
-      "home_team_name": "Baltimore Orioles",
-      "away_team_id": 147,
-      "away_team_name": "New York Yankees",
-      "home_sp_id": 605135,
-      "home_sp_name": "Chris Bassitt",
-      "away_sp_id": 701542,
-      "away_sp_name": "Will Warren"
-    },
-    {
-      "game_pk": 824394,
-      "home_team_id": 114,
-      "home_team_name": "Cleveland Guardians",
-      "away_team_id": 137,
-      "away_team_name": "San Francisco Giants",
-      "home_sp_id": 800048,
-      "home_sp_name": "Parker Messick",
-      "away_sp_id": 683363,
-      "away_sp_name": "Matt Wilkinson"
-    },
-    {
-      "game_pk": 824476,
+      "game_pk": 824474,
       "home_team_id": 113,
       "home_team_name": "Cincinnati Reds",
       "away_team_id": 138,
       "away_team_name": "St. Louis Cardinals",
-      "home_sp_id": 695505,
-      "home_sp_name": "Chase Burns",
-      "away_sp_id": 669461,
-      "away_sp_name": "Matthew Liberatore"
+      "home_sp_id": 663903,
+      "home_sp_name": "Brady Singer",
+      "away_sp_id": 700241,
+      "away_sp_name": "Michael McGreevy"
     },
     {
-      "game_pk": 822937,
+      "game_pk": 824395,
+      "home_team_id": 114,
+      "home_team_name": "Cleveland Guardians",
+      "away_team_id": 137,
+      "away_team_name": "San Francisco Giants",
+      "home_sp_id": 668909,
+      "home_sp_name": "Gavin Williams",
+      "away_sp_id": 694738,
+      "away_sp_name": "Landen Roupp"
+    },
+    {
+      "game_pk": 822934,
       "home_team_id": 139,
       "home_team_name": "Tampa Bay Rays",
       "away_team_id": 141,
       "away_team_name": "Toronto Blue Jays",
-      "home_sp_id": 656876,
-      "home_sp_name": "Drew Rasmussen",
-      "away_sp_id": 453286,
-      "away_sp_name": "Max Scherzer"
+      "home_sp_id": 693855,
+      "home_sp_name": "Ian Seymour",
+      "away_sp_id": 669456,
+      "away_sp_name": "Shane Bieber"
     },
     {
-      "game_pk": 824076,
+      "game_pk": 824074,
       "home_team_id": 118,
       "home_team_name": "Kansas City Royals",
       "away_team_id": 133,
       "away_team_name": "Athletics",
-      "home_sp_id": null,
-      "home_sp_name": null,
-      "away_sp_id": null,
-      "away_sp_name": null
+      "home_sp_id": 677976,
+      "home_sp_name": "Randy Dobnak",
+      "away_sp_id": 695611,
+      "away_sp_name": "Gage Jump"
     },
     {
-      "game_pk": 823748,
+      "game_pk": 824589,
+      "home_team_id": 145,
+      "home_team_name": "Chicago White Sox",
+      "away_team_id": 144,
+      "away_team_name": "Atlanta Braves",
+      "home_sp_id": 641743,
+      "home_sp_name": "Anthony Kay",
+      "away_sp_id": 656550,
+      "away_sp_name": "Grant Holmes"
+    },
+    {
+      "game_pk": 823747,
       "home_team_id": 158,
       "home_team_name": "Milwaukee Brewers",
       "away_team_id": 136,
       "away_team_name": "Seattle Mariners",
-      "home_sp_id": 669160,
-      "home_sp_name": "Dustin May",
-      "away_sp_id": 669302,
-      "away_sp_name": "Logan Gilbert"
+      "home_sp_id": 688107,
+      "home_sp_name": "Robert Gasser",
+      "away_sp_id": 669923,
+      "away_sp_name": "George Kirby"
     },
     {
-      "game_pk": 822860,
+      "game_pk": 824802,
+      "home_team_id": 110,
+      "home_team_name": "Baltimore Orioles",
+      "away_team_id": 147,
+      "away_team_name": "New York Yankees",
+      "home_sp_id": 680694,
+      "home_sp_name": "Kyle Bradish",
+      "away_sp_id": 543037,
+      "away_sp_name": "Gerrit Cole"
+    },
+    {
+      "game_pk": 822861,
       "home_team_id": 140,
       "home_team_name": "Texas Rangers",
       "away_team_id": 120,
       "away_team_name": "Washington Nationals",
-      "home_sp_id": 677958,
-      "home_sp_name": "Kumar Rocker",
-      "away_sp_id": 676917,
-      "away_sp_name": "Cade Cavalli"
+      "home_sp_id": 594798,
+      "home_sp_name": "Jacob deGrom",
+      "away_sp_id": 674841,
+      "away_sp_name": "Andrew Alvarez"
     },
     {
-      "game_pk": 824155,
+      "game_pk": 824153,
       "home_team_id": 117,
       "home_team_name": "Houston Astros",
       "away_team_id": 108,
       "away_team_name": "Los Angeles Angels",
-      "home_sp_id": 814490,
-      "home_sp_name": "Ethan Pecko",
-      "away_sp_id": 700712,
-      "away_sp_name": "Walbert Ure\u00f1a"
-    },
-    {
-      "game_pk": 824318,
-      "home_team_id": 115,
-      "home_team_name": "Colorado Rockies",
-      "away_team_id": 119,
-      "away_team_name": "Los Angeles Dodgers",
-      "home_sp_id": 607536,
-      "home_sp_name": "Kyle Freeland",
-      "away_sp_id": 808963,
-      "away_sp_name": "Roki Sasaki"
+      "home_sp_id": 663567,
+      "home_sp_name": "Peter Lambert",
+      "away_sp_id": 680570,
+      "away_sp_name": "Grayson Rodriguez"
     }
   ],
   "batter_xba": {
@@ -188,10 +122,10 @@
     "666126": {
       "name": "Carlos Cortes",
       "team_id": 133,
-      "xba": 0.251,
-      "games_played": 93,
-      "at_bats": 251,
-      "ab_per_game": 2.699
+      "xba": 0.25,
+      "games_played": 94,
+      "at_bats": 255,
+      "ab_per_game": 2.713
     },
     "687231": {
       "name": "Darell Hernaiz",
@@ -204,18 +138,18 @@
     "622268": {
       "name": "Donovan Walton",
       "team_id": 133,
-      "xba": 0.244,
-      "games_played": 27,
-      "at_bats": 48,
-      "ab_per_game": 1.778
+      "xba": 0.245,
+      "games_played": 28,
+      "at_bats": 52,
+      "ab_per_game": 1.857
     },
     "703607": {
       "name": "Henry Bolte",
       "team_id": 133,
-      "xba": 0.241,
-      "games_played": 83,
-      "at_bats": 273,
-      "ab_per_game": 3.289
+      "xba": 0.24,
+      "games_played": 84,
+      "at_bats": 278,
+      "ab_per_game": 3.31
     },
     "805779": {
       "name": "Jacob Wilson",
@@ -228,10 +162,10 @@
     "643446": {
       "name": "Jeff McNeil",
       "team_id": 133,
-      "xba": 0.277,
-      "games_played": 110,
-      "at_bats": 344,
-      "ab_per_game": 3.127
+      "xba": 0.279,
+      "games_played": 111,
+      "at_bats": 348,
+      "ab_per_game": 3.135
     },
     "641680": {
       "name": "Jonah Heim",
@@ -244,282 +178,74 @@
     "671732": {
       "name": "Lawrence Butler",
       "team_id": 133,
-      "xba": 0.236,
-      "games_played": 118,
-      "at_bats": 337,
-      "ab_per_game": 2.856
+      "xba": 0.237,
+      "games_played": 119,
+      "at_bats": 341,
+      "ab_per_game": 2.866
     },
     "691777": {
       "name": "Max Muncy",
       "team_id": 133,
-      "xba": 0.209,
-      "games_played": 60,
-      "at_bats": 188,
-      "ab_per_game": 3.133
+      "xba": 0.215,
+      "games_played": 61,
+      "at_bats": 192,
+      "ab_per_game": 3.148
     },
     "695720": {
       "name": "Tommy White",
       "team_id": 133,
-      "xba": 0.266,
-      "games_played": 28,
-      "at_bats": 105,
-      "ab_per_game": 3.75
+      "xba": 0.264,
+      "games_played": 29,
+      "at_bats": 109,
+      "ab_per_game": 3.759
     },
     "680869": {
       "name": "Zack Gelof",
       "team_id": 133,
-      "xba": 0.229,
-      "games_played": 75,
-      "at_bats": 256,
-      "ab_per_game": 3.413
-    },
-    "695257": {
-      "name": "Billy Cook",
-      "team_id": 134,
-      "xba": 0.142,
-      "games_played": 69,
-      "at_bats": 48,
-      "ab_per_game": 0.696
-    },
-    "664040": {
-      "name": "Brandon Lowe",
-      "team_id": 134,
-      "xba": 0.242,
-      "games_played": 119,
-      "at_bats": 472,
-      "ab_per_game": 3.966
-    },
-    "668804": {
-      "name": "Bryan Reynolds",
-      "team_id": 134,
-      "xba": 0.246,
-      "games_played": 128,
-      "at_bats": 471,
-      "ab_per_game": 3.68
-    },
-    "699013": {
-      "name": "Esmerlyn Valdez",
-      "team_id": 134,
-      "xba": 0.203,
-      "games_played": 58,
-      "at_bats": 192,
-      "ab_per_game": 3.31
-    },
-    "680779": {
-      "name": "Henry Davis",
-      "team_id": 134,
-      "xba": 0.199,
-      "games_played": 81,
-      "at_bats": 223,
-      "ab_per_game": 2.753
-    },
-    "694378": {
-      "name": "Jacob Gonzalez",
-      "team_id": 134,
-      "xba": 0.258,
-      "games_played": 30,
-      "at_bats": 86,
-      "ab_per_game": 2.867
-    },
-    "663968": {
-      "name": "Jake Mangum",
-      "team_id": 134,
-      "xba": 0.254,
-      "games_played": 105,
-      "at_bats": 345,
-      "ab_per_game": 3.286
-    },
-    "669707": {
-      "name": "Jared Triolo",
-      "team_id": 134,
-      "xba": 0.244,
-      "games_played": 91,
-      "at_bats": 257,
-      "ab_per_game": 2.824
-    },
-    "693304": {
-      "name": "Nick Gonzales",
-      "team_id": 134,
-      "xba": 0.28,
-      "games_played": 119,
-      "at_bats": 448,
-      "ab_per_game": 3.765
-    },
-    "694377": {
-      "name": "Nick Yorke",
-      "team_id": 134,
-      "xba": 0.258,
-      "games_played": 29,
-      "at_bats": 84,
-      "ab_per_game": 2.897
-    },
-    "665833": {
-      "name": "Oneil Cruz",
-      "team_id": 134,
-      "xba": 0.253,
-      "games_played": 65,
-      "at_bats": 253,
-      "ab_per_game": 3.892
-    },
-    "804668": {
-      "name": "Rafael Flores Jr.",
-      "team_id": 134,
-      "xba": 0.245,
-      "games_played": 18,
-      "at_bats": 46,
-      "ab_per_game": 2.556
-    },
-    "687462": {
-      "name": "Spencer Horwitz",
-      "team_id": 134,
-      "xba": 0.229,
-      "games_played": 86,
-      "at_bats": 288,
-      "ab_per_game": 3.349
-    },
-    "669720": {
-      "name": "Austin Hays",
-      "team_id": 135,
-      "xba": 0.284,
-      "games_played": 12,
-      "at_bats": 43,
-      "ab_per_game": 3.583
-    },
-    "665487": {
-      "name": "Fernando Tatis Jr.",
-      "team_id": 135,
-      "xba": 0.289,
-      "games_played": 125,
-      "at_bats": 486,
-      "ab_per_game": 3.888
-    },
-    "666023": {
-      "name": "Freddy Fermin",
-      "team_id": 135,
-      "xba": 0.208,
-      "games_played": 78,
-      "at_bats": 191,
-      "ab_per_game": 2.449
-    },
-    "657757": {
-      "name": "Gavin Sheets",
-      "team_id": 135,
-      "xba": 0.229,
-      "games_played": 117,
-      "at_bats": 344,
-      "ab_per_game": 2.94
-    },
-    "701538": {
-      "name": "Jackson Merrill",
-      "team_id": 135,
-      "xba": 0.258,
-      "games_played": 124,
-      "at_bats": 479,
-      "ab_per_game": 3.863
-    },
-    "630105": {
-      "name": "Jake Cronenworth",
-      "team_id": 135,
-      "xba": 0.225,
-      "games_played": 75,
-      "at_bats": 255,
-      "ab_per_game": 3.4
-    },
-    "687749": {
-      "name": "Jase Bowen",
-      "team_id": 135,
-      "xba": 0.207,
-      "games_played": 55,
-      "at_bats": 77,
-      "ab_per_game": 1.4
-    },
-    "669134": {
-      "name": "Luis Campusano",
-      "team_id": 135,
-      "xba": 0.256,
-      "games_played": 46,
-      "at_bats": 131,
-      "ab_per_game": 2.848
-    },
-    "650859": {
-      "name": "Luis Rengifo",
-      "team_id": 135,
-      "xba": 0.255,
-      "games_played": 57,
-      "at_bats": 185,
-      "ab_per_game": 3.246
-    },
-    "592518": {
-      "name": "Manny Machado",
-      "team_id": 135,
-      "xba": 0.244,
-      "games_played": 124,
-      "at_bats": 461,
-      "ab_per_game": 3.718
-    },
-    "823550": {
-      "name": "Sung-Mun Song",
-      "team_id": 135,
-      "xba": 0.186,
-      "games_played": 61,
-      "at_bats": 111,
-      "ab_per_game": 1.82
-    },
-    "664034": {
-      "name": "Ty France",
-      "team_id": 135,
-      "xba": 0.249,
-      "games_played": 101,
-      "at_bats": 324,
-      "ab_per_game": 3.208
-    },
-    "593428": {
-      "name": "Xander Bogaerts",
-      "team_id": 135,
-      "xba": 0.246,
-      "games_played": 120,
-      "at_bats": 411,
-      "ab_per_game": 3.425
+      "xba": 0.228,
+      "games_played": 76,
+      "at_bats": 260,
+      "ab_per_game": 3.421
     },
     "680977": {
       "name": "Brendan Donovan",
       "team_id": 136,
-      "xba": 0.235,
-      "games_played": 36,
-      "at_bats": 125,
-      "ab_per_game": 3.472
+      "xba": 0.233,
+      "games_played": 37,
+      "at_bats": 128,
+      "ab_per_game": 3.459
     },
     "801126": {
       "name": "Brock Rodden",
       "team_id": 136,
-      "xba": 0.131,
-      "games_played": 4,
-      "at_bats": 13,
-      "ab_per_game": 3.25
+      "xba": 0.135,
+      "games_played": 5,
+      "at_bats": 17,
+      "ab_per_game": 3.4
     },
     "663728": {
       "name": "Cal Raleigh",
       "team_id": 136,
-      "xba": 0.174,
-      "games_played": 92,
-      "at_bats": 331,
-      "ab_per_game": 3.598
+      "xba": 0.173,
+      "games_played": 93,
+      "at_bats": 334,
+      "ab_per_game": 3.591
     },
     "702284": {
       "name": "Cole Young",
       "team_id": 136,
-      "xba": 0.271,
-      "games_played": 126,
-      "at_bats": 461,
-      "ab_per_game": 3.659
+      "xba": 0.27,
+      "games_played": 127,
+      "at_bats": 465,
+      "ab_per_game": 3.661
     },
     "686527": {
       "name": "Dominic Canzone",
       "team_id": 136,
-      "xba": 0.271,
-      "games_played": 111,
-      "at_bats": 335,
-      "ab_per_game": 3.018
+      "xba": 0.272,
+      "games_played": 112,
+      "at_bats": 339,
+      "ab_per_game": 3.027
     },
     "640902": {
       "name": "Jhonny Pereda",
@@ -532,18 +258,18 @@
     "647304": {
       "name": "Josh Naylor",
       "team_id": 136,
-      "xba": 0.278,
-      "games_played": 117,
-      "at_bats": 454,
-      "ab_per_game": 3.88
+      "xba": 0.28,
+      "games_played": 118,
+      "at_bats": 459,
+      "ab_per_game": 3.89
     },
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team_id": 136,
-      "xba": 0.277,
-      "games_played": 115,
-      "at_bats": 450,
-      "ab_per_game": 3.913
+      "xba": 0.275,
+      "games_played": 116,
+      "at_bats": 454,
+      "ab_per_game": 3.914
     },
     "660844": {
       "name": "Leo Rivas",
@@ -556,26 +282,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team_id": 136,
-      "xba": 0.26,
-      "games_played": 118,
-      "at_bats": 438,
-      "ab_per_game": 3.712
+      "xba": 0.262,
+      "games_played": 119,
+      "at_bats": 442,
+      "ab_per_game": 3.714
     },
     "621493": {
       "name": "Taylor Ward",
       "team_id": 136,
       "xba": 0.247,
-      "games_played": 8,
-      "at_bats": 32,
+      "games_played": 9,
+      "at_bats": 36,
       "ab_per_game": 4.0
     },
     "645302": {
       "name": "Victor Robles",
       "team_id": 136,
       "xba": 0.24,
-      "games_played": 57,
+      "games_played": 58,
       "at_bats": 127,
-      "ab_per_game": 2.228
+      "ab_per_game": 2.19
     },
     "642215": {
       "name": "Weston Wilson",
@@ -596,10 +322,10 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team_id": 137,
-      "xba": 0.249,
-      "games_played": 82,
-      "at_bats": 292,
-      "ab_per_game": 3.561
+      "xba": 0.246,
+      "games_played": 83,
+      "at_bats": 296,
+      "ab_per_game": 3.566
     },
     "671083": {
       "name": "Buddy Kennedy",
@@ -612,58 +338,58 @@
     "683766": {
       "name": "Christian Koss",
       "team_id": 137,
-      "xba": 0.216,
-      "games_played": 34,
-      "at_bats": 84,
-      "ab_per_game": 2.471
+      "xba": 0.21,
+      "games_played": 35,
+      "at_bats": 87,
+      "ab_per_game": 2.486
     },
     "701852": {
       "name": "Drew Cavanaugh",
       "team_id": 137,
-      "xba": 0.254,
-      "games_played": 31,
-      "at_bats": 76,
-      "ab_per_game": 2.452
+      "xba": 0.246,
+      "games_played": 32,
+      "at_bats": 79,
+      "ab_per_game": 2.469
     },
     "687551": {
       "name": "Drew Gilbert",
       "team_id": 137,
       "xba": 0.256,
-      "games_played": 100,
-      "at_bats": 263,
-      "ab_per_game": 2.63
+      "games_played": 101,
+      "at_bats": 264,
+      "ab_per_game": 2.614
     },
     "813841": {
       "name": "Jonah Cox",
       "team_id": 137,
-      "xba": 0.223,
-      "games_played": 27,
-      "at_bats": 35,
-      "ab_per_game": 1.296
+      "xba": 0.2,
+      "games_played": 28,
+      "at_bats": 39,
+      "ab_per_game": 1.393
     },
     "808982": {
       "name": "Jung Hoo Lee",
       "team_id": 137,
-      "xba": 0.29,
-      "games_played": 114,
-      "at_bats": 435,
-      "ab_per_game": 3.816
+      "xba": 0.289,
+      "games_played": 115,
+      "at_bats": 439,
+      "ab_per_game": 3.817
     },
     "678545": {
       "name": "Osleivis Basabe",
       "team_id": 137,
-      "xba": 0.237,
-      "games_played": 17,
-      "at_bats": 56,
-      "ab_per_game": 3.294
+      "xba": 0.228,
+      "games_played": 18,
+      "at_bats": 60,
+      "ab_per_game": 3.333
     },
     "646240": {
       "name": "Rafael Devers",
       "team_id": 137,
-      "xba": 0.229,
-      "games_played": 125,
-      "at_bats": 472,
-      "ab_per_game": 3.776
+      "xba": 0.228,
+      "games_played": 126,
+      "at_bats": 476,
+      "ab_per_game": 3.778
     },
     "806367": {
       "name": "Turner Hill",
@@ -676,42 +402,42 @@
     "682674": {
       "name": "Victor Bericoto",
       "team_id": 137,
-      "xba": 0.218,
-      "games_played": 28,
-      "at_bats": 74,
-      "ab_per_game": 2.643
+      "xba": 0.215,
+      "games_played": 29,
+      "at_bats": 77,
+      "ab_per_game": 2.655
     },
     "642715": {
       "name": "Willy Adames",
       "team_id": 137,
-      "xba": 0.216,
-      "games_played": 116,
-      "at_bats": 446,
-      "ab_per_game": 3.845
+      "xba": 0.22,
+      "games_played": 117,
+      "at_bats": 450,
+      "ab_per_game": 3.846
     },
     "676475": {
       "name": "Alec Burleson",
       "team_id": 138,
-      "xba": 0.3,
-      "games_played": 126,
-      "at_bats": 481,
-      "ab_per_game": 3.817
+      "xba": 0.299,
+      "games_played": 127,
+      "at_bats": 485,
+      "ab_per_game": 3.819
     },
     "691458": {
       "name": "Blaze Jordan",
       "team_id": 138,
-      "xba": 0.264,
-      "games_played": 50,
-      "at_bats": 162,
-      "ab_per_game": 3.24
+      "xba": 0.26,
+      "games_played": 51,
+      "at_bats": 165,
+      "ab_per_game": 3.235
     },
     "663494": {
       "name": "Bryan Torres",
       "team_id": 138,
-      "xba": 0.232,
-      "games_played": 52,
-      "at_bats": 109,
-      "ab_per_game": 2.096
+      "xba": 0.235,
+      "games_played": 53,
+      "at_bats": 111,
+      "ab_per_game": 2.094
     },
     "677592": {
       "name": "Everson Pereira",
@@ -724,65 +450,65 @@
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team_id": 138,
-      "xba": 0.251,
-      "games_played": 126,
-      "at_bats": 472,
-      "ab_per_game": 3.746
+      "xba": 0.249,
+      "games_played": 127,
+      "at_bats": 476,
+      "ab_per_game": 3.748
     },
     "802139": {
       "name": "JJ Wetherholt",
       "team_id": 138,
-      "xba": 0.248,
-      "games_played": 121,
-      "at_bats": 469,
-      "ab_per_game": 3.876
+      "xba": 0.25,
+      "games_played": 122,
+      "at_bats": 473,
+      "ab_per_game": 3.877
     },
     "699625": {
       "name": "Jimmy Crooks",
       "team_id": 138,
-      "xba": 0.198,
-      "games_played": 44,
-      "at_bats": 115,
-      "ab_per_game": 2.614
+      "xba": 0.193,
+      "games_played": 45,
+      "at_bats": 119,
+      "ab_per_game": 2.644
     },
     "691023": {
       "name": "Jordan Walker",
       "team_id": 138,
-      "xba": 0.277,
-      "games_played": 123,
-      "at_bats": 478,
-      "ab_per_game": 3.886
+      "xba": 0.276,
+      "games_played": 124,
+      "at_bats": 482,
+      "ab_per_game": 3.887
     },
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team_id": 138,
-      "xba": 0.253,
-      "games_played": 88,
-      "at_bats": 234,
-      "ab_per_game": 2.659
+      "xba": 0.255,
+      "games_played": 89,
+      "at_bats": 236,
+      "ab_per_game": 2.652
     },
     "695491": {
       "name": "Joshua B\u00e1ez",
       "team_id": 138,
-      "xba": 0.248,
-      "games_played": 5,
-      "at_bats": 21,
-      "ab_per_game": 4.2
+      "xba": 0.28,
+      "games_played": 6,
+      "at_bats": 22,
+      "ab_per_game": 3.667
     },
     "691026": {
       "name": "Masyn Winn",
       "team_id": 138,
-      "xba": 0.249,
-      "games_played": 119,
-      "at_bats": 427,
-      "ab_per_game": 3.588
+      "xba": 0.248,
+      "games_played": 120,
+      "at_bats": 431,
+      "ab_per_game": 3.592
     },
     "701675": {
       "name": "Nathan Church",
       "team_id": 138,
-      "xba": 0.242,
-      "games_played": 107,
-      "at_bats": 321,
+      "xba": 0.24,
+      "games_played": 108,
+      "at_bats": 324,
       "ab_per_game": 3.0
     },
     "686780": {
@@ -797,33 +523,33 @@
       "name": "Cedric Mullins",
       "team_id": 139,
       "xba": 0.187,
-      "games_played": 108,
-      "at_bats": 362,
-      "ab_per_game": 3.352
+      "games_played": 109,
+      "at_bats": 364,
+      "ab_per_game": 3.339
     },
     "802415": {
       "name": "Chandler Simpson",
       "team_id": 139,
-      "xba": 0.256,
-      "games_played": 117,
-      "at_bats": 439,
-      "ab_per_game": 3.752
+      "xba": 0.255,
+      "games_played": 118,
+      "at_bats": 443,
+      "ab_per_game": 3.754
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team_id": 139,
-      "xba": 0.262,
-      "games_played": 122,
-      "at_bats": 463,
-      "ab_per_game": 3.795
+      "xba": 0.26,
+      "games_played": 123,
+      "at_bats": 467,
+      "ab_per_game": 3.797
     },
     "676356": {
       "name": "Jonny DeLuca",
       "team_id": 139,
-      "xba": 0.246,
-      "games_played": 78,
-      "at_bats": 238,
-      "ab_per_game": 3.051
+      "xba": 0.245,
+      "games_played": 79,
+      "at_bats": 239,
+      "ab_per_game": 3.025
     },
     "622761": {
       "name": "Jorge Mateo",
@@ -836,10 +562,18 @@
     "691406": {
       "name": "Junior Caminero",
       "team_id": 139,
-      "xba": 0.269,
-      "games_played": 125,
-      "at_bats": 477,
-      "ab_per_game": 3.816
+      "xba": 0.267,
+      "games_played": 126,
+      "at_bats": 481,
+      "ab_per_game": 3.817
+    },
+    "700652": {
+      "name": "Kenny Piper",
+      "team_id": 139,
+      "xba": 0.091,
+      "games_played": 1,
+      "at_bats": 4,
+      "ab_per_game": 4.0
     },
     "689414": {
       "name": "Liam Hicks",
@@ -861,65 +595,57 @@
       "name": "Richie Palacios",
       "team_id": 139,
       "xba": 0.244,
-      "games_played": 95,
-      "at_bats": 263,
-      "ab_per_game": 2.768
+      "games_played": 96,
+      "at_bats": 267,
+      "ab_per_game": 2.781
     },
     "668723": {
       "name": "Ryan Vilade",
       "team_id": 139,
-      "xba": 0.252,
-      "games_played": 72,
-      "at_bats": 186,
-      "ab_per_game": 2.583
+      "xba": 0.249,
+      "games_played": 73,
+      "at_bats": 189,
+      "ab_per_game": 2.589
     },
     "670764": {
       "name": "Taylor Walls",
       "team_id": 139,
-      "xba": 0.189,
-      "games_played": 103,
-      "at_bats": 306,
-      "ab_per_game": 2.971
-    },
-    "683748": {
-      "name": "Victor Mesa Jr.",
-      "team_id": 139,
-      "xba": 0.23,
-      "games_played": 56,
-      "at_bats": 159,
-      "ab_per_game": 2.839
+      "xba": 0.191,
+      "games_played": 104,
+      "at_bats": 308,
+      "ab_per_game": 2.962
     },
     "650490": {
       "name": "Yandy D\u00edaz",
       "team_id": 139,
-      "xba": 0.286,
-      "games_played": 120,
-      "at_bats": 474,
-      "ab_per_game": 3.95
+      "xba": 0.287,
+      "games_played": 121,
+      "at_bats": 477,
+      "ab_per_game": 3.942
     },
     "607043": {
       "name": "Brandon Nimmo",
       "team_id": 140,
-      "xba": 0.29,
-      "games_played": 120,
-      "at_bats": 458,
-      "ab_per_game": 3.817
+      "xba": 0.288,
+      "games_played": 121,
+      "at_bats": 462,
+      "ab_per_game": 3.818
     },
     "683227": {
       "name": "Cody Freeman",
       "team_id": 140,
-      "xba": 0.147,
-      "games_played": 10,
-      "at_bats": 25,
-      "ab_per_game": 2.5
+      "xba": 0.141,
+      "games_played": 11,
+      "at_bats": 26,
+      "ab_per_game": 2.364
     },
     "608369": {
       "name": "Corey Seager",
       "team_id": 140,
       "xba": 0.233,
-      "games_played": 66,
-      "at_bats": 240,
-      "ab_per_game": 3.636
+      "games_played": 67,
+      "at_bats": 244,
+      "ab_per_game": 3.642
     },
     "643376": {
       "name": "Danny Jansen",
@@ -932,26 +658,26 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team_id": 140,
-      "xba": 0.227,
-      "games_played": 51,
-      "at_bats": 133,
-      "ab_per_game": 2.608
+      "xba": 0.224,
+      "games_played": 52,
+      "at_bats": 136,
+      "ab_per_game": 2.615
     },
     "694497": {
       "name": "Evan Carter",
       "team_id": 140,
-      "xba": 0.2,
-      "games_played": 107,
-      "at_bats": 305,
-      "ab_per_game": 2.85
+      "xba": 0.202,
+      "games_played": 108,
+      "at_bats": 307,
+      "ab_per_game": 2.843
     },
     "677649": {
       "name": "Ezequiel Duran",
       "team_id": 140,
-      "xba": 0.243,
-      "games_played": 117,
-      "at_bats": 406,
-      "ab_per_game": 3.47
+      "xba": 0.242,
+      "games_played": 118,
+      "at_bats": 410,
+      "ab_per_game": 3.475
     },
     "669394": {
       "name": "Jake Burger",
@@ -964,7 +690,7 @@
     "672284": {
       "name": "Jarred Kelenic",
       "team_id": 140,
-      "xba": 0.236,
+      "xba": 0.237,
       "games_played": 19,
       "at_bats": 53,
       "ab_per_game": 2.789
@@ -972,10 +698,10 @@
     "592626": {
       "name": "Joc Pederson",
       "team_id": 140,
-      "xba": 0.25,
-      "games_played": 114,
-      "at_bats": 326,
-      "ab_per_game": 2.86
+      "xba": 0.249,
+      "games_played": 115,
+      "at_bats": 330,
+      "ab_per_game": 2.87
     },
     "679822": {
       "name": "Justin Foscue",
@@ -988,66 +714,66 @@
     "670032": {
       "name": "Nicky Lopez",
       "team_id": 140,
-      "xba": 0.234,
-      "games_played": 68,
-      "at_bats": 190,
-      "ab_per_game": 2.794
+      "xba": 0.233,
+      "games_played": 69,
+      "at_bats": 193,
+      "ab_per_game": 2.797
     },
     "694671": {
       "name": "Wyatt Langford",
       "team_id": 140,
-      "xba": 0.239,
-      "games_played": 74,
-      "at_bats": 288,
-      "ab_per_game": 3.892
+      "xba": 0.237,
+      "games_played": 75,
+      "at_bats": 292,
+      "ab_per_game": 3.893
     },
     "672386": {
       "name": "Alejandro Kirk",
       "team_id": 141,
-      "xba": 0.26,
-      "games_played": 51,
-      "at_bats": 172,
-      "ab_per_game": 3.373
+      "xba": 0.265,
+      "games_played": 52,
+      "at_bats": 177,
+      "ab_per_game": 3.404
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team_id": 141,
-      "xba": 0.23,
-      "games_played": 121,
-      "at_bats": 382,
-      "ab_per_game": 3.157
+      "xba": 0.229,
+      "games_played": 122,
+      "at_bats": 386,
+      "ab_per_game": 3.164
     },
     "678218": {
       "name": "Brandon Valenzuela",
       "team_id": 141,
       "xba": 0.239,
-      "games_played": 73,
-      "at_bats": 200,
-      "ab_per_game": 2.74
+      "games_played": 74,
+      "at_bats": 204,
+      "ab_per_game": 2.757
     },
     "703520": {
       "name": "Brett Bateman",
       "team_id": 141,
-      "xba": 0.236,
-      "games_played": 10,
-      "at_bats": 46,
-      "ab_per_game": 4.6
+      "xba": 0.239,
+      "games_played": 11,
+      "at_bats": 48,
+      "ab_per_game": 4.364
     },
     "807727": {
       "name": "Charles McAdoo",
       "team_id": 141,
-      "xba": 0.246,
-      "games_played": 15,
-      "at_bats": 44,
-      "ab_per_game": 2.933
+      "xba": 0.251,
+      "games_played": 16,
+      "at_bats": 48,
+      "ab_per_game": 3.0
     },
     "663662": {
       "name": "Daz Cameron",
       "team_id": 141,
-      "xba": 0.208,
-      "games_played": 1,
-      "at_bats": 4,
-      "ab_per_game": 4.0
+      "xba": 0.207,
+      "games_played": 2,
+      "at_bats": 6,
+      "ab_per_game": 3.0
     },
     "676391": {
       "name": "Ernie Clement",
@@ -1060,282 +786,282 @@
     "543807": {
       "name": "George Springer",
       "team_id": 141,
-      "xba": 0.231,
-      "games_played": 95,
-      "at_bats": 355,
-      "ab_per_game": 3.737
+      "xba": 0.23,
+      "games_played": 96,
+      "at_bats": 356,
+      "ab_per_game": 3.708
     },
     "660821": {
       "name": "Jes\u00fas S\u00e1nchez",
       "team_id": 141,
-      "xba": 0.264,
-      "games_played": 86,
-      "at_bats": 244,
-      "ab_per_game": 2.837
+      "xba": 0.262,
+      "games_played": 87,
+      "at_bats": 246,
+      "ab_per_game": 2.828
     },
     "669701": {
       "name": "Josh Smith",
       "team_id": 141,
-      "xba": 0.207,
-      "games_played": 13,
-      "at_bats": 25,
-      "ab_per_game": 1.923
+      "xba": 0.208,
+      "games_played": 14,
+      "at_bats": 28,
+      "ab_per_game": 2.0
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team_id": 141,
-      "xba": 0.212,
-      "games_played": 122,
-      "at_bats": 449,
-      "ab_per_game": 3.68
+      "xba": 0.214,
+      "games_played": 123,
+      "at_bats": 452,
+      "ab_per_game": 3.675
     },
     "664702": {
       "name": "Myles Straw",
       "team_id": 141,
-      "xba": 0.255,
-      "games_played": 114,
-      "at_bats": 218,
-      "ab_per_game": 1.912
+      "xba": 0.254,
+      "games_played": 115,
+      "at_bats": 219,
+      "ab_per_game": 1.904
     },
     "664770": {
       "name": "Nathan Lukes",
       "team_id": 141,
-      "xba": 0.258,
-      "games_played": 92,
-      "at_bats": 297,
-      "ab_per_game": 3.228
-    },
-    "702176": {
-      "name": "Alan Roden",
-      "team_id": 142,
-      "xba": 0.277,
-      "games_played": 26,
-      "at_bats": 61,
-      "ab_per_game": 2.346
-    },
-    "656577": {
-      "name": "Alex Jackson",
-      "team_id": 142,
-      "xba": 0.191,
-      "games_played": 29,
-      "at_bats": 66,
-      "ab_per_game": 2.276
-    },
-    "686797": {
-      "name": "Brooks Lee",
-      "team_id": 142,
-      "xba": 0.222,
-      "games_played": 121,
-      "at_bats": 447,
-      "ab_per_game": 3.694
-    },
-    "621439": {
-      "name": "Byron Buxton",
-      "team_id": 142,
-      "xba": 0.248,
-      "games_played": 87,
-      "at_bats": 347,
-      "ab_per_game": 3.989
-    },
-    "605137": {
-      "name": "Josh Bell",
-      "team_id": 142,
-      "xba": 0.251,
-      "games_played": 122,
-      "at_bats": 450,
-      "ab_per_game": 3.689
-    },
-    "701785": {
-      "name": "Kaelen Culpepper",
-      "team_id": 142,
-      "xba": 0.231,
-      "games_played": 9,
-      "at_bats": 31,
-      "ab_per_game": 3.444
-    },
-    "665019": {
-      "name": "Kody Clemens",
-      "team_id": 142,
-      "xba": 0.245,
-      "games_played": 110,
-      "at_bats": 407,
-      "ab_per_game": 3.7
-    },
-    "807712": {
-      "name": "Luke Keaschall",
-      "team_id": 142,
-      "xba": 0.241,
-      "games_played": 118,
-      "at_bats": 396,
-      "ab_per_game": 3.356
-    },
-    "668904": {
-      "name": "Royce Lewis",
-      "team_id": 142,
-      "xba": 0.243,
-      "games_played": 92,
-      "at_bats": 337,
-      "ab_per_game": 3.663
-    },
-    "680777": {
-      "name": "Ryan Jeffers",
-      "team_id": 142,
       "xba": 0.255,
-      "games_played": 64,
-      "at_bats": 219,
-      "ab_per_game": 3.422
+      "games_played": 93,
+      "at_bats": 301,
+      "ab_per_game": 3.237
     },
-    "668952": {
-      "name": "Ryan Kreidler",
-      "team_id": 142,
-      "xba": 0.223,
-      "games_played": 80,
-      "at_bats": 202,
-      "ab_per_game": 2.525
+    "665966": {
+      "name": "Carlos Narv\u00e1ez",
+      "team_id": 110,
+      "xba": 0.198,
+      "games_played": 62,
+      "at_bats": 171,
+      "ab_per_game": 2.758
     },
-    "663616": {
-      "name": "Trevor Larnach",
-      "team_id": 142,
-      "xba": 0.262,
-      "games_played": 103,
-      "at_bats": 329,
-      "ab_per_game": 3.194
-    },
-    "605170": {
-      "name": "Victor Caratini",
-      "team_id": 142,
-      "xba": 0.238,
-      "games_played": 90,
-      "at_bats": 282,
-      "ab_per_game": 3.133
-    },
-    "664761": {
-      "name": "Alec Bohm",
-      "team_id": 143,
-      "xba": 0.259,
-      "games_played": 122,
-      "at_bats": 451,
-      "ab_per_game": 3.697
-    },
-    "669016": {
-      "name": "Brandon Marsh",
-      "team_id": 143,
-      "xba": 0.261,
-      "games_played": 121,
-      "at_bats": 441,
-      "ab_per_game": 3.645
-    },
-    "650559": {
-      "name": "Bryan De La Cruz",
-      "team_id": 143,
-      "xba": 0.252,
-      "games_played": 16,
-      "at_bats": 30,
-      "ab_per_game": 1.875
-    },
-    "547180": {
-      "name": "Bryce Harper",
-      "team_id": 143,
-      "xba": 0.273,
-      "games_played": 127,
-      "at_bats": 444,
-      "ab_per_game": 3.496
-    },
-    "681082": {
-      "name": "Bryson Stott",
-      "team_id": 143,
-      "xba": 0.272,
-      "games_played": 121,
-      "at_bats": 421,
-      "ab_per_game": 3.479
-    },
-    "656537": {
-      "name": "Derek Hill",
-      "team_id": 143,
-      "xba": 0.224,
-      "games_played": 50,
-      "at_bats": 80,
-      "ab_per_game": 1.6
-    },
-    "624641": {
-      "name": "Edmundo Sosa",
-      "team_id": 143,
-      "xba": 0.279,
-      "games_played": 65,
-      "at_bats": 187,
-      "ab_per_game": 2.877
-    },
-    "596117": {
-      "name": "Garrett Stubbs",
-      "team_id": 143,
-      "xba": 0.197,
+    "687952": {
+      "name": "Christian Encarnacion-Strand",
+      "team_id": 110,
+      "xba": 0.264,
       "games_played": 26,
-      "at_bats": 41,
-      "ab_per_game": 1.577
+      "at_bats": 85,
+      "ab_per_game": 3.269
     },
-    "592663": {
-      "name": "J.T. Realmuto",
-      "team_id": 143,
-      "xba": 0.254,
-      "games_played": 94,
-      "at_bats": 316,
-      "ab_per_game": 3.362
+    "681047": {
+      "name": "Christian Franklin",
+      "team_id": 110,
+      "xba": 0.167,
+      "games_played": 12,
+      "at_bats": 22,
+      "ab_per_game": 1.833
     },
-    "702222": {
-      "name": "Justin Crawford",
-      "team_id": 143,
-      "xba": 0.252,
-      "games_played": 117,
+    "691723": {
+      "name": "Coby Mayo",
+      "team_id": 110,
+      "xba": 0.22,
+      "games_played": 101,
+      "at_bats": 303,
+      "ab_per_game": 3.0
+    },
+    "681297": {
+      "name": "Colton Cowser",
+      "team_id": 110,
+      "xba": 0.215,
+      "games_played": 113,
+      "at_bats": 260,
+      "ab_per_game": 2.301
+    },
+    "687637": {
+      "name": "Dylan Beavers",
+      "team_id": 110,
+      "xba": 0.229,
+      "games_played": 72,
+      "at_bats": 210,
+      "ab_per_game": 2.917
+    },
+    "683002": {
+      "name": "Gunnar Henderson",
+      "team_id": 110,
+      "xba": 0.243,
+      "games_played": 126,
+      "at_bats": 508,
+      "ab_per_game": 4.032
+    },
+    "702616": {
+      "name": "Jackson Holliday",
+      "team_id": 110,
+      "xba": 0.239,
+      "games_played": 75,
+      "at_bats": 221,
+      "ab_per_game": 2.947
+    },
+    "665750": {
+      "name": "Leody Taveras",
+      "team_id": 110,
+      "xba": 0.217,
+      "games_played": 110,
       "at_bats": 341,
-      "ab_per_game": 2.915
+      "ab_per_game": 3.1
     },
-    "656941": {
-      "name": "Kyle Schwarber",
-      "team_id": 143,
-      "xba": 0.234,
-      "games_played": 121,
-      "at_bats": 450,
-      "ab_per_game": 3.719
+    "624413": {
+      "name": "Pete Alonso",
+      "team_id": 110,
+      "xba": 0.282,
+      "games_played": 127,
+      "at_bats": 476,
+      "ab_per_game": 3.748
     },
-    "650333": {
-      "name": "Luis Arraez",
-      "team_id": 143,
+    "694212": {
+      "name": "Samuel Basallo",
+      "team_id": 110,
+      "xba": 0.251,
+      "games_played": 87,
+      "at_bats": 285,
+      "ab_per_game": 3.276
+    },
+    "641933": {
+      "name": "Tyler O'Neill",
+      "team_id": 110,
+      "xba": 0.217,
+      "games_played": 83,
+      "at_bats": 223,
+      "ab_per_game": 2.687
+    },
+    "650968": {
+      "name": "Yohel Pozo",
+      "team_id": 110,
+      "xba": 0.243,
+      "games_played": 18,
+      "at_bats": 33,
+      "ab_per_game": 1.833
+    },
+    "624428": {
+      "name": "Adam Frazier",
+      "team_id": 108,
+      "xba": 0.194,
+      "games_played": 49,
+      "at_bats": 98,
+      "ab_per_game": 2.0
+    },
+    "694203": {
+      "name": "Denzer Guzman",
+      "team_id": 108,
+      "xba": 0.229,
+      "games_played": 55,
+      "at_bats": 180,
+      "ab_per_game": 3.273
+    },
+    "642350": {
+      "name": "Jose Siri",
+      "team_id": 108,
+      "xba": 0.23,
+      "games_played": 73,
+      "at_bats": 140,
+      "ab_per_game": 1.918
+    },
+    "666139": {
+      "name": "Josh Lowe",
+      "team_id": 108,
+      "xba": 0.223,
+      "games_played": 83,
+      "at_bats": 230,
+      "ab_per_game": 2.771
+    },
+    "545361": {
+      "name": "Mike Trout",
+      "team_id": 108,
+      "xba": 0.253,
+      "games_played": 108,
+      "at_bats": 391,
+      "ab_per_game": 3.62
+    },
+    "694208": {
+      "name": "Mois\u00e9s Ballesteros",
+      "team_id": 108,
+      "xba": 0.232,
+      "games_played": 59,
+      "at_bats": 156,
+      "ab_per_game": 2.644
+    },
+    "694384": {
+      "name": "Nolan Schanuel",
+      "team_id": 108,
       "xba": 0.287,
-      "games_played": 14,
-      "at_bats": 62,
-      "ab_per_game": 4.429
+      "games_played": 106,
+      "at_bats": 388,
+      "ab_per_game": 3.66
     },
-    "607208": {
-      "name": "Trea Turner",
-      "team_id": 143,
-      "xba": 0.248,
-      "games_played": 122,
-      "at_bats": 501,
-      "ab_per_game": 4.107
+    "672724": {
+      "name": "Oswald Peraza",
+      "team_id": 108,
+      "xba": 0.22,
+      "games_played": 105,
+      "at_bats": 297,
+      "ab_per_game": 2.829
+    },
+    "518595": {
+      "name": "Travis d'Arnaud",
+      "team_id": 108,
+      "xba": 0.186,
+      "games_played": 21,
+      "at_bats": 48,
+      "ab_per_game": 2.286
+    },
+    "623168": {
+      "name": "Tyler Heineman",
+      "team_id": 108,
+      "xba": 0.224,
+      "games_played": 33,
+      "at_bats": 78,
+      "ab_per_game": 2.364
+    },
+    "687093": {
+      "name": "Vaughn Grissom",
+      "team_id": 108,
+      "xba": 0.249,
+      "games_played": 84,
+      "at_bats": 291,
+      "ab_per_game": 3.464
+    },
+    "685133": {
+      "name": "Wade Meckler",
+      "team_id": 108,
+      "xba": 0.253,
+      "games_played": 69,
+      "at_bats": 203,
+      "ab_per_game": 2.942
+    },
+    "687263": {
+      "name": "Zach Neto",
+      "team_id": 108,
+      "xba": 0.197,
+      "games_played": 123,
+      "at_bats": 487,
+      "ab_per_game": 3.959
     },
     "663586": {
       "name": "Austin Riley",
       "team_id": 144,
       "xba": 0.213,
-      "games_played": 125,
-      "at_bats": 450,
-      "ab_per_game": 3.6
+      "games_played": 126,
+      "at_bats": 453,
+      "ab_per_game": 3.595
     },
     "642086": {
       "name": "Dominic Smith",
       "team_id": 144,
-      "xba": 0.243,
-      "games_played": 98,
-      "at_bats": 251,
-      "ab_per_game": 2.561
+      "xba": 0.241,
+      "games_played": 99,
+      "at_bats": 253,
+      "ab_per_game": 2.556
     },
     "686948": {
       "name": "Drake Baldwin",
       "team_id": 144,
-      "xba": 0.285,
-      "games_played": 103,
-      "at_bats": 403,
-      "ab_per_game": 3.913
+      "xba": 0.282,
+      "games_played": 104,
+      "at_bats": 408,
+      "ab_per_game": 3.923
     },
     "673490": {
       "name": "Ha-Seong Kim",
@@ -1348,66 +1074,66 @@
     "805347": {
       "name": "Jim Jarvis",
       "team_id": 144,
-      "xba": 0.241,
-      "games_played": 36,
-      "at_bats": 106,
-      "ab_per_game": 2.944
+      "xba": 0.236,
+      "games_played": 37,
+      "at_bats": 108,
+      "ab_per_game": 2.919
     },
     "657041": {
       "name": "Lane Thomas",
       "team_id": 144,
       "xba": 0.242,
-      "games_played": 9,
-      "at_bats": 16,
-      "ab_per_game": 1.778
+      "games_played": 10,
+      "at_bats": 18,
+      "ab_per_game": 1.8
     },
     "621566": {
       "name": "Matt Olson",
       "team_id": 144,
       "xba": 0.25,
-      "games_played": 126,
-      "at_bats": 488,
-      "ab_per_game": 3.873
+      "games_played": 127,
+      "at_bats": 491,
+      "ab_per_game": 3.866
     },
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team_id": 144,
       "xba": 0.266,
-      "games_played": 119,
-      "at_bats": 445,
-      "ab_per_game": 3.739
+      "games_played": 120,
+      "at_bats": 447,
+      "ab_per_game": 3.725
     },
     "671739": {
       "name": "Michael Harris II",
       "team_id": 144,
-      "xba": 0.289,
-      "games_played": 120,
-      "at_bats": 456,
-      "ab_per_game": 3.8
+      "xba": 0.288,
+      "games_played": 121,
+      "at_bats": 460,
+      "ab_per_game": 3.802
     },
     "573262": {
       "name": "Mike Yastrzemski",
       "team_id": 144,
-      "xba": 0.234,
-      "games_played": 108,
-      "at_bats": 280,
-      "ab_per_game": 2.593
+      "xba": 0.233,
+      "games_played": 109,
+      "at_bats": 282,
+      "ab_per_game": 2.587
     },
     "645277": {
       "name": "Ozzie Albies",
       "team_id": 144,
       "xba": 0.229,
-      "games_played": 126,
-      "at_bats": 483,
-      "ab_per_game": 3.833
+      "games_played": 127,
+      "at_bats": 486,
+      "ab_per_game": 3.827
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team_id": 144,
-      "xba": 0.258,
-      "games_played": 74,
-      "at_bats": 278,
-      "ab_per_game": 3.757
+      "xba": 0.257,
+      "games_played": 75,
+      "at_bats": 283,
+      "ab_per_game": 3.773
     },
     "669221": {
       "name": "Sean Murphy",
@@ -1417,45 +1143,245 @@
       "at_bats": 34,
       "ab_per_game": 3.4
     },
+    "667472": {
+      "name": "Dane Myers",
+      "team_id": 113,
+      "xba": 0.23,
+      "games_played": 91,
+      "at_bats": 204,
+      "ab_per_game": 2.242
+    },
+    "682829": {
+      "name": "Elly De La Cruz",
+      "team_id": 113,
+      "xba": 0.262,
+      "games_played": 108,
+      "at_bats": 425,
+      "ab_per_game": 3.935
+    },
+    "553993": {
+      "name": "Eugenio Su\u00e1rez",
+      "team_id": 113,
+      "xba": 0.187,
+      "games_played": 96,
+      "at_bats": 340,
+      "ab_per_game": 3.542
+    },
+    "699302": {
+      "name": "H\u00e9ctor Rodr\u00edguez",
+      "team_id": 113,
+      "xba": 0.163,
+      "games_played": 11,
+      "at_bats": 31,
+      "ab_per_game": 2.818
+    },
+    "668709": {
+      "name": "JJ Bleday",
+      "team_id": 113,
+      "xba": 0.237,
+      "games_played": 99,
+      "at_bats": 348,
+      "ab_per_game": 3.515
+    },
+    "624431": {
+      "name": "Jose Trevino",
+      "team_id": 113,
+      "xba": 0.201,
+      "games_played": 36,
+      "at_bats": 102,
+      "ab_per_game": 2.833
+    },
+    "663647": {
+      "name": "Ke'Bryan Hayes",
+      "team_id": 113,
+      "xba": 0.238,
+      "games_played": 73,
+      "at_bats": 181,
+      "ab_per_game": 2.479
+    },
+    "680574": {
+      "name": "Matt McLain",
+      "team_id": 113,
+      "xba": 0.231,
+      "games_played": 103,
+      "at_bats": 331,
+      "ab_per_game": 3.214
+    },
+    "669911": {
+      "name": "Michael Toglia",
+      "team_id": 113,
+      "xba": 0.206,
+      "games_played": 8,
+      "at_bats": 22,
+      "ab_per_game": 2.75
+    },
+    "701398": {
+      "name": "Sal Stewart",
+      "team_id": 113,
+      "xba": 0.245,
+      "games_played": 127,
+      "at_bats": 483,
+      "ab_per_game": 3.803
+    },
+    "670770": {
+      "name": "TJ Friedl",
+      "team_id": 113,
+      "xba": 0.168,
+      "games_played": 72,
+      "at_bats": 216,
+      "ab_per_game": 3.0
+    },
+    "663886": {
+      "name": "Tyler Stephenson",
+      "team_id": 113,
+      "xba": 0.245,
+      "games_played": 99,
+      "at_bats": 310,
+      "ab_per_game": 3.131
+    },
+    "694197": {
+      "name": "Angel Genao",
+      "team_id": 114,
+      "xba": 0.284,
+      "games_played": 12,
+      "at_bats": 41,
+      "ab_per_game": 3.417
+    },
+    "682657": {
+      "name": "Angel Mart\u00ednez",
+      "team_id": 114,
+      "xba": 0.256,
+      "games_played": 87,
+      "at_bats": 294,
+      "ab_per_game": 3.379
+    },
+    "595978": {
+      "name": "Austin Hedges",
+      "team_id": 114,
+      "xba": 0.236,
+      "games_played": 65,
+      "at_bats": 166,
+      "ab_per_game": 2.554
+    },
+    "677587": {
+      "name": "Brayan Rocchio",
+      "team_id": 114,
+      "xba": 0.24,
+      "games_played": 123,
+      "at_bats": 430,
+      "ab_per_game": 3.496
+    },
+    "800050": {
+      "name": "Chase DeLauter",
+      "team_id": 114,
+      "xba": 0.276,
+      "games_played": 107,
+      "at_bats": 403,
+      "ab_per_game": 3.766
+    },
+    "681807": {
+      "name": "David Fry",
+      "team_id": 114,
+      "xba": 0.168,
+      "games_played": 71,
+      "at_bats": 143,
+      "ab_per_game": 2.014
+    },
+    "666176": {
+      "name": "Jo Adell",
+      "team_id": 114,
+      "xba": 0.256,
+      "games_played": 13,
+      "at_bats": 46,
+      "ab_per_game": 3.538
+    },
+    "608070": {
+      "name": "Jos\u00e9 Ram\u00edrez",
+      "team_id": 114,
+      "xba": 0.281,
+      "games_played": 94,
+      "at_bats": 344,
+      "ab_per_game": 3.66
+    },
+    "663993": {
+      "name": "Nathaniel Lowe",
+      "team_id": 114,
+      "xba": 0.264,
+      "games_played": 11,
+      "at_bats": 38,
+      "ab_per_game": 3.455
+    },
+    "672275": {
+      "name": "Patrick Bailey",
+      "team_id": 114,
+      "xba": 0.227,
+      "games_played": 30,
+      "at_bats": 82,
+      "ab_per_game": 2.733
+    },
+    "690984": {
+      "name": "Petey Halpin",
+      "team_id": 114,
+      "xba": 0.235,
+      "games_played": 54,
+      "at_bats": 126,
+      "ab_per_game": 2.333
+    },
+    "680757": {
+      "name": "Steven Kwan",
+      "team_id": 114,
+      "xba": 0.269,
+      "games_played": 117,
+      "at_bats": 405,
+      "ab_per_game": 3.462
+    },
+    "683953": {
+      "name": "Travis Bazzana",
+      "team_id": 114,
+      "xba": 0.221,
+      "games_played": 93,
+      "at_bats": 344,
+      "ab_per_game": 3.699
+    },
     "643217": {
       "name": "Andrew Benintendi",
       "team_id": 145,
-      "xba": 0.241,
-      "games_played": 111,
-      "at_bats": 337,
-      "ab_per_game": 3.036
+      "xba": 0.243,
+      "games_played": 112,
+      "at_bats": 339,
+      "ab_per_game": 3.027
     },
     "695731": {
       "name": "Braden Montgomery",
       "team_id": 145,
-      "xba": 0.24,
-      "games_played": 58,
-      "at_bats": 210,
-      "ab_per_game": 3.621
+      "xba": 0.239,
+      "games_played": 59,
+      "at_bats": 214,
+      "ab_per_game": 3.627
     },
     "686668": {
       "name": "Brenton Doyle",
       "team_id": 145,
       "xba": 0.192,
-      "games_played": 13,
+      "games_played": 14,
       "at_bats": 32,
-      "ab_per_game": 2.462
+      "ab_per_game": 2.286
     },
     "805367": {
       "name": "Chase Meidroth",
       "team_id": 145,
       "xba": 0.233,
-      "games_played": 120,
-      "at_bats": 444,
-      "ab_per_game": 3.7
+      "games_played": 121,
+      "at_bats": 448,
+      "ab_per_game": 3.702
     },
     "695657": {
       "name": "Colson Montgomery",
       "team_id": 145,
       "xba": 0.211,
-      "games_played": 118,
-      "at_bats": 447,
-      "ab_per_game": 3.788
+      "games_played": 119,
+      "at_bats": 451,
+      "ab_per_game": 3.79
     },
     "691011": {
       "name": "Drew Romo",
@@ -1468,10 +1394,10 @@
     "668670": {
       "name": "Jake Rogers",
       "team_id": 145,
-      "xba": 0.178,
-      "games_played": 3,
-      "at_bats": 6,
-      "ab_per_game": 2.0
+      "xba": 0.185,
+      "games_played": 4,
+      "at_bats": 10,
+      "ab_per_game": 2.5
     },
     "682668": {
       "name": "Luisangel Acu\u00f1a",
@@ -1484,23 +1410,23 @@
     "678246": {
       "name": "Miguel Vargas",
       "team_id": 145,
-      "xba": 0.263,
-      "games_played": 123,
-      "at_bats": 460,
-      "ab_per_game": 3.74
+      "xba": 0.264,
+      "games_played": 124,
+      "at_bats": 463,
+      "ab_per_game": 3.734
     },
     "808959": {
       "name": "Munetaka Murakami",
       "team_id": 145,
-      "xba": 0.218,
-      "games_played": 90,
-      "at_bats": 321,
-      "ab_per_game": 3.567
+      "xba": 0.22,
+      "games_played": 91,
+      "at_bats": 326,
+      "ab_per_game": 3.582
     },
     "545341": {
       "name": "Randal Grichuk",
       "team_id": 145,
-      "xba": 0.28,
+      "xba": 0.278,
       "games_played": 16,
       "at_bats": 31,
       "ab_per_game": 1.938
@@ -1508,122 +1434,18 @@
     "803011": {
       "name": "Sam Antonacci",
       "team_id": 145,
-      "xba": 0.276,
-      "games_played": 105,
-      "at_bats": 362,
-      "ab_per_game": 3.448
+      "xba": 0.275,
+      "games_played": 106,
+      "at_bats": 365,
+      "ab_per_game": 3.443
     },
     "671976": {
       "name": "Tristan Peters",
       "team_id": 145,
       "xba": 0.248,
-      "games_played": 120,
-      "at_bats": 332,
-      "ab_per_game": 2.767
-    },
-    "682663": {
-      "name": "Agust\u00edn Ram\u00edrez",
-      "team_id": 146,
-      "xba": 0.225,
-      "games_played": 43,
-      "at_bats": 144,
-      "ab_per_game": 3.349
-    },
-    "640459": {
-      "name": "Brian Navarreto",
-      "team_id": 146,
-      "xba": 0.142,
-      "games_played": 14,
-      "at_bats": 29,
-      "ab_per_game": 2.071
-    },
-    "665923": {
-      "name": "Esteury Ruiz",
-      "team_id": 146,
-      "xba": 0.207,
-      "games_played": 82,
-      "at_bats": 144,
-      "ab_per_game": 1.756
-    },
-    "688363": {
-      "name": "Graham Pauley",
-      "team_id": 146,
-      "xba": 0.182,
-      "games_played": 46,
-      "at_bats": 108,
-      "ab_per_game": 2.348
-    },
-    "665052": {
-      "name": "Griffin Conine",
-      "team_id": 146,
-      "xba": 0.277,
-      "games_played": 60,
-      "at_bats": 169,
-      "ab_per_game": 2.817
-    },
-    "681715": {
-      "name": "Heriberto Hern\u00e1ndez",
-      "team_id": 146,
-      "xba": 0.245,
-      "games_played": 95,
-      "at_bats": 311,
-      "ab_per_game": 3.274
-    },
-    "805300": {
-      "name": "Jakob Marsee",
-      "team_id": 146,
-      "xba": 0.22,
-      "games_played": 122,
-      "at_bats": 405,
-      "ab_per_game": 3.32
-    },
-    "691594": {
-      "name": "Javier Sanoja",
-      "team_id": 146,
-      "xba": 0.254,
-      "games_played": 109,
-      "at_bats": 324,
-      "ab_per_game": 2.972
-    },
-    "691788": {
-      "name": "Joe Mack",
-      "team_id": 146,
-      "xba": 0.235,
-      "games_played": 76,
-      "at_bats": 221,
-      "ab_per_game": 2.908
-    },
-    "677870": {
-      "name": "Leo Jim\u00e9nez",
-      "team_id": 146,
-      "xba": 0.24,
-      "games_played": 59,
-      "at_bats": 150,
-      "ab_per_game": 2.542
-    },
-    "672640": {
-      "name": "Otto Lopez",
-      "team_id": 146,
-      "xba": 0.28,
-      "games_played": 123,
-      "at_bats": 494,
-      "ab_per_game": 4.016
-    },
-    "683357": {
-      "name": "Owen Caissie",
-      "team_id": 146,
-      "xba": 0.209,
-      "games_played": 92,
-      "at_bats": 253,
-      "ab_per_game": 2.75
-    },
-    "669364": {
-      "name": "Xavier Edwards",
-      "team_id": 146,
-      "xba": 0.262,
-      "games_played": 127,
-      "at_bats": 462,
-      "ab_per_game": 3.638
+      "games_played": 121,
+      "at_bats": 335,
+      "ab_per_game": 2.769
     },
     "645305": {
       "name": "Ali S\u00e1nchez",
@@ -1644,58 +1466,58 @@
     "669224": {
       "name": "Austin Wells",
       "team_id": 147,
-      "xba": 0.213,
-      "games_played": 90,
-      "at_bats": 248,
-      "ab_per_game": 2.756
+      "xba": 0.212,
+      "games_played": 91,
+      "at_bats": 252,
+      "ab_per_game": 2.769
     },
     "700250": {
       "name": "Ben Rice",
       "team_id": 147,
-      "xba": 0.262,
-      "games_played": 120,
-      "at_bats": 446,
-      "ab_per_game": 3.717
+      "xba": 0.263,
+      "games_played": 121,
+      "at_bats": 451,
+      "ab_per_game": 3.727
     },
     "806146": {
       "name": "George Lombard Jr.",
       "team_id": 147,
-      "xba": 0.265,
-      "games_played": 12,
-      "at_bats": 41,
-      "ab_per_game": 3.417
+      "xba": 0.269,
+      "games_played": 13,
+      "at_bats": 44,
+      "ab_per_game": 3.385
     },
     "671218": {
       "name": "Heliot Ramos",
       "team_id": 147,
-      "xba": 0.254,
-      "games_played": 12,
-      "at_bats": 39,
-      "ab_per_game": 3.25
+      "xba": 0.255,
+      "games_played": 13,
+      "at_bats": 42,
+      "ab_per_game": 3.231
     },
     "665862": {
       "name": "Jazz Chisholm Jr.",
       "team_id": 147,
-      "xba": 0.206,
-      "games_played": 116,
-      "at_bats": 406,
-      "ab_per_game": 3.5
+      "xba": 0.207,
+      "games_played": 117,
+      "at_bats": 408,
+      "ab_per_game": 3.487
     },
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team_id": 147,
       "xba": 0.231,
-      "games_played": 104,
+      "games_played": 105,
       "at_bats": 327,
-      "ab_per_game": 3.144
+      "ab_per_game": 3.114
     },
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team_id": 147,
-      "xba": 0.28,
-      "games_played": 12,
-      "at_bats": 46,
-      "ab_per_game": 3.833
+      "xba": 0.282,
+      "games_played": 13,
+      "at_bats": 51,
+      "ab_per_game": 3.923
     },
     "502671": {
       "name": "Paul Goldschmidt",
@@ -1708,58 +1530,370 @@
     "641857": {
       "name": "Ryan McMahon",
       "team_id": 147,
-      "xba": 0.233,
-      "games_played": 105,
-      "at_bats": 275,
-      "ab_per_game": 2.619
+      "xba": 0.234,
+      "games_played": 106,
+      "at_bats": 278,
+      "ab_per_game": 2.623
     },
     "682987": {
       "name": "Spencer Jones",
       "team_id": 147,
-      "xba": 0.218,
-      "games_played": 52,
-      "at_bats": 142,
-      "ab_per_game": 2.731
+      "xba": 0.212,
+      "games_played": 53,
+      "at_bats": 146,
+      "ab_per_game": 2.755
     },
     "663757": {
       "name": "Trent Grisham",
       "team_id": 147,
-      "xba": 0.25,
-      "games_played": 105,
-      "at_bats": 366,
-      "ab_per_game": 3.486
+      "xba": 0.249,
+      "games_played": 106,
+      "at_bats": 370,
+      "ab_per_game": 3.491
+    },
+    "701358": {
+      "name": "Cam Smith",
+      "team_id": 117,
+      "xba": 0.244,
+      "games_played": 124,
+      "at_bats": 405,
+      "ab_per_game": 3.266
+    },
+    "543877": {
+      "name": "Christian V\u00e1zquez",
+      "team_id": 117,
+      "xba": 0.2,
+      "games_played": 74,
+      "at_bats": 210,
+      "ab_per_game": 2.838
+    },
+    "572233": {
+      "name": "Christian Walker",
+      "team_id": 117,
+      "xba": 0.225,
+      "games_played": 123,
+      "at_bats": 452,
+      "ab_per_game": 3.675
+    },
+    "662139": {
+      "name": "Daulton Varsho",
+      "team_id": 117,
+      "xba": 0.232,
+      "games_played": 99,
+      "at_bats": 333,
+      "ab_per_game": 3.364
+    },
+    "670623": {
+      "name": "Isaac Paredes",
+      "team_id": 117,
+      "xba": 0.251,
+      "games_played": 120,
+      "at_bats": 439,
+      "ab_per_game": 3.658
+    },
+    "665161": {
+      "name": "Jeremy Pe\u00f1a",
+      "team_id": 117,
+      "xba": 0.28,
+      "games_played": 79,
+      "at_bats": 311,
+      "ab_per_game": 3.937
+    },
+    "514888": {
+      "name": "Jose Altuve",
+      "team_id": 117,
+      "xba": 0.221,
+      "games_played": 101,
+      "at_bats": 390,
+      "ab_per_game": 3.861
+    },
+    "664774": {
+      "name": "LaMonte Wade Jr.",
+      "team_id": 117,
+      "xba": 0.205,
+      "games_played": 34,
+      "at_bats": 84,
+      "ab_per_game": 2.471
+    },
+    "676369": {
+      "name": "Nelson Vel\u00e1zquez",
+      "team_id": 117,
+      "xba": 0.256,
+      "games_played": 34,
+      "at_bats": 74,
+      "ab_per_game": 2.176
+    },
+    "669397": {
+      "name": "Nick Allen",
+      "team_id": 117,
+      "xba": 0.204,
+      "games_played": 70,
+      "at_bats": 115,
+      "ab_per_game": 1.643
+    },
+    "666211": {
+      "name": "Taylor Trammell",
+      "team_id": 117,
+      "xba": 0.2,
+      "games_played": 69,
+      "at_bats": 181,
+      "ab_per_game": 2.623
+    },
+    "673237": {
+      "name": "Yainer Diaz",
+      "team_id": 117,
+      "xba": 0.271,
+      "games_played": 66,
+      "at_bats": 234,
+      "ab_per_game": 3.545
+    },
+    "670541": {
+      "name": "Yordan Alvarez",
+      "team_id": 117,
+      "xba": 0.326,
+      "games_played": 125,
+      "at_bats": 454,
+      "ab_per_game": 3.632
+    },
+    "677951": {
+      "name": "Bobby Witt Jr.",
+      "team_id": 118,
+      "xba": 0.296,
+      "games_played": 109,
+      "at_bats": 426,
+      "ab_per_game": 3.908
+    },
+    "695600": {
+      "name": "Carter Jensen",
+      "team_id": 118,
+      "xba": 0.201,
+      "games_played": 119,
+      "at_bats": 416,
+      "ab_per_game": 3.496
+    },
+    "686555": {
+      "name": "Isaac Collins",
+      "team_id": 118,
+      "xba": 0.229,
+      "games_played": 115,
+      "at_bats": 359,
+      "ab_per_game": 3.122
+    },
+    "695506": {
+      "name": "Jac Caglianone",
+      "team_id": 118,
+      "xba": 0.283,
+      "games_played": 119,
+      "at_bats": 426,
+      "ab_per_game": 3.58
+    },
+    "670231": {
+      "name": "John Rave",
+      "team_id": 118,
+      "xba": 0.23,
+      "games_played": 26,
+      "at_bats": 58,
+      "ab_per_game": 2.231
+    },
+    "664728": {
+      "name": "Kyle Isbel",
+      "team_id": 118,
+      "xba": 0.229,
+      "games_played": 70,
+      "at_bats": 205,
+      "ab_per_game": 2.929
+    },
+    "571912": {
+      "name": "Luke Maile",
+      "team_id": 118,
+      "xba": 0.174,
+      "games_played": 8,
+      "at_bats": 21,
+      "ab_per_game": 2.625
+    },
+    "672580": {
+      "name": "Maikel Garcia",
+      "team_id": 118,
+      "xba": 0.274,
+      "games_played": 72,
+      "at_bats": 282,
+      "ab_per_game": 3.917
+    },
+    "686681": {
+      "name": "Michael Massey",
+      "team_id": 118,
+      "xba": 0.241,
+      "games_played": 106,
+      "at_bats": 327,
+      "ab_per_game": 3.085
+    },
+    "679845": {
+      "name": "Nick Loftin",
+      "team_id": 118,
+      "xba": 0.231,
+      "games_played": 89,
+      "at_bats": 269,
+      "ab_per_game": 3.022
+    },
+    "521692": {
+      "name": "Salvador Perez",
+      "team_id": 118,
+      "xba": 0.233,
+      "games_played": 118,
+      "at_bats": 452,
+      "ab_per_game": 3.831
+    },
+    "686475": {
+      "name": "Tyler Tolbert",
+      "team_id": 118,
+      "xba": 0.264,
+      "games_played": 58,
+      "at_bats": 96,
+      "ab_per_game": 1.655
+    },
+    "686469": {
+      "name": "Vinnie Pasquantino",
+      "team_id": 118,
+      "xba": 0.251,
+      "games_played": 82,
+      "at_bats": 305,
+      "ab_per_game": 3.72
+    },
+    "694673": {
+      "name": "Abimelec Ortiz",
+      "team_id": 120,
+      "xba": 0.283,
+      "games_played": 16,
+      "at_bats": 47,
+      "ab_per_game": 2.938
+    },
+    "665953": {
+      "name": "Andr\u00e9s Chaparro",
+      "team_id": 120,
+      "xba": 0.253,
+      "games_played": 56,
+      "at_bats": 116,
+      "ab_per_game": 2.071
+    },
+    "687605": {
+      "name": "Andrew Pinckney",
+      "team_id": 120,
+      "xba": 0.252,
+      "games_played": 8,
+      "at_bats": 11,
+      "ab_per_game": 1.375
+    },
+    "691781": {
+      "name": "Brady House",
+      "team_id": 120,
+      "xba": 0.261,
+      "games_played": 65,
+      "at_bats": 230,
+      "ab_per_game": 3.538
+    },
+    "682928": {
+      "name": "CJ Abrams",
+      "team_id": 120,
+      "xba": 0.256,
+      "games_played": 124,
+      "at_bats": 470,
+      "ab_per_game": 3.79
+    },
+    "695734": {
+      "name": "Daylen Lile",
+      "team_id": 120,
+      "xba": 0.252,
+      "games_played": 126,
+      "at_bats": 482,
+      "ab_per_game": 3.825
+    },
+    "686611": {
+      "name": "Dylan Crews",
+      "team_id": 120,
+      "xba": 0.235,
+      "games_played": 76,
+      "at_bats": 279,
+      "ab_per_game": 3.671
+    },
+    "695670": {
+      "name": "Harry Ford",
+      "team_id": 120,
+      "xba": 0.144,
+      "games_played": 18,
+      "at_bats": 52,
+      "ab_per_game": 2.889
+    },
+    "696285": {
+      "name": "Jacob Young",
+      "team_id": 120,
+      "xba": 0.263,
+      "games_played": 112,
+      "at_bats": 344,
+      "ab_per_game": 3.071
+    },
+    "678391": {
+      "name": "Jorbit Vivas",
+      "team_id": 120,
+      "xba": 0.238,
+      "games_played": 94,
+      "at_bats": 231,
+      "ab_per_game": 2.457
+    },
+    "677588": {
+      "name": "Jos\u00e9 Tena",
+      "team_id": 120,
+      "xba": 0.24,
+      "games_played": 96,
+      "at_bats": 220,
+      "ab_per_game": 2.292
+    },
+    "660688": {
+      "name": "Keibert Ruiz",
+      "team_id": 120,
+      "xba": 0.244,
+      "games_played": 82,
+      "at_bats": 265,
+      "ab_per_game": 3.232
+    },
+    "683083": {
+      "name": "Nasim Nu\u00f1ez",
+      "team_id": 120,
+      "xba": 0.221,
+      "games_played": 117,
+      "at_bats": 363,
+      "ab_per_game": 3.103
     },
     "683734": {
       "name": "Andrew Vaughn",
       "team_id": 158,
-      "xba": 0.27,
-      "games_played": 81,
-      "at_bats": 225,
-      "ab_per_game": 2.778
-    },
-    "663604": {
-      "name": "Brandon Lockridge",
-      "team_id": 158,
-      "xba": 0.214,
-      "games_played": 38,
-      "at_bats": 99,
-      "ab_per_game": 2.605
+      "xba": 0.271,
+      "games_played": 82,
+      "at_bats": 228,
+      "ab_per_game": 2.78
     },
     "668930": {
       "name": "Brice Turang",
       "team_id": 158,
-      "xba": 0.255,
-      "games_played": 116,
-      "at_bats": 453,
-      "ab_per_game": 3.905
+      "xba": 0.253,
+      "games_played": 117,
+      "at_bats": 457,
+      "ab_per_game": 3.906
     },
     "592885": {
       "name": "Christian Yelich",
       "team_id": 158,
       "xba": 0.228,
-      "games_played": 87,
-      "at_bats": 337,
-      "ab_per_game": 3.874
+      "games_played": 88,
+      "at_bats": 339,
+      "ab_per_game": 3.852
+    },
+    "806198": {
+      "name": "Cooper Pratt",
+      "team_id": 158,
+      "xba": 0.251,
+      "games_played": 45,
+      "at_bats": 140,
+      "ab_per_game": 3.111
     },
     "666152": {
       "name": "David Hamilton",
@@ -1788,26 +1922,26 @@
     "694192": {
       "name": "Jackson Chourio",
       "team_id": 158,
-      "xba": 0.252,
-      "games_played": 92,
-      "at_bats": 378,
-      "ab_per_game": 4.109
+      "xba": 0.254,
+      "games_played": 93,
+      "at_bats": 383,
+      "ab_per_game": 4.118
     },
     "641343": {
       "name": "Jake Bauers",
       "team_id": 158,
-      "xba": 0.259,
-      "games_played": 113,
-      "at_bats": 381,
-      "ab_per_game": 3.372
+      "xba": 0.258,
+      "games_played": 114,
+      "at_bats": 386,
+      "ab_per_game": 3.386
     },
     "687401": {
       "name": "Joey Ortiz",
       "team_id": 158,
-      "xba": 0.24,
-      "games_played": 103,
-      "at_bats": 271,
-      "ab_per_game": 2.631
+      "xba": 0.241,
+      "games_played": 104,
+      "at_bats": 274,
+      "ab_per_game": 2.635
     },
     "680716": {
       "name": "Jonathan Ornelas",
@@ -1820,1582 +1954,110 @@
     "800325": {
       "name": "Luis Lara",
       "team_id": 158,
-      "xba": 0.272,
-      "games_played": 32,
-      "at_bats": 91,
-      "ab_per_game": 2.844
+      "xba": 0.277,
+      "games_played": 33,
+      "at_bats": 95,
+      "ab_per_game": 2.879
     },
     "661388": {
       "name": "William Contreras",
       "team_id": 158,
-      "xba": 0.263,
-      "games_played": 117,
-      "at_bats": 447,
-      "ab_per_game": 3.821
-    },
-    "624428": {
-      "name": "Adam Frazier",
-      "team_id": 108,
-      "xba": 0.194,
-      "games_played": 48,
-      "at_bats": 98,
-      "ab_per_game": 2.042
-    },
-    "694203": {
-      "name": "Denzer Guzman",
-      "team_id": 108,
-      "xba": 0.233,
-      "games_played": 54,
-      "at_bats": 176,
-      "ab_per_game": 3.259
-    },
-    "642350": {
-      "name": "Jose Siri",
-      "team_id": 108,
-      "xba": 0.228,
-      "games_played": 72,
-      "at_bats": 138,
-      "ab_per_game": 1.917
-    },
-    "666139": {
-      "name": "Josh Lowe",
-      "team_id": 108,
-      "xba": 0.218,
-      "games_played": 82,
-      "at_bats": 228,
-      "ab_per_game": 2.78
-    },
-    "545361": {
-      "name": "Mike Trout",
-      "team_id": 108,
-      "xba": 0.254,
-      "games_played": 107,
-      "at_bats": 388,
-      "ab_per_game": 3.626
-    },
-    "694208": {
-      "name": "Mois\u00e9s Ballesteros",
-      "team_id": 108,
-      "xba": 0.236,
-      "games_played": 59,
-      "at_bats": 156,
-      "ab_per_game": 2.644
-    },
-    "694384": {
-      "name": "Nolan Schanuel",
-      "team_id": 108,
-      "xba": 0.286,
-      "games_played": 105,
-      "at_bats": 384,
-      "ab_per_game": 3.657
-    },
-    "672724": {
-      "name": "Oswald Peraza",
-      "team_id": 108,
-      "xba": 0.223,
-      "games_played": 104,
-      "at_bats": 294,
-      "ab_per_game": 2.827
-    },
-    "518595": {
-      "name": "Travis d'Arnaud",
-      "team_id": 108,
-      "xba": 0.186,
-      "games_played": 20,
-      "at_bats": 48,
-      "ab_per_game": 2.4
-    },
-    "623168": {
-      "name": "Tyler Heineman",
-      "team_id": 108,
-      "xba": 0.224,
-      "games_played": 33,
-      "at_bats": 78,
-      "ab_per_game": 2.364
-    },
-    "687093": {
-      "name": "Vaughn Grissom",
-      "team_id": 108,
-      "xba": 0.252,
-      "games_played": 83,
-      "at_bats": 288,
-      "ab_per_game": 3.47
-    },
-    "685133": {
-      "name": "Wade Meckler",
-      "team_id": 108,
-      "xba": 0.253,
-      "games_played": 68,
-      "at_bats": 200,
-      "ab_per_game": 2.941
-    },
-    "687263": {
-      "name": "Zach Neto",
-      "team_id": 108,
-      "xba": 0.198,
-      "games_played": 122,
-      "at_bats": 483,
-      "ab_per_game": 3.959
-    },
-    "682998": {
-      "name": "Corbin Carroll",
-      "team_id": 109,
-      "xba": 0.247,
-      "games_played": 123,
-      "at_bats": 459,
-      "ab_per_game": 3.732
-    },
-    "672515": {
-      "name": "Gabriel Moreno",
-      "team_id": 109,
-      "xba": 0.295,
-      "games_played": 98,
-      "at_bats": 351,
-      "ab_per_game": 3.582
-    },
-    "672695": {
-      "name": "Geraldo Perdomo",
-      "team_id": 109,
-      "xba": 0.248,
-      "games_played": 122,
-      "at_bats": 439,
-      "ab_per_game": 3.598
-    },
-    "545121": {
-      "name": "Ildemaro Vargas",
-      "team_id": 109,
-      "xba": 0.279,
-      "games_played": 111,
-      "at_bats": 359,
-      "ab_per_game": 3.234
-    },
-    "543510": {
-      "name": "James McCann",
-      "team_id": 109,
-      "xba": 0.225,
-      "games_played": 37,
-      "at_bats": 115,
-      "ab_per_game": 3.108
-    },
-    "691783": {
-      "name": "Jordan Lawlar",
-      "team_id": 109,
-      "xba": 0.242,
-      "games_played": 14,
-      "at_bats": 46,
-      "ab_per_game": 3.286
-    },
-    "678489": {
-      "name": "Jorge Barrosa",
-      "team_id": 109,
-      "xba": 0.163,
-      "games_played": 90,
-      "at_bats": 132,
-      "ab_per_game": 1.467
-    },
-    "699912": {
-      "name": "Jose Fernandez",
-      "team_id": 109,
-      "xba": 0.236,
-      "games_played": 57,
-      "at_bats": 172,
-      "ab_per_game": 3.018
-    },
-    "663457": {
-      "name": "Lars Nootbaar",
-      "team_id": 109,
-      "xba": 0.233,
-      "games_played": 48,
-      "at_bats": 158,
-      "ab_per_game": 3.292
-    },
-    "596146": {
-      "name": "Max Kepler",
-      "team_id": 109,
-      "xba": 0.203,
-      "games_played": 34,
-      "at_bats": 111,
-      "ab_per_game": 3.265
-    },
-    "571448": {
-      "name": "Nolan Arenado",
-      "team_id": 109,
-      "xba": 0.232,
-      "games_played": 118,
-      "at_bats": 406,
-      "ab_per_game": 3.441
-    },
-    "814439": {
-      "name": "Ryan Waldschmidt",
-      "team_id": 109,
-      "xba": 0.252,
-      "games_played": 60,
-      "at_bats": 194,
-      "ab_per_game": 3.233
-    },
-    "694374": {
-      "name": "Tim Tawa",
-      "team_id": 109,
-      "xba": 0.237,
-      "games_played": 70,
-      "at_bats": 196,
-      "ab_per_game": 2.8
-    },
-    "665966": {
-      "name": "Carlos Narv\u00e1ez",
-      "team_id": 110,
-      "xba": 0.2,
-      "games_played": 62,
-      "at_bats": 171,
-      "ab_per_game": 2.758
-    },
-    "687952": {
-      "name": "Christian Encarnacion-Strand",
-      "team_id": 110,
-      "xba": 0.267,
-      "games_played": 25,
-      "at_bats": 84,
-      "ab_per_game": 3.36
-    },
-    "681047": {
-      "name": "Christian Franklin",
-      "team_id": 110,
-      "xba": 0.167,
-      "games_played": 12,
-      "at_bats": 22,
-      "ab_per_game": 1.833
-    },
-    "691723": {
-      "name": "Coby Mayo",
-      "team_id": 110,
-      "xba": 0.223,
-      "games_played": 100,
-      "at_bats": 299,
-      "ab_per_game": 2.99
-    },
-    "681297": {
-      "name": "Colton Cowser",
-      "team_id": 110,
-      "xba": 0.215,
-      "games_played": 112,
-      "at_bats": 256,
-      "ab_per_game": 2.286
-    },
-    "687637": {
-      "name": "Dylan Beavers",
-      "team_id": 110,
-      "xba": 0.229,
-      "games_played": 71,
-      "at_bats": 207,
-      "ab_per_game": 2.915
-    },
-    "683002": {
-      "name": "Gunnar Henderson",
-      "team_id": 110,
-      "xba": 0.243,
-      "games_played": 125,
-      "at_bats": 505,
-      "ab_per_game": 4.04
-    },
-    "702616": {
-      "name": "Jackson Holliday",
-      "team_id": 110,
-      "xba": 0.242,
-      "games_played": 74,
-      "at_bats": 217,
-      "ab_per_game": 2.932
-    },
-    "669236": {
-      "name": "Jeremiah Jackson",
-      "team_id": 110,
-      "xba": 0.243,
-      "games_played": 89,
-      "at_bats": 234,
-      "ab_per_game": 2.629
-    },
-    "665750": {
-      "name": "Leody Taveras",
-      "team_id": 110,
-      "xba": 0.215,
-      "games_played": 109,
-      "at_bats": 337,
-      "ab_per_game": 3.092
-    },
-    "624413": {
-      "name": "Pete Alonso",
-      "team_id": 110,
-      "xba": 0.281,
-      "games_played": 126,
-      "at_bats": 472,
-      "ab_per_game": 3.746
-    },
-    "641933": {
-      "name": "Tyler O'Neill",
-      "team_id": 110,
-      "xba": 0.218,
-      "games_played": 82,
-      "at_bats": 222,
-      "ab_per_game": 2.707
-    },
-    "650968": {
-      "name": "Yohel Pozo",
-      "team_id": 110,
-      "xba": 0.243,
-      "games_played": 18,
-      "at_bats": 33,
-      "ab_per_game": 1.833
-    },
-    "668939": {
-      "name": "Adley Rutschman",
-      "team_id": 111,
-      "xba": 0.266,
-      "games_played": 7,
-      "at_bats": 26,
-      "ab_per_game": 3.714
-    },
-    "655316": {
-      "name": "Andruw Monasterio",
-      "team_id": 111,
-      "xba": 0.245,
-      "games_played": 86,
-      "at_bats": 253,
-      "ab_per_game": 2.942
-    },
-    "678011": {
-      "name": "Anthony Seigler",
-      "team_id": 111,
-      "xba": 0.245,
-      "games_played": 44,
-      "at_bats": 139,
-      "ab_per_game": 3.159
-    },
-    "702332": {
-      "name": "Caleb Durbin",
-      "team_id": 111,
-      "xba": 0.241,
-      "games_played": 119,
-      "at_bats": 400,
-      "ab_per_game": 3.361
-    },
-    "678882": {
-      "name": "Ceddanne Rafaela",
-      "team_id": 111,
-      "xba": 0.246,
-      "games_played": 121,
-      "at_bats": 477,
-      "ab_per_game": 3.942
-    },
-    "657136": {
-      "name": "Connor Wong",
-      "team_id": 111,
-      "xba": 0.226,
-      "games_played": 62,
-      "at_bats": 165,
-      "ab_per_game": 2.661
-    },
-    "642201": {
-      "name": "Eli White",
-      "team_id": 111,
-      "xba": 0.216,
-      "games_played": 69,
-      "at_bats": 133,
-      "ab_per_game": 1.928
-    },
-    "663330": {
-      "name": "Jahmai Jones",
-      "team_id": 111,
-      "xba": 0.235,
-      "games_played": 57,
-      "at_bats": 95,
-      "ab_per_game": 1.667
-    },
-    "680776": {
-      "name": "Jarren Duran",
-      "team_id": 111,
-      "xba": 0.229,
-      "games_played": 118,
-      "at_bats": 453,
-      "ab_per_game": 3.839
-    },
-    "681508": {
-      "name": "Mickey Gasper",
-      "team_id": 111,
-      "xba": 0.244,
-      "games_played": 36,
-      "at_bats": 114,
-      "ab_per_game": 3.167
-    },
-    "686765": {
-      "name": "Nick Sogard",
-      "team_id": 111,
-      "xba": 0.256,
-      "games_played": 31,
-      "at_bats": 108,
-      "ab_per_game": 3.484
-    },
-    "575929": {
-      "name": "Willson Contreras",
-      "team_id": 111,
-      "xba": 0.257,
-      "games_played": 115,
-      "at_bats": 396,
-      "ab_per_game": 3.443
-    },
-    "677800": {
-      "name": "Wilyer Abreu",
-      "team_id": 111,
       "xba": 0.261,
-      "games_played": 123,
-      "at_bats": 467,
-      "ab_per_game": 3.797
-    },
-    "608324": {
-      "name": "Alex Bregman",
-      "team_id": 112,
-      "xba": 0.245,
-      "games_played": 124,
-      "at_bats": 491,
-      "ab_per_game": 3.96
-    },
-    "608348": {
-      "name": "Carson Kelly",
-      "team_id": 112,
-      "xba": 0.242,
-      "games_played": 94,
-      "at_bats": 293,
-      "ab_per_game": 3.117
-    },
-    "664023": {
-      "name": "Ian Happ",
-      "team_id": 112,
-      "xba": 0.2,
-      "games_played": 123,
-      "at_bats": 446,
-      "ab_per_game": 3.626
-    },
-    "682634": {
-      "name": "Kevin Alc\u00e1ntara",
-      "team_id": 112,
-      "xba": 0.254,
-      "games_played": 22,
-      "at_bats": 23,
-      "ab_per_game": 1.045
-    },
-    "683737": {
-      "name": "Michael Busch",
-      "team_id": 112,
-      "xba": 0.234,
-      "games_played": 125,
-      "at_bats": 476,
-      "ab_per_game": 3.808
-    },
-    "624424": {
-      "name": "Michael Conforto",
-      "team_id": 112,
-      "xba": 0.219,
-      "games_played": 84,
-      "at_bats": 193,
-      "ab_per_game": 2.298
-    },
-    "665804": {
-      "name": "Miguel Amaya",
-      "team_id": 112,
-      "xba": 0.203,
-      "games_played": 69,
-      "at_bats": 177,
-      "ab_per_game": 2.565
-    },
-    "663538": {
-      "name": "Nico Hoerner",
-      "team_id": 112,
-      "xba": 0.299,
-      "games_played": 124,
-      "at_bats": 494,
-      "ab_per_game": 3.984
-    },
-    "699393": {
-      "name": "Pedro Ram\u00edrez",
-      "team_id": 112,
-      "xba": 0.266,
-      "games_played": 51,
-      "at_bats": 135,
-      "ab_per_game": 2.647
-    },
-    "691718": {
-      "name": "Pete Crow-Armstrong",
-      "team_id": 112,
-      "xba": 0.252,
-      "games_played": 127,
-      "at_bats": 483,
-      "ab_per_game": 3.803
-    },
-    "673548": {
-      "name": "Seiya Suzuki",
-      "team_id": 112,
-      "xba": 0.247,
-      "games_played": 109,
-      "at_bats": 416,
-      "ab_per_game": 3.817
-    },
-    "621438": {
-      "name": "Tyrone Taylor",
-      "team_id": 112,
-      "xba": 0.237,
-      "games_played": 67,
-      "at_bats": 145,
-      "ab_per_game": 2.164
-    },
-    "667472": {
-      "name": "Dane Myers",
-      "team_id": 113,
-      "xba": 0.23,
-      "games_played": 90,
-      "at_bats": 200,
-      "ab_per_game": 2.222
-    },
-    "682829": {
-      "name": "Elly De La Cruz",
-      "team_id": 113,
-      "xba": 0.262,
-      "games_played": 107,
-      "at_bats": 421,
-      "ab_per_game": 3.935
-    },
-    "553993": {
-      "name": "Eugenio Su\u00e1rez",
-      "team_id": 113,
-      "xba": 0.188,
-      "games_played": 95,
-      "at_bats": 337,
-      "ab_per_game": 3.547
-    },
-    "699302": {
-      "name": "H\u00e9ctor Rodr\u00edguez",
-      "team_id": 113,
-      "xba": 0.163,
-      "games_played": 11,
-      "at_bats": 31,
-      "ab_per_game": 2.818
-    },
-    "668709": {
-      "name": "JJ Bleday",
-      "team_id": 113,
-      "xba": 0.239,
-      "games_played": 98,
-      "at_bats": 345,
-      "ab_per_game": 3.52
-    },
-    "624431": {
-      "name": "Jose Trevino",
-      "team_id": 113,
-      "xba": 0.199,
-      "games_played": 35,
-      "at_bats": 99,
-      "ab_per_game": 2.829
-    },
-    "663647": {
-      "name": "Ke'Bryan Hayes",
-      "team_id": 113,
-      "xba": 0.238,
-      "games_played": 72,
-      "at_bats": 181,
-      "ab_per_game": 2.514
-    },
-    "680574": {
-      "name": "Matt McLain",
-      "team_id": 113,
-      "xba": 0.227,
-      "games_played": 102,
-      "at_bats": 328,
-      "ab_per_game": 3.216
-    },
-    "669911": {
-      "name": "Michael Toglia",
-      "team_id": 113,
-      "xba": 0.231,
-      "games_played": 7,
-      "at_bats": 19,
-      "ab_per_game": 2.714
-    },
-    "701398": {
-      "name": "Sal Stewart",
-      "team_id": 113,
-      "xba": 0.244,
-      "games_played": 126,
-      "at_bats": 480,
-      "ab_per_game": 3.81
-    },
-    "670770": {
-      "name": "TJ Friedl",
-      "team_id": 113,
-      "xba": 0.169,
-      "games_played": 71,
-      "at_bats": 215,
-      "ab_per_game": 3.028
-    },
-    "663886": {
-      "name": "Tyler Stephenson",
-      "team_id": 113,
-      "xba": 0.247,
-      "games_played": 98,
-      "at_bats": 306,
-      "ab_per_game": 3.122
-    },
-    "694197": {
-      "name": "Angel Genao",
-      "team_id": 114,
-      "xba": 0.266,
-      "games_played": 11,
-      "at_bats": 37,
-      "ab_per_game": 3.364
-    },
-    "682657": {
-      "name": "Angel Mart\u00ednez",
-      "team_id": 114,
-      "xba": 0.255,
-      "games_played": 86,
-      "at_bats": 290,
-      "ab_per_game": 3.372
-    },
-    "595978": {
-      "name": "Austin Hedges",
-      "team_id": 114,
-      "xba": 0.237,
-      "games_played": 64,
-      "at_bats": 163,
-      "ab_per_game": 2.547
-    },
-    "677587": {
-      "name": "Brayan Rocchio",
-      "team_id": 114,
-      "xba": 0.241,
-      "games_played": 122,
-      "at_bats": 427,
-      "ab_per_game": 3.5
-    },
-    "800050": {
-      "name": "Chase DeLauter",
-      "team_id": 114,
-      "xba": 0.276,
-      "games_played": 107,
-      "at_bats": 403,
-      "ab_per_game": 3.766
-    },
-    "666176": {
-      "name": "Jo Adell",
-      "team_id": 114,
-      "xba": 0.256,
-      "games_played": 13,
-      "at_bats": 46,
-      "ab_per_game": 3.538
-    },
-    "608070": {
-      "name": "Jos\u00e9 Ram\u00edrez",
-      "team_id": 114,
-      "xba": 0.282,
-      "games_played": 93,
-      "at_bats": 340,
-      "ab_per_game": 3.656
-    },
-    "663993": {
-      "name": "Nathaniel Lowe",
-      "team_id": 114,
-      "xba": 0.265,
-      "games_played": 10,
-      "at_bats": 35,
-      "ab_per_game": 3.5
-    },
-    "672275": {
-      "name": "Patrick Bailey",
-      "team_id": 114,
-      "xba": 0.228,
-      "games_played": 30,
-      "at_bats": 82,
-      "ab_per_game": 2.733
-    },
-    "690984": {
-      "name": "Petey Halpin",
-      "team_id": 114,
-      "xba": 0.242,
-      "games_played": 53,
-      "at_bats": 122,
-      "ab_per_game": 2.302
-    },
-    "656555": {
-      "name": "Rhys Hoskins",
-      "team_id": 114,
-      "xba": 0.174,
-      "games_played": 95,
-      "at_bats": 263,
-      "ab_per_game": 2.768
-    },
-    "680757": {
-      "name": "Steven Kwan",
-      "team_id": 114,
-      "xba": 0.27,
-      "games_played": 116,
-      "at_bats": 402,
-      "ab_per_game": 3.466
-    },
-    "683953": {
-      "name": "Travis Bazzana",
-      "team_id": 114,
-      "xba": 0.219,
-      "games_played": 92,
-      "at_bats": 340,
-      "ab_per_game": 3.696
-    },
-    "691182": {
-      "name": "Adael Amador",
-      "team_id": 115,
-      "xba": 0.115,
-      "games_played": 4,
-      "at_bats": 6,
-      "ab_per_game": 1.5
-    },
-    "690924": {
-      "name": "Braxton Fulford",
-      "team_id": 115,
-      "xba": 0.136,
-      "games_played": 41,
-      "at_bats": 65,
-      "ab_per_game": 1.585
-    },
-    "664954": {
-      "name": "Brett Sullivan",
-      "team_id": 115,
-      "xba": 0.224,
-      "games_played": 66,
-      "at_bats": 165,
-      "ab_per_game": 2.5
-    },
-    "694249": {
-      "name": "Cole Carrigg",
-      "team_id": 115,
-      "xba": 0.263,
-      "games_played": 58,
-      "at_bats": 194,
-      "ab_per_game": 3.345
-    },
-    "681393": {
-      "name": "Connor Norby",
-      "team_id": 115,
-      "xba": 0.193,
-      "games_played": 65,
-      "at_bats": 200,
-      "ab_per_game": 3.077
-    },
-    "678662": {
-      "name": "Ezequiel Tovar",
-      "team_id": 115,
-      "xba": 0.219,
-      "games_played": 116,
-      "at_bats": 383,
-      "ab_per_game": 3.302
-    },
-    "664983": {
-      "name": "Jake McCarthy",
-      "team_id": 115,
-      "xba": 0.273,
-      "games_played": 111,
-      "at_bats": 400,
-      "ab_per_game": 3.604
-    },
-    "687597": {
-      "name": "Jordan Beck",
-      "team_id": 115,
-      "xba": 0.205,
-      "games_played": 39,
-      "at_bats": 110,
-      "ab_per_game": 2.821
-    },
-    "666160": {
-      "name": "Mickey Moniak",
-      "team_id": 115,
-      "xba": 0.219,
-      "games_played": 87,
-      "at_bats": 299,
-      "ab_per_game": 3.437
-    },
-    "681198": {
-      "name": "TJ Rumfield",
-      "team_id": 115,
-      "xba": 0.254,
-      "games_played": 122,
-      "at_bats": 434,
-      "ab_per_game": 3.557
-    },
-    "687859": {
-      "name": "Troy Johnston",
-      "team_id": 115,
-      "xba": 0.277,
-      "games_played": 106,
-      "at_bats": 332,
-      "ab_per_game": 3.132
-    },
-    "650489": {
-      "name": "Willi Castro",
-      "team_id": 115,
-      "xba": 0.233,
-      "games_played": 108,
-      "at_bats": 385,
-      "ab_per_game": 3.565
-    },
-    "691728": {
-      "name": "Zac Veen",
-      "team_id": 115,
-      "xba": 0.276,
-      "games_played": 6,
-      "at_bats": 15,
-      "ab_per_game": 2.5
-    },
-    "701162": {
-      "name": "Ben Malgeri",
-      "team_id": 116,
-      "xba": 0.235,
-      "games_played": 30,
-      "at_bats": 57,
-      "ab_per_game": 1.9
-    },
-    "814430": {
-      "name": "Brett Callahan",
-      "team_id": 116,
-      "xba": 0.414,
-      "games_played": 3,
-      "at_bats": 9,
-      "ab_per_game": 3.0
-    },
-    "690993": {
-      "name": "Colt Keith",
-      "team_id": 116,
-      "xba": 0.275,
-      "games_played": 116,
-      "at_bats": 330,
-      "ab_per_game": 2.845
-    },
-    "667452": {
-      "name": "Corey Julks",
-      "team_id": 116,
-      "xba": 0.067,
-      "games_played": 2,
-      "at_bats": 4,
-      "ab_per_game": 2.0
-    },
-    "693307": {
-      "name": "Dillon Dingler",
-      "team_id": 116,
-      "xba": 0.273,
-      "games_played": 117,
-      "at_bats": 447,
-      "ab_per_game": 3.821
-    },
-    "680664": {
-      "name": "Eduardo Valencia",
-      "team_id": 116,
-      "xba": 0.258,
-      "games_played": 20,
-      "at_bats": 58,
-      "ab_per_game": 2.9
-    },
-    "650402": {
-      "name": "Gleyber Torres",
-      "team_id": 116,
-      "xba": 0.253,
-      "games_played": 69,
-      "at_bats": 259,
-      "ab_per_game": 3.754
-    },
-    "701678": {
-      "name": "Hao-Yu Lee",
-      "team_id": 116,
-      "xba": 0.238,
-      "games_played": 81,
-      "at_bats": 208,
-      "ab_per_game": 2.568
-    },
-    "595879": {
-      "name": "Javier B\u00e1ez",
-      "team_id": 116,
-      "xba": 0.249,
-      "games_played": 39,
-      "at_bats": 137,
-      "ab_per_game": 3.513
-    },
-    "805808": {
-      "name": "Kevin McGonigle",
-      "team_id": 116,
-      "xba": 0.26,
-      "games_played": 122,
-      "at_bats": 469,
-      "ab_per_game": 3.844
-    },
-    "703601": {
-      "name": "Max Clark",
-      "team_id": 116,
-      "xba": 0.257,
-      "games_played": 17,
-      "at_bats": 66,
-      "ab_per_game": 3.882
-    },
-    "679529": {
-      "name": "Spencer Torkelson",
-      "team_id": 116,
-      "xba": 0.219,
-      "games_played": 125,
-      "at_bats": 429,
-      "ab_per_game": 3.432
-    },
-    "656716": {
-      "name": "Zach McKinstry",
-      "team_id": 116,
-      "xba": 0.239,
-      "games_played": 101,
-      "at_bats": 303,
-      "ab_per_game": 3.0
-    },
-    "701358": {
-      "name": "Cam Smith",
-      "team_id": 117,
-      "xba": 0.245,
-      "games_played": 123,
-      "at_bats": 403,
-      "ab_per_game": 3.276
-    },
-    "543877": {
-      "name": "Christian V\u00e1zquez",
-      "team_id": 117,
-      "xba": 0.199,
-      "games_played": 73,
-      "at_bats": 208,
-      "ab_per_game": 2.849
-    },
-    "572233": {
-      "name": "Christian Walker",
-      "team_id": 117,
-      "xba": 0.225,
-      "games_played": 122,
-      "at_bats": 449,
-      "ab_per_game": 3.68
-    },
-    "662139": {
-      "name": "Daulton Varsho",
-      "team_id": 117,
-      "xba": 0.232,
-      "games_played": 99,
-      "at_bats": 333,
-      "ab_per_game": 3.364
-    },
-    "670623": {
-      "name": "Isaac Paredes",
-      "team_id": 117,
-      "xba": 0.25,
-      "games_played": 119,
-      "at_bats": 436,
-      "ab_per_game": 3.664
-    },
-    "665161": {
-      "name": "Jeremy Pe\u00f1a",
-      "team_id": 117,
-      "xba": 0.281,
-      "games_played": 78,
-      "at_bats": 310,
-      "ab_per_game": 3.974
-    },
-    "514888": {
-      "name": "Jose Altuve",
-      "team_id": 117,
-      "xba": 0.221,
-      "games_played": 100,
-      "at_bats": 386,
-      "ab_per_game": 3.86
-    },
-    "664774": {
-      "name": "LaMonte Wade Jr.",
-      "team_id": 117,
-      "xba": 0.201,
-      "games_played": 33,
-      "at_bats": 81,
-      "ab_per_game": 2.455
-    },
-    "676369": {
-      "name": "Nelson Vel\u00e1zquez",
-      "team_id": 117,
-      "xba": 0.256,
-      "games_played": 34,
-      "at_bats": 74,
-      "ab_per_game": 2.176
-    },
-    "669397": {
-      "name": "Nick Allen",
-      "team_id": 117,
-      "xba": 0.21,
-      "games_played": 69,
-      "at_bats": 112,
-      "ab_per_game": 1.623
-    },
-    "666211": {
-      "name": "Taylor Trammell",
-      "team_id": 117,
-      "xba": 0.201,
-      "games_played": 68,
-      "at_bats": 178,
-      "ab_per_game": 2.618
-    },
-    "673237": {
-      "name": "Yainer Diaz",
-      "team_id": 117,
-      "xba": 0.271,
-      "games_played": 66,
-      "at_bats": 234,
-      "ab_per_game": 3.545
-    },
-    "670541": {
-      "name": "Yordan Alvarez",
-      "team_id": 117,
-      "xba": 0.327,
-      "games_played": 124,
-      "at_bats": 450,
-      "ab_per_game": 3.629
-    },
-    "677951": {
-      "name": "Bobby Witt Jr.",
-      "team_id": 118,
-      "xba": 0.298,
-      "games_played": 108,
-      "at_bats": 422,
-      "ab_per_game": 3.907
-    },
-    "695600": {
-      "name": "Carter Jensen",
-      "team_id": 118,
-      "xba": 0.198,
       "games_played": 118,
-      "at_bats": 413,
-      "ab_per_game": 3.5
-    },
-    "686555": {
-      "name": "Isaac Collins",
-      "team_id": 118,
-      "xba": 0.229,
-      "games_played": 114,
-      "at_bats": 358,
-      "ab_per_game": 3.14
-    },
-    "695506": {
-      "name": "Jac Caglianone",
-      "team_id": 118,
-      "xba": 0.282,
-      "games_played": 118,
-      "at_bats": 425,
-      "ab_per_game": 3.602
-    },
-    "670231": {
-      "name": "John Rave",
-      "team_id": 118,
-      "xba": 0.226,
-      "games_played": 25,
-      "at_bats": 55,
-      "ab_per_game": 2.2
-    },
-    "664728": {
-      "name": "Kyle Isbel",
-      "team_id": 118,
-      "xba": 0.23,
-      "games_played": 69,
-      "at_bats": 201,
-      "ab_per_game": 2.913
-    },
-    "571912": {
-      "name": "Luke Maile",
-      "team_id": 118,
-      "xba": 0.174,
-      "games_played": 8,
-      "at_bats": 21,
-      "ab_per_game": 2.625
-    },
-    "672580": {
-      "name": "Maikel Garcia",
-      "team_id": 118,
-      "xba": 0.271,
-      "games_played": 71,
-      "at_bats": 277,
-      "ab_per_game": 3.901
-    },
-    "686681": {
-      "name": "Michael Massey",
-      "team_id": 118,
-      "xba": 0.241,
-      "games_played": 106,
-      "at_bats": 327,
-      "ab_per_game": 3.085
-    },
-    "679845": {
-      "name": "Nick Loftin",
-      "team_id": 118,
-      "xba": 0.231,
-      "games_played": 88,
-      "at_bats": 267,
-      "ab_per_game": 3.034
-    },
-    "521692": {
-      "name": "Salvador Perez",
-      "team_id": 118,
-      "xba": 0.232,
-      "games_played": 117,
-      "at_bats": 449,
-      "ab_per_game": 3.838
-    },
-    "686475": {
-      "name": "Tyler Tolbert",
-      "team_id": 118,
-      "xba": 0.257,
-      "games_played": 57,
-      "at_bats": 93,
-      "ab_per_game": 1.632
-    },
-    "686469": {
-      "name": "Vinnie Pasquantino",
-      "team_id": 118,
-      "xba": 0.246,
-      "games_played": 81,
-      "at_bats": 301,
-      "ab_per_game": 3.716
-    },
-    "669743": {
-      "name": "Alex Call",
-      "team_id": 119,
-      "xba": 0.209,
-      "games_played": 68,
-      "at_bats": 130,
-      "ab_per_game": 1.912
-    },
-    "681624": {
-      "name": "Andy Pages",
-      "team_id": 119,
-      "xba": 0.273,
-      "games_played": 126,
-      "at_bats": 487,
-      "ab_per_game": 3.865
-    },
-    "666163": {
-      "name": "Ben Rortvedt",
-      "team_id": 119,
-      "xba": 0.192,
-      "games_played": 9,
-      "at_bats": 13,
-      "ab_per_game": 1.444
-    },
-    "571771": {
-      "name": "Enrique Hern\u00e1ndez",
-      "team_id": 119,
-      "xba": 0.193,
-      "games_played": 15,
-      "at_bats": 28,
-      "ab_per_game": 1.867
-    },
-    "518692": {
-      "name": "Freddie Freeman",
-      "team_id": 119,
-      "xba": 0.299,
-      "games_played": 123,
-      "at_bats": 464,
-      "ab_per_game": 3.772
-    },
-    "676439": {
-      "name": "Hunter Feduccia",
-      "team_id": 119,
-      "xba": 0.248,
-      "games_played": 60,
-      "at_bats": 141,
-      "ab_per_game": 2.35
-    },
-    "663656": {
-      "name": "Kyle Tucker",
-      "team_id": 119,
-      "xba": 0.254,
-      "games_played": 119,
-      "at_bats": 422,
-      "ab_per_game": 3.546
-    },
-    "571970": {
-      "name": "Max Muncy",
-      "team_id": 119,
-      "xba": 0.241,
-      "games_played": 117,
-      "at_bats": 385,
-      "ab_per_game": 3.291
-    },
-    "500743": {
-      "name": "Miguel Rojas",
-      "team_id": 119,
-      "xba": 0.289,
-      "games_played": 81,
-      "at_bats": 169,
-      "ab_per_game": 2.086
-    },
-    "605141": {
-      "name": "Mookie Betts",
-      "team_id": 119,
-      "xba": 0.274,
-      "games_played": 90,
-      "at_bats": 349,
-      "ab_per_game": 3.878
-    },
-    "660271": {
-      "name": "Shohei Ohtani",
-      "team_id": 119,
-      "xba": 0.296,
-      "games_played": 121,
-      "at_bats": 453,
-      "ab_per_game": 3.744
-    },
-    "606192": {
-      "name": "Teoscar Hern\u00e1ndez",
-      "team_id": 119,
-      "xba": 0.245,
-      "games_played": 92,
-      "at_bats": 320,
-      "ab_per_game": 3.478
-    },
-    "669242": {
-      "name": "Tommy Edman",
-      "team_id": 119,
-      "xba": 0.262,
-      "games_played": 51,
-      "at_bats": 170,
-      "ab_per_game": 3.333
-    },
-    "694673": {
-      "name": "Abimelec Ortiz",
-      "team_id": 120,
-      "xba": 0.28,
-      "games_played": 15,
-      "at_bats": 43,
-      "ab_per_game": 2.867
-    },
-    "665953": {
-      "name": "Andr\u00e9s Chaparro",
-      "team_id": 120,
-      "xba": 0.246,
-      "games_played": 55,
-      "at_bats": 112,
-      "ab_per_game": 2.036
-    },
-    "687605": {
-      "name": "Andrew Pinckney",
-      "team_id": 120,
-      "xba": 0.252,
-      "games_played": 8,
-      "at_bats": 11,
-      "ab_per_game": 1.375
-    },
-    "691781": {
-      "name": "Brady House",
-      "team_id": 120,
-      "xba": 0.261,
-      "games_played": 64,
-      "at_bats": 229,
-      "ab_per_game": 3.578
-    },
-    "682928": {
-      "name": "CJ Abrams",
-      "team_id": 120,
-      "xba": 0.256,
-      "games_played": 123,
-      "at_bats": 465,
-      "ab_per_game": 3.78
-    },
-    "695734": {
-      "name": "Daylen Lile",
-      "team_id": 120,
-      "xba": 0.252,
-      "games_played": 125,
-      "at_bats": 477,
-      "ab_per_game": 3.816
-    },
-    "686611": {
-      "name": "Dylan Crews",
-      "team_id": 120,
-      "xba": 0.236,
-      "games_played": 75,
-      "at_bats": 278,
-      "ab_per_game": 3.707
-    },
-    "695670": {
-      "name": "Harry Ford",
-      "team_id": 120,
-      "xba": 0.144,
-      "games_played": 18,
-      "at_bats": 52,
-      "ab_per_game": 2.889
-    },
-    "696285": {
-      "name": "Jacob Young",
-      "team_id": 120,
-      "xba": 0.265,
-      "games_played": 111,
-      "at_bats": 341,
-      "ab_per_game": 3.072
-    },
-    "678391": {
-      "name": "Jorbit Vivas",
-      "team_id": 120,
-      "xba": 0.239,
-      "games_played": 93,
-      "at_bats": 228,
-      "ab_per_game": 2.452
-    },
-    "677588": {
-      "name": "Jos\u00e9 Tena",
-      "team_id": 120,
-      "xba": 0.234,
-      "games_played": 95,
-      "at_bats": 217,
-      "ab_per_game": 2.284
-    },
-    "660688": {
-      "name": "Keibert Ruiz",
-      "team_id": 120,
-      "xba": 0.244,
-      "games_played": 81,
-      "at_bats": 262,
-      "ab_per_game": 3.235
-    },
-    "683083": {
-      "name": "Nasim Nu\u00f1ez",
-      "team_id": 120,
-      "xba": 0.222,
-      "games_played": 116,
-      "at_bats": 359,
-      "ab_per_game": 3.095
-    },
-    "805999": {
-      "name": "A.J. Ewing",
-      "team_id": 121,
-      "xba": 0.256,
-      "games_played": 86,
-      "at_bats": 312,
-      "ab_per_game": 3.628
-    },
-    "666182": {
-      "name": "Bo Bichette",
-      "team_id": 121,
-      "xba": 0.28,
-      "games_played": 126,
-      "at_bats": 500,
-      "ab_per_game": 3.968
-    },
-    "683146": {
-      "name": "Brett Baty",
-      "team_id": 121,
-      "xba": 0.228,
-      "games_played": 112,
-      "at_bats": 347,
-      "ab_per_game": 3.098
-    },
-    "701807": {
-      "name": "Carson Benge",
-      "team_id": 121,
-      "xba": 0.276,
-      "games_played": 121,
-      "at_bats": 455,
-      "ab_per_game": 3.76
-    },
-    "666624": {
-      "name": "Christopher Morel",
-      "team_id": 121,
-      "xba": 0.184,
-      "games_played": 22,
-      "at_bats": 68,
-      "ab_per_game": 3.091
-    },
-    "665506": {
-      "name": "Cristian Pache",
-      "team_id": 121,
-      "xba": 0.097,
-      "games_played": 7,
-      "at_bats": 6,
-      "ab_per_game": 0.857
-    },
-    "682626": {
-      "name": "Francisco Alvarez",
-      "team_id": 121,
-      "xba": 0.234,
-      "games_played": 88,
-      "at_bats": 284,
-      "ab_per_game": 3.227
-    },
-    "596019": {
-      "name": "Francisco Lindor",
-      "team_id": 121,
-      "xba": 0.252,
-      "games_played": 70,
-      "at_bats": 268,
-      "ab_per_game": 3.829
-    },
-    "676724": {
-      "name": "Jared Young",
-      "team_id": 121,
-      "xba": 0.244,
-      "games_played": 78,
-      "at_bats": 222,
-      "ab_per_game": 2.846
-    },
-    "593871": {
-      "name": "Jorge Polanco",
-      "team_id": 121,
-      "xba": 0.189,
-      "games_played": 37,
-      "at_bats": 135,
-      "ab_per_game": 3.649
-    },
-    "673357": {
-      "name": "Luis Robert Jr.",
-      "team_id": 121,
-      "xba": 0.232,
-      "games_played": 48,
-      "at_bats": 163,
-      "ab_per_game": 3.396
-    },
-    "620443": {
-      "name": "Luis Torrens",
-      "team_id": 121,
-      "xba": 0.236,
-      "games_played": 75,
-      "at_bats": 206,
-      "ab_per_game": 2.747
-    },
-    "543760": {
-      "name": "Marcus Semien",
-      "team_id": 121,
-      "xba": 0.241,
-      "games_played": 107,
-      "at_bats": 379,
-      "ab_per_game": 3.542
+      "at_bats": 451,
+      "ab_per_game": 3.822
     }
   },
   "sp_xbaa": {
-    "808963": 0.239,
-    "650633": 0.239,
-    "645261": 0.245,
-    "669461": 0.266,
-    "694297": 0.235,
-    "656794": 0.245,
-    "453286": 0.25,
-    "700712": 0.198,
-    "800048": 0.221,
-    "607536": 0.283,
-    "476594": 0.248,
-    "676917": 0.24,
-    "694973": 0.21,
-    "677958": 0.256,
-    "700363": 0.299,
-    "605135": 0.284,
-    "695505": 0.2,
-    "605400": 0.245,
-    "605280": 0.256,
-    "701542": 0.265,
-    "669160": 0.245,
-    "656876": 0.227,
-    "801139": 0.2,
-    "669302": 0.233,
-    "671737": 0.229,
-    "695549": 0.298
+    "669923": 0.253,
+    "663903": 0.265,
+    "656550": 0.253,
+    "688107": 0.251,
+    "668909": 0.223,
+    "594798": 0.238,
+    "641743": 0.26,
+    "669456": 0.296,
+    "700241": 0.283,
+    "694738": 0.23,
+    "663567": 0.202,
+    "680694": 0.236,
+    "677976": 0.288,
+    "674841": 0.259,
+    "680570": 0.288,
+    "695611": 0.251,
+    "543037": 0.234,
+    "693855": 0.223
   },
   "team_overall_xbaa": {
-    "133": 0.2311591709034024,
-    "134": 0.22473613027877445,
-    "135": 0.2310980837115482,
-    "136": 0.2366561014263074,
-    "137": 0.24915661736822148,
-    "138": 0.2541961852861036,
-    "139": 0.24534773413897276,
-    "140": 0.24265559385772487,
-    "141": 0.22438590476190473,
-    "142": 0.23852755102040818,
-    "143": 0.22449860794735513,
-    "144": 0.23431876437725926,
-    "145": 0.2375548128342246,
-    "146": 0.237380701754386,
-    "147": 0.23112950819672134,
-    "158": 0.2141601851851852,
-    "108": 0.23090236559139782,
-    "109": 0.2570481053480247,
-    "110": 0.24638379994563742,
-    "111": 0.23126178812002451,
-    "112": 0.25544352409638554,
-    "113": 0.23804244762954793,
-    "114": 0.22816525526252115,
-    "115": 0.27433211070356783,
-    "116": 0.23101069876295557,
-    "117": 0.2164902031930334,
-    "118": 0.2570369051472968,
-    "119": 0.22122711390635916,
-    "120": 0.24111600183402115,
-    "121": 0.2349445399828031
+    "133": 0.23495710455764074,
+    "136": 0.23685650105708247,
+    "137": 0.24825285605483627,
+    "138": 0.2538336483931947,
+    "139": 0.24498390092879255,
+    "140": 0.2430129990714949,
+    "141": 0.224117513267627,
+    "110": 0.24664312668463606,
+    "108": 0.23073302207130728,
+    "144": 0.23534988640051932,
+    "113": 0.23739700272479566,
+    "114": 0.22751259899208057,
+    "145": 0.23715850430178687,
+    "147": 0.23080903435217742,
+    "117": 0.21596028880866427,
+    "118": 0.2577204610951009,
+    "120": 0.23968949771689496,
+    "158": 0.2138680682510664
   },
   "team_bullpen_xbaa": {
-    "133": 0.22879512735326685,
-    "134": 0.2083686934023286,
-    "135": 0.17598227848101267,
-    "136": 0.23420329218106997,
-    "137": 0.24595139732685295,
-    "138": 0.23619379258137774,
-    "139": 0.23347919010123735,
-    "140": 0.2399174406604747,
-    "141": 0.21345378151260502,
-    "142": 0.2305317757009346,
-    "143": 0.20874430128840438,
-    "144": 0.20900109170305675,
-    "145": 0.23627937649880099,
-    "146": 0.22338720829732067,
-    "147": 0.22302033660589063,
-    "158": 0.21230603889457522,
-    "108": 0.22880590062111802,
-    "109": 0.22649521322889468,
-    "110": 0.23488235294117646,
-    "111": 0.1995124309392265,
-    "112": 0.23833766233766232,
-    "113": 0.21703410059676048,
-    "114": 0.21407894736842104,
-    "115": 0.2706091703056768,
-    "116": 0.22206250000000002,
-    "117": 0.21073750879662212,
-    "118": 0.25260786516853934,
-    "119": 0.20918472468916516,
-    "120": 0.23178977272727266,
-    "121": 0.22814758269720103
+    "133": 0.22713801452784502,
+    "136": 0.23485966386554621,
+    "137": 0.24176106194690267,
+    "138": 0.23595195195195195,
+    "139": 0.22961959287531805,
+    "140": 0.23977001013171226,
+    "141": 0.21199137931034484,
+    "110": 0.23447711864406778,
+    "108": 0.22777404580152677,
+    "144": 0.21333962264150944,
+    "113": 0.21702095557418274,
+    "114": 0.2135807692307692,
+    "145": 0.23075563258232235,
+    "147": 0.2218851211072664,
+    "117": 0.20977073170731705,
+    "118": 0.2524075723830735,
+    "120": 0.22886541244573086,
+    "158": 0.2089916230366492
   },
   "team_games_played": {
-    "139": 125,
-    "147": 125,
-    "111": 126,
-    "141": 127,
-    "110": 126,
-    "145": 125,
-    "142": 127,
-    "114": 126,
-    "116": 126,
-    "118": 127,
-    "117": 126,
-    "140": 126,
-    "136": 126,
-    "108": 126,
-    "133": 126,
-    "144": 126,
-    "143": 127,
-    "146": 127,
-    "120": 127,
-    "121": 127,
-    "158": 126,
-    "112": 127,
-    "138": 127,
-    "134": 128,
-    "113": 126,
-    "119": 127,
-    "135": 127,
-    "109": 127,
-    "137": 125,
-    "115": 126
+    "139": 126,
+    "147": 126,
+    "111": 127,
+    "141": 128,
+    "110": 127,
+    "145": 126,
+    "142": 128,
+    "114": 127,
+    "116": 127,
+    "118": 128,
+    "117": 127,
+    "140": 127,
+    "136": 127,
+    "108": 127,
+    "133": 127,
+    "144": 127,
+    "143": 128,
+    "146": 128,
+    "120": 128,
+    "121": 128,
+    "158": 127,
+    "112": 128,
+    "138": 128,
+    "134": 129,
+    "113": 127,
+    "119": 128,
+    "135": 128,
+    "109": 128,
+    "137": 126,
+    "115": 127
   }
 }
